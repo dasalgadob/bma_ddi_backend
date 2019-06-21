@@ -1,11 +1,13 @@
 class InterviewsController < ApplicationController
+  include Pagy::Backend
+  
   before_action :set_interview, only: [:show, :update, :destroy]
 
   # GET /interviews
   def index
-    @interviews = Interview.all
-    json_string = InterviewSerializer.new(@interviews).serialized_json
-    render json: json_string
+    @interviews = pagy(Interview.all, items: params[:items])
+    #json_string = InterviewSerializer.new(@interviews[1]).serialized_json
+    render json: @interviews
   end
 
   # GET /interviews/1

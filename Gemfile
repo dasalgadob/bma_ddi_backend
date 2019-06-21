@@ -49,3 +49,4 @@ gem 'has_scope'
 #Gem for serialization to be able to use the objets through an API
 gem 'fast_jsonapi'
 gem 'devise'
+gem 'pagy' ##Pagination gem faster than will_paginate
