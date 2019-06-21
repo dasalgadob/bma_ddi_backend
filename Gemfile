@@ -50,3 +50,4 @@ gem 'has_scope'
 gem 'fast_jsonapi'
 gem 'devise'
 gem 'pagy' ##Pagination gem faster than will_paginate
+gem 'rack-cors' ##To allow from different origins to request the backend
