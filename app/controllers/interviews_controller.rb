@@ -1,11 +1,12 @@
 class InterviewsController < ApplicationController
   include Pagy::Backend
   
+  has_scope :by_name, :by_company, :by_interviewer
   before_action :set_interview, only: [:show, :update, :destroy]
 
   # GET /interviews
   def index
-    @interviews = pagy(Interview.all, items: params[:items])
+    @interviews = pagy(apply_scopes(Interview), items: params[:items])
     #json_string = InterviewSerializer.new(@interviews[1]).serialized_json
     render json: @interviews
   end
