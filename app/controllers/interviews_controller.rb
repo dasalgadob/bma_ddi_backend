@@ -4,8 +4,8 @@ class InterviewsController < ApplicationController
   # GET /interviews
   def index
     @interviews = Interview.all
-
-    render json: @interviews
+    json_string = InterviewSerializer.new(@interviews).serialized_json
+    render json: json_string
   end
 
   # GET /interviews/1
