@@ -2,6 +2,8 @@ class CandidatesController < ApplicationController
   include Pagy::Backend
   before_action :set_candidate, only: [:show, :update, :destroy]
 
+
+
   # GET /candidates
   def index
     @candidates = pagy(Candidate.all, items: params[:items])
