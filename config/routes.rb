@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :candidates
   resources :interviews
   devise_for :users, controllers: {
     sessions: 'users/sessions',
