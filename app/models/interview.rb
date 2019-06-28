@@ -3,8 +3,8 @@ class Interview < ApplicationRecord
   serialize :motivational_questions, JSON
   belongs_to :user
 
-  scope :by_name, ->(n) { where("name ilike ?", '%' +n + '%')}
-  scope :by_company, ->(c) { where("company ilike ?", '%' +c + '%')}
+  scope :by_name, ->(n) { where("interviews.name ilike ?", '%' +n + '%')}
+  scope :by_company, ->(c) { where("interviews.company ilike ?", '%' +c + '%')}
   scope :by_interviewer, ->(int) { searchTerm = '%' +int + '%'
     joins(:user)
   .where("users.name || ' ' || users.last_name  ilike ? or  users.name ilike ? or users.last_name ilike ? or users.email ilike ?",searchTerm, searchTerm, searchTerm, searchTerm)}
