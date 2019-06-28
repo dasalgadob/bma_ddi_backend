@@ -6,7 +6,7 @@ class InterviewsController < ApplicationController
 
   # GET /interviews
   def index
-    @interviews = pagy(apply_scopes(Interview.includes(:user).order(sort_column + " " + sort_direction)), items: params[:items])
+    @interviews = pagy(apply_scopes(Interview.order(sort_column + " " + sort_direction)), items: params[:items])
     #json_string = InterviewSerializer.new(@interviews[1]).serialized_json
     render json: @interviews.as_json(include: :user)
   end

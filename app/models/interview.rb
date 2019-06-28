@@ -5,5 +5,7 @@ class Interview < ApplicationRecord
 
   scope :by_name, ->(n) { where("name ilike ?", '%' +n + '%')}
   scope :by_company, ->(c) { where("company ilike ?", '%' +c + '%')}
-  scope :by_interviewer, ->(int) { joins(:user).where("users.name ilike ? or users.last_name ilike ? or users.email ilike ?",'%' +int + '%','%' +int + '%','%' +int + '%')}
+  scope :by_interviewer, ->(int) { searchTerm = '%' +int + '%'
+    joins(:user)
+  .where("users.name || ' ' || users.last_name  ilike ? or  users.name ilike ? or users.last_name ilike ? or users.email ilike ?",searchTerm, searchTerm, searchTerm, searchTerm)}
 end
