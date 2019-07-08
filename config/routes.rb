@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :dimensions
   resources :translations
   resources :results
   resources :candidates

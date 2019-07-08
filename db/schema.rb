@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_07_07_162907) do
+ActiveRecord::Schema.define(version: 2019_07_07_163428) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -20,6 +20,15 @@ ActiveRecord::Schema.define(version: 2019_07_07_162907) do
     t.string "email"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+  end
+
+  create_table "dimensions", force: :cascade do |t|
+    t.bigint "name_id"
+    t.bigint "description_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["description_id"], name: "index_dimensions_on_description_id"
+    t.index ["name_id"], name: "index_dimensions_on_name_id"
   end
 
   create_table "interviews", force: :cascade do |t|
@@ -83,6 +92,8 @@ ActiveRecord::Schema.define(version: 2019_07_07_162907) do
     t.index ["uid", "provider"], name: "index_users_on_uid_and_provider", unique: true
   end
 
+  add_foreign_key "dimensions", "translations", column: "description_id"
+  add_foreign_key "dimensions", "translations", column: "name_id"
   add_foreign_key "interviews", "users"
   add_foreign_key "results", "candidates"
   add_foreign_key "results", "users"
