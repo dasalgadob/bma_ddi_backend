@@ -52,3 +52,4 @@ gem 'pagy' ##Pagination gem faster than will_paginate
 gem 'rack-cors' ##To allow from different origins to request the backend
 gem 'devise_token_auth'
 gem "seedbank" #Gem to allow execution of custom seeds
+gem 'json'
