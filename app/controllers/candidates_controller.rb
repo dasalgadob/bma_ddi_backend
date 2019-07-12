@@ -1,12 +1,12 @@
 class CandidatesController < ApplicationController
   include Pagy::Backend
   before_action :set_candidate, only: [:show, :update, :destroy]
-
+  has_scope :by_name, :by_email
 
 
   # GET /candidates
   def index
-    @candidates = pagy(Candidate.all, items: params[:items])
+    @candidates = pagy(apply_scopes(Candidate.all), items: params[:items])
 
     render json: @candidates
   end
