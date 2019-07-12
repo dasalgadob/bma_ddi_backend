@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_07_07_163428) do
+ActiveRecord::Schema.define(version: 2019_07_10_174253) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -27,6 +27,8 @@ ActiveRecord::Schema.define(version: 2019_07_07_163428) do
     t.bigint "description_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.bigint "actions_id"
+    t.index ["actions_id"], name: "index_dimensions_on_actions_id"
     t.index ["description_id"], name: "index_dimensions_on_description_id"
     t.index ["name_id"], name: "index_dimensions_on_name_id"
   end
@@ -40,6 +42,21 @@ ActiveRecord::Schema.define(version: 2019_07_07_163428) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["user_id"], name: "index_interviews_on_user_id"
+  end
+
+  create_table "questions", force: :cascade do |t|
+    t.string "name"
+    t.text "description"
+    t.text "code"
+    t.bigint "translation_id"
+    t.bigint "translation_b_id"
+    t.boolean "mandatory", default: false
+    t.bigint "dimension_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["dimension_id"], name: "index_questions_on_dimension_id"
+    t.index ["translation_b_id"], name: "index_questions_on_translation_b_id"
+    t.index ["translation_id"], name: "index_questions_on_translation_id"
   end
 
   create_table "results", force: :cascade do |t|
@@ -92,9 +109,13 @@ ActiveRecord::Schema.define(version: 2019_07_07_163428) do
     t.index ["uid", "provider"], name: "index_users_on_uid_and_provider", unique: true
   end
 
+  add_foreign_key "dimensions", "translations", column: "actions_id"
   add_foreign_key "dimensions", "translations", column: "description_id"
   add_foreign_key "dimensions", "translations", column: "name_id"
   add_foreign_key "interviews", "users"
+  add_foreign_key "questions", "dimensions"
+  add_foreign_key "questions", "translations"
+  add_foreign_key "questions", "translations", column: "translation_b_id"
   add_foreign_key "results", "candidates"
   add_foreign_key "results", "users"
 end
