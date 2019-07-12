@@ -1,0 +1,1134 @@
+[
+    {
+      "id": 1,
+      "name": "Adaptability",
+      "text": "Maintain effectiveness in different tasks, responsibilities and people.",
+      "actions": {
+        "1_1": "Adjust the focus to match the different task requirements.",
+        "1_2": "Set the behavior style of others.",
+        "1_3": "Change priorities to meet changing demands.",
+        "1_4": "Adjust quickly to new responsibilities and tasks."
+      },
+      "questions": {
+        "1_1": "Tell me about two of the people who are directly dependent on you / team members that are totally different from each other. (How have you handled / directed each of them? Give me an example.)",
+        "1_2": "Tell me about a situation where you had to adapt quickly to changing priorities of the organization, department or team. (How did the change affected you?)",
+        "1_3": "Tell me about a time when you had to meet a scheduled deadline while his work was continually interrupted. (What was it that caused you the most difficulty and why?)",
+        "1_4": "Working with people from different backgrounds or cultures can be a real challenge. Can you tell me about a time when he faced the challenge of adapting to a person in history or different cultures? (What happened? What did you do? What was the outcome?).",
+        "1_5": "Tell me about a project / task / assignment important that you work for an internal client, which changed the specifications. (What did you do? How will this affect you?). ",
+        "1_6": "Our customer relationships are likely to vary. Tell me about the internal / external customer with whom you have had a less satisfying relationship. (Why was not successful relationship?).",
+        "1_7": "Moving from _______ (place) to _______ (place) must have been tough. Tell me about problem that arose to make that transition. (How do you handled?).",
+        "1_8": "Sometimes we have to work under new regulations with which we disagree. Tell me about the last time you disagreed with a new policy or procedure instituted by management. (Why? What did you do?).",
+        "1_9": "Tell me the team leader manager / supervisor / who has been more difficult to work. (How you handled this difficult relationship?).",
+        "1_10": "At work we all face problems that are difficult to resolve. Tell me about a problem you did not solve in the first attempt. What did?(Watch for how the candidate varied approach).",
+        "1_11": "SALE POSITION. Tell me about one of his clients whose key contact was a change. (How much time needed to get comfortable with your new contact? What steps did?).",
+        "1_12": "NO EXPERIENCE. I see you have moved several times. What was the most difficult problem that faced the move? (How is it managed?).",
+        "1_13": "NO EXPERIENCE. Moving from college to graduate school can be a radical change. (Tell me about a particular problem you had when you made this transition)."
+      }
+    },
+    {
+      "id": 2,
+      "name": "Analysis / Assessment of problems",
+      "text": "Obtain relevant information and identifying key issues and relationships from a base of information;  relate and compare data from different sources;  identify cause-effect relationships.",
+      "actions": {
+        "2_1": "Detecting the existence of problems or opportunities.",
+        "2_2": "Gather all relevant information.",
+        "2_3": "Identify key issues or problems.",
+        "2_4": "Organize information.",
+        "2_5": "Recognize trends.",
+        "2_6": "Identify cause-effect relationships."
+      },
+      "questions": {
+        "2_1": "We've all been in situations where someone had to complain about something we discovered a problem that must be solved. Tell me about a time when this has happened. (Why was not detected before the problem?)",
+        "2_2": "Describe a difficult problem you've had to face in his post. (How he identified or gained a better understanding of the problem?)",
+        "2_3": "If we're lucky, we can sometimes identify a small problem and fix it before it became a major problem. Can you give me an example of a time that could identify a small problem before it became a big deal?)",
+        "2_4": "It is impossible for a manager / team leader / supervisor be aware of all the reasons that an employee / team member may have for not being satisfied with their position. Tell me about a time when you discovered this kind of problem only after the employee resigned or was or was transferred to another department.",
+        "2_5": "Have you ever had to review proposals for pres inlets or tro provider or team? (Tell me about one of those situations).",
+        "2_6": "At one time or another we have all thought we had successfully handled a problem only to discover that in fact had played only a symptom of a larger problem. Can you tell me a time that this has happened ?.",
+        "2_7": "Tell me about a time when you had to analyze or interpret numerical and financial information.",
+        "2_8": "Explain in detail a situation where he had to learn asking many questions to various people. (How do you ask what should I know?).",
+        "2_9": "Tell me about a recent problem you've discovered in your post in ___________ (What sources of information used to identify this problem?).",
+        "2_10": "How have you checked the potential problems with your machine? (Tell me about a potential problem that has been advised).",
+        "2_11": "It is important that someone can fix all machine parts every time something breaks. Tell me about a time when you could not repair them.",
+        "2_12": "Tell me about the most difficult problem that you have to solve in the past year. Did you make this decision alone, or did you engage others in the decision? Why did you approach it this way? What was the outcome?",
+        "2_13": "Tell me about the last time that you had to escalate a problem to a higher level. What was the situation? What action did you take before escalating it? What was the outcome? In retrospect, how would you handle this differently, if at all?",
+        "2_14": "Tell me about a situation where your analysis of a problem crossed organizational boundaries. How did you approach this? What was the outcome?",
+        "2_15": "SALE POSITION. Give me an example of a time when I was not sure I wanted an internal / external customers. (How did you handle the situation?).",
+        "2_16": "SALE POSITION. We've all had clients who feel they know exactly what to buy, but after receiving what they ordered, they realize they really need something else. Tell me about a time when they ordered, they realize that in really need anything else.  Tell me about a time when this has happened.",
+        "2_17": "NO EXPERIENCE. What kind of information have you used to choosing a career? (How is it used? What have you learned?).",
+        "2_18": "NO EXPERIENCE. Explain in detail a situation where you had to research and analyze the results of one of his classes.",
+        "2_19": "NO EXPERIENCE. What type of information used to choose where to study? (How do I play?)."
+      }
+    },
+    {
+      "id": 3,
+      "name": "Practical Learning",
+      "text": "Assimilate and implement, in a timely manner, information regarding the position can vary in complexity.",
+      "actions": {
+        "3_1": "Ask questions to gain new information.",
+        "3_2": "Read on relevant issues.",
+        "3_3": "Acquire skills by watching others.",
+        "3_4": "Improve skills through practice.",
+        "3_5": "Quickly apply new knowledge and skills."
+      },
+      "questions": {
+        "3_1": "In any new job, there are some things quickly grasp and other things that require more time to learn. In his position at __________, tell me about something that has caught on quickly and something that took more time to learn.",
+        "3_2": "Describe a time when you could learn something complex in a short period.",
+        "3_3": "Describe a time when you had difficulty learning complex.",
+        "3_4": "We've all had times when we felt confused / overwhelmed by a project. Tell me about a time when this happened.",
+        "3_5": "It is important to know as much as possible about the internal customers. Tell me about one of your most important internal customers and how you on your needs and priorities are heard. (What sources of information did you use?).",
+        "3_6": "It's hard to keep up with rapid technological changes and innovations that virtually every field experience today. Tell me about an area / field in particular that has changed in a way that you still do not fully understand.",
+        "3_7": "Being un____________ (programmer, accountant, mechanic, etc.) undoubtedly requires much technical knowledge. How do you got? (How long did it?).",
+        "3_8": "Tell me about a complex aspect of his place in __________. (How much time required to learn it?).",
+        "3_9": "Have you ever had to learn about new products, markets or changing procedures? (Tell me about one of these situations and how they acquired new information).",
+        "3_10": "It's hard to know everything about a process or product even when it has worked with him for a long time. Give me an example of a process or product that is not yet fully mastered.",
+        "3_11": "We've all had the experience of not understanding everything about a new product, service or process, even after attending a training session. Can you tell me about an occasion when this happened?",
+        "3_12": "Even after working with a piece of equipment or machinery for a long time, it is inevitable to have still doubts about its operation. Give me an example of a piece of equipment or machinery that has worked long and about which I still have doubts.",
+        "3_13": "SALE POSITION. Tell me about the information you have gathered about a key competitor. (Give me an example of how you used this information).",
+        "3_14": "NO EXPERIENCE. What technical courses have you studied? (Tell me about a study area. How difficult to find? How far dominated the issue? How did you know?)."
+      }
+    },
+    {
+      "id": 4,
+      "name": "Counseling",
+      "text": "Facilitate the development of knowledge and skills of others;  provide timely feedback and guidance to help them achieve their goals.",
+      "actions": {
+        "4_1": {
+          "title": "Efficiently use relationship skills:",
+          "subactions": {
+            "1": "Maintain or increase self-esteem.",
+            "2": "Listen and respond with empathy.",
+            "3": "Share your thoughts, feelings and motivations.",
+            "4": "Provide support without removing responsibility."
+          }
+        },
+        "4_2": "Agreeing on expected results.",
+        "4_3": "Agree on actions to be taken.",
+        "4_4": "Watch as the learner performs the process.",
+        "4_5": "Provide immediate and specific feedback."
+      },
+      "questions": {
+        "4_1": "Tell me about a person who reports directly to you or a team member who has had more success as a result of the assistance / advice you provided. What helped / advised you?",
+        "4_2": "Describe a difficult task that struggled to teach someone perform it. What method did you use? Why did / did not succeed?",
+        "4_3": "We all know that it is difficult to provide effective feedback for improvement. Tell me about a time when their feedback to improve was poorly received by someone with whom you were working.",
+        "4_4": "Describe a recent occasion when someone advised. (What was the task? How, if achieved at all, did the person involved in the process, for example, offering suggestions, listening to their problems?).",
+        "4_5": "Give me an example of a situation where you successfully enhanced the performance of someone who worked for you.",
+        "4_6": "We've all had a chance in our advisory efforts were unsuccessful. Tell me about a time when you worked with someone, but that person did not improve.",
+        "4_7": "Describe how you advised two different people to perform the same task. (What were the similarities and differences in the methods used?).",
+        "4_8": "We have all experienced situations where the person you were advising rejected our offer of assistance. Tell me about a time when this happened. (Since then he has had opportunity to test you in new method? Any example?.",
+        "4_9": "Tell me about a time when you provided feedback to someone after that person had a poor performance.",
+        "4_10": "Counseling takes time and sometimes lack the time to properly advise. Tell me about a time when you did not have adequate time to advise someone. (What happened?).",
+        "4_11": "Give me an example of feedback that you gave someone who was advising that had difficulties with an assignment. (Probe to determine how specific and objective feedback was).",
+        "4_12": "Tell me about a meeting face to face with a sensitive person you had to give feedback to improve. (What happened?)."
+      }
+    },
+    {
+      "id": 5,
+      "name": "Business Association",
+      "text": "Provides programs highest quality, processes and services organization.",
+      "actions": {
+        "5_1": "Creation of structures to enable organization to address the main challenges and opportunities.",
+        "5_2": "Ensures programs, processes and services contribute to general objectives of business.",
+        "5_3": "Maximizes impact of human capital in conducting organizational objectives.",
+        "5_4": "Offers solutions proactively or advice on issues organizational.",
+        "5_5": "Work proactively with leaders for key business develop and promote business strategies."
+      },
+      "questions": {
+        "5_1": "Give an example of the last suggestion for in order to improve another department.",
+        "5_2": "What is the biggest challenge was in frentado in the department? How did you recognize?",
+        "5_3": "Tell me about the last staff meeting in which it might suggest different strategies what affect the business. What strategies suggested?",
+        "5_4": "Explain the last program what development."
+      }
+    },
+    {
+      "id": 6,
+      "name": "Assumption of Risk",
+      "text": "Actions that involve a deliberate attempt to gain a recognized benefit or advantage when potential negative consequences are understood.",
+      "actions": {
+        "6_1": "Making decisions when the outcome is unclear.",
+        "6_2": "Make decisions with potential negative consequences.",
+        "6_3": "Actions that others might avoid.",
+        "6_4": "Perform actions with potential negative consequences."
+      },
+      "questions": {
+        "6_1": "Describe the riskiest career decision you've had to make. (How long did you gather the information to make that decision? How long after that to make the decision? What was the result?",
+        "6_2": "It is impossible to predict the exact outcome of a risky decision. Tell me about a risky decision would be taken but did not.",
+        "6_3": "Describe a time when you decided to try a new approach and not tried to handle a problem. What happened?",
+        "6_4": "Describe a time when you decided to take a risk and was glad I did.",
+        "6_5": "Describe a time when you supported the idea of someone else, which had little chance of success. (Why do you support this idea? What happened?).",
+        "6_6": "It is never easy to take a risky decision, especially when you do not have the support of colleagues / coworkers. Tell me about a risky decision that prevented because he had support from others.",
+        "6_7": "Describe a time when you decided to do something that would have been painful for you if he had failed. (What happened?).",
+        "6_8": "We've all had times when we had to make a decision and friends or colleagues advise us that we avoided the risk. Describe a time when you rejected this advice and took a risky decision. (What happened?).",
+        "6_9": "Describe a time when you decided to take a risk and was glad I did.",
+        "6_10": "Describe one of the biggest occupational hazards has run for the past five years.",
+        "6_11": "Describe a time when you had to make a decision, I had several options (some risky) to choose from. (How did you determine which option represented the greatest reward and which represented the minimum?)."
+      }
+    },
+    {
+      "id": 7,
+      "name": "Catalyst for change",
+      "text": "Realiza los cambios necesarios para mejorar el desarrollo profesional.",
+      "actions": {
+        "7_1": "Build the line to create the kind of organization needed in the future.",
+        "7_2": "Force to business to own and manage the processes and changes leaders.",
+        "7_3": "Create an environment within the organization that encourages, promotes and rewards change.",
+        "7_4": "Develop and implement innovative programs, processes and services that encourage and reward innovation.",
+        "7_5": "Directs and manages the change in the face of resistance and adversity.",
+        "7_6": "Puts in place strategies to accelerate the pace of change.",
+        "7_7": "Works with business leaders to diagnose and plan for proactive change."
+      },
+      "questions": {
+        "7_1": "Have you ever been faced with an experience that employees were not proactive for a change? What did you do?",
+        "7_2": "How have the strategies aligned with the continuous changes in the department? Give me an example.",
+        "7_3": "Suggestions for change have you done to improve the performance of an employee?",
+        "7_4": "Tell me about the last time you met with senior management to develop strategies for change that would be applied?"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Accountability",
+      "text": "A measure of the capacity to be answerable for personal action",
+      "actions": {
+        "8_1": "Accept personal responsibility for the consequences of personal actions.",
+        "8_2": "Avoid placing unnecessary blame on others",
+        "8_3": "Maintains personal commitment to objectives regardless of the success or failure of personal decision",
+        "8_4": "Applies personal lessons learned from past failures to moving forward in achiving future successes"
+      },
+      "questions": {
+        "8_1": "How did you handle an incident when you didn’t deliver as promised?",
+        "8_2": "Describe a time when you proactively responded to find a solution to a problem.",
+        "8_3": "Tell me about a time when you said “it’s my fault” and accepted responsibility for correcting a situation.",
+        "8_4": "What result are you most proud of in your last job?",
+        "8_5": "How do you know if you’ve delivered a quality product or result?",
+        "8_6": "How do you define accountability?",
+        "8_7": "What would you do if you had an employee that has incredible individual results but lacked making team better?",
+        "8_8": "Tell me about the time when it was necessary to admit to others that you had a mistake. How do you handle it?",
+        "8_9": "Give an example of the situation where others had made an error or mistake and you had to take the blame for their actions. How did you feel about doing that?",
+        "8_10": "What is the worst business decision you ever made? What made it is the worst? Would knowing what you do know have helped you to avoid making that decision?",
+        "8_11": "How did you handle an incident when a report didn’t deliver as promised?"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Written Communication",
+      "text": "Express ideas clearly in documents that have the structure, organization, grammar, terminology and appropriate to the characteristics and needs of the public language.",
+      "actions": {
+        "9_1": {
+          "title": "Mechanics - use correct grammar:",
+          "subactions": {
+            "1": "Use the active voice",
+            "2": "Use vocabulary and style appropriate for the audience"
+          }
+        },
+        "9_2": {
+          "title": "Structure - logically organize",
+          "subactions": {
+            "1": "Express ideas clearly and succinctly"
+          }
+        },
+        "9_3": {
+          "title": "Content - addressing the needs of the public:",
+          "subactions": {
+            "1": "Use a style appropriate to the purpose"
+          }
+        }
+      },
+      "questions": {
+        "9_1": "Have you ever had to write technical material to non-technical staff?  Describe one of these writing assignments.",
+        "9_2": "We've all had the experience of writing a memo requiring specific action, only to discover that the people who received it did not do what they were supposed to do. You can tell me about an occasion when this happened?",
+        "9_3": "Have you ever written a procedure or policy to internal / external customers or other members of your organization? Tell me about one of those cases.",
+        "9_4": "What types of writing has done in his post ______________? Can you give me an example?.",
+        "9_5": "You compose and prepare correspondence and documents for external clients without input from others? (Describe a recent occasion when he did this).",
+        "9_6": "Have you ever written instructions for other people? Tell me about a time when someone easily followed instructions and an occasion where someone could not follow your instructions.",
+        "9_7": "Have you ever written letters to answer complaints? Tell me about a recent situation.",
+        "9_8": "We've all had the experience of a letter / document / report is returned to us by a manager / team leader / supervisor because he did not understand what we were trying to say or because the document needed minor corrections in grammar, spelling, etc. Give me an example of a letter / document / report that it has been returned.",
+        "9_9": "We've all had situations where we did not have time to review a letter or document with respect to correction of grammar, punctuation, style and spelling. Tell me about a time when this happened.",
+        "9_10": "Have you ever written letters to your manager / supervisor / team leader? Tell me about a particularly important letter you wrote.",
+        "9_11": "SALE POSITION. Have you written any memorable letter to external customers requesting a quote or promoting a product? Tell me about one of those letters.",
+        "9_12": "SALE POSITION. Have you written sales proposals that were sent to external customers? Tell me about the best proposal ever written. (Why was the best? How do you know it was good?).",
+        "9_13": "SALE POSITION. Have you altered standard proposals or marketing materials to better address the needs and special interests of external leads?  (Tell me about a recent time when you did this. What was the extent of the changes you made?).",
+        "9_14": "SALE POSITION. All vendors have had the experience of having written a sales proposal about which client had many questions. Describe an occasion when this happened."
+      }
+    },
+    {
+      "id": 10,
+      "name": "Hiring and Staffing",
+      "text": "",
+      "actions": {},
+      "questions": {
+        "10_1": "Tell me about a bad hire that you made. Why was the person a bad hire? What did you learn?",
+        "10_2": "Tell me about the last key position that you had open. How did you go about filling the position? What were you looking for in a candidate? How long did it take you fill it?",
+        "10_3": "How do you decide when to hire for potential versus immediate results?",
+        "10_4": "When you are interviewing for your group, what types of attributes would screen out a candidate immediately? Why?"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Safety awareness",
+      "text": "Be aware of the conditions that affect employee safety.",
+      "actions": {
+        "11_1": "Observe the rules and procedures.",
+        "11_2": "Encourage others to observe rules and procedures.",
+        "11_3": "Check the condition of the equipment.",
+        "11_4": "Recognize risks.",
+        "11_5": "Improve unsafe conditions."
+      },
+      "questions": {
+        "11_1": "Tell me about one of his new employees. How you made sure that your new employee was adequately aware policies and procedures security?",
+        "11_2": "It is easy to have an accident or occasional offense when working in a position as complex or dangerous like yours. Tell me about an accident or violation on security that you or your group / team have had in the past year.",
+        "11_3": "Describe a time when you had to deal with someone who broke a rule industrial or security.",
+        "11_4": "Tell me about a time when he lacked staff at work. What measures adopted to ensure that safety is not compromised?",
+        "11_5": "Some of the people who reported directly to you, or members of the team have been injured at work? (Give me a specific example. How happened?).",
+        "11_6": "Accidents happen. Tell me about a work-related accident that had, or has almost had. (Probe in search of a cause).",
+        "11_7": "Tell me about a dangerous task he had to perform. (How will you ensure that you or others are injured, no?).",
+        "11_8": "In his position at ____________, have you ever noticed any process or task that was played unsafely (machinery, equipment / unsafe operator)? (Give me a example. How did you noticed? What did?).",
+        "11_9": "Tell me about a piece of dangerous materials or equipment with which you worked. (What special procedures observed?).",
+        "11_10": "When been really busy in the office or under a lot of pressure, what measures have been taken to ensure that safety was not compromised?.",
+        "11_11": "Sometimes we all took shortcuts to do a job. Tell me about a time when it was necessary to use a shortcut in a security practice to do a job."
+      }
+    },
+    {
+      "id": 12,
+      "name": "Technical / Professional Knowledge ",
+      "text": "Having achieved a satisfactory level of technical and professional skill or knowledge in position-related areas;  keep up on current events and trends in the area of competition.",
+      "actions": {
+        "12_1": "Know the terminology and technical advances.",
+        "12_2": "Learn how to apply a technical skill or procedure.",
+        "12_3": "Knowing when to apply a skill or technical procedure.",
+        "12_4": "Perform complex tasks in the area of competition."
+      },
+      "questions": {
+        "12_1": "Everyone makes mistakes, even in our area of expertise. Give me an example of a mistake you made in your area of expertise.",
+        "12_2": "Describe a project, situation or assignment that has been a challenge to his skills as __________. (That was to effectively handle the situation?).",
+        "12_3": "Sometimes complex projects requiring additional knowledge. Describe a situation where you had to request help or assistance in one of its technical projects or assignments.",
+        "12_4": "Have you ever had to orient a new employee on a task or technical area? (Tell me about one of those situations).",
+        "12_5": "What technical training have you received? (Can you give me an example of how you have applied this training?).",
+        "12_6": "We've all had the experience of receiving a new task / responsibility we should have known how to properly handle our preparation and training, but we could not handle. Describe an occasion when this happened.",
+        "12_7": "Describe a time when you solved a technical problem.",
+        "12_8": "To operate which team has received training? (How clever is that?).",
+        "12_9": "Give me an example of a project that demonstrates their expertise in ____________.",
+        "12_10": "Describe how you proceeded to learn a new technical task.",
+        "12-11": "Everyone has had the experience of thinking I knew how to solve a problem related to the job, to finally find you did not know. Can you tell me about an occasion when this has happened?.",
+        "12_12": "How much experience have you had in operating a / one ____________ (typewriter, word processor, drill press, etc.)? (How clever is that?).",
+        "12_13": "Describe the most difficult maintenance work he has done.",
+        "12_14": "Tell me about the most interesting or exciting technical problem you’ve tried to solve in the past year? Why was it exciting to you?",
+        "12_15": "Tell me about a time you spotted a creative idea. How did you go about supporting and nurturing this idea?",
+        "12_16": "Tell me about a time you saw that a project needed a new direction. How did you spot the need for change? What did you do? What was the outcome?",
+        "12_17": "Tell me about the last time you were involved in bringing a new product or service to the market. Tell me how you keep your employees from getting stagnant, from getting caught up I the daily routine? What do you do to encourage them to think “outside the box”?",
+        "12_18": "NO EXPERIENCE. Give me an example of an assignment in which you worked, where their skills are demonstrated in __________. (What did you do?)."
+      }
+    },
+    {
+      "id": 13,
+      "name": "Control of Information",
+      "text": "Establish ongoing procedures to collect and review information needed to manage projects or organization; taking into account the skills, knowledge and experience of the individuals responsible and the characteristics of assignments or projects.",
+      "actions": {
+        "13_1": "Establish systems / programs to monitor the progress of work.",
+        "13_2": "Collect and analyze reports on work projects.",
+        "13_3": "Observe the projects underway.",
+        "13_4": "Meet with others to discuss the current status of the project.",
+        "13_5": "Identify sources of data collection."
+      },
+      "questions": {
+        "13_1": "What kind of information did you use to stay informed about what is happening in your organization? (Tell me about a time when you used this information).",
+        "13_2": "How has tracked what do people who report directly to you? (Tell me about a time when you used the information in such monitoring).",
+        "13_3": "How have you followed the regulations that affect their industry (eg, legislative, environmental protection)? (Give me an example).",
+        "13_4": "Has overseen the productivity or performance of your team / group? (Give me an example).",
+        "13_5": "It is difficult to know what information / key data to be monitored on an important project. Tell me about a time when your team / group / department focused on the wrong information.",
+        "13_6": "What kind of information have you used to keep informed of what they do competitive organizations? (Tell me about a time when you used this information).",
+        "13_7": "We all participated in a project that was diverted from its course because we get critical data too late to make a change. Tell me about a time when this happened.",
+        "13_8": "Have you monitored the productivity or performance of your team / group? (Give me an example).",
+        "13_9": "It's hard to keep track of policies / procedures changing. Give me an example of when a procedure / policy changed without you knowing. (What happened? Why did not you know?).",
+        "13_10": "Tell me about an occasion in which established procedures for ongoing team / group. ",
+        "13_11": "We have all experienced times when you step in a procedure has been omitted. Describe a time when you missed a step in an ongoing process.",
+        "13_12": "Tell me about a time when you received feedback on a project or process was especially useful in the outcome of this project.",
+        "13_13": "We all experience obstacles in trying to collect the necessary information. Tell me about a time when you encountered obstacles to collect information. (How is it removed?)."
+      }
+    },
+    {
+      "id": 14,
+      "name": "Delegation of Authority and Responsibility",
+      "text": "Assign authority in decision-making and responsibilities for tasks to appropriate people who depend directly on one; efficiently use the time, skills and potential of those directly one.",
+      "actions": {
+        "14_1": "Provide for the allocation of tasks to the appropriate individuals.",
+        "14_2": "Assign responsibility for action.",
+        "14_3": "Clarify the scope of authority and responsibilities.",
+        "14_4": "Communicate confidence to individuals.",
+        "14_5": "Provide resources to carry out assignments.",
+        "14_6": "Establish processes and follow-up dates."
+      },
+      "questions": {
+        "14_1": "Tell me about a project / task / assignment delegated important. What resources provided to ensure its success?",
+        "14_2": "Tell me about a situation where someone did not want to accept responsibility for an assignment, task or delegated project. (How you responded with the resilience of that person?).",
+        "14_3": "What kind of project / task / assignment delegated not you? (Can you give me an example of a time when he decided not to delegate this kind of work? Why?)",
+        "14_4": "Has anyone ever had a situation where I did not want to delegate but had to do? (Tell me about it).",
+        "14_5": "Determine who is the right person to delegate a task can be difficult. Tell me about a time when you delegated a project / task to the wrong person important assignment. (What happened? Why?).",
+        "14_6": "Have you ever asked someone to fill his position when he had to leave town or office?. (Tell me about one of those situations).",
+        "14_7": "By delegating a project / task / relevant situation it is important to communicate your confidence and faith in the ability of that person to do the job. Give me an example of how did this on a recent assignment delegated.",
+        "14_8": "Most of us would have assigned jobs for people who depend directly on us, and they did not know what was the purpose. Can you tell me a time when that happened? (Why did it happen? [Poll looking for unclear instructions, assignments to inappropriate person, or no specific deadlines]).",
+        "14_9": "It is difficult to establish the balance between what is delegated and tasks making self. Tell me about a time when you did not delegate enough. (What happened?).",
+        "14_10": "Tell me about one of the assignments to solve more difficult problems are delegated.",
+        "14_11": "When we are very busy with work, sometimes we have no choice but to delegate more than we would like. Tell me about a time when you delegated to an employee more than you wanted to delegate.",
+        "14_12": "By assigning work to people who depend directly on you, how did you determine the number of instructions that should provide them? (Give me an example of a situation where you applied these guidelines)."
+      }
+    },
+    {
+      "id": 15,
+      "name": "Staff Development",
+      "text": "Develop the skills and abilities of people directly dependent one through effective planning of development activities related to current and future positions.",
+      "actions": {
+        "15_1": "Mutually identify needs and opportunities for development.",
+        "15_2": "Discuss the development goals and agree on them.",
+        "15_3": "Identify each training opportunities.",
+        "15_4": "Agree on the tasks to meet development goals.",
+        "15_5": "Create opportunities to apply new skills.",
+        "15_6": "Minimize obstacles to development."
+      },
+      "questions": {
+        "15_1": "What were the main needs for training and development of staff in your department / group / team? (How these needs identified? What have you done to address those needs?).",
+        "15_2": "If you were promoted tomorrow, has one who replace? (What has he done to help the development of such a person?).",
+        "15_3": "How, if it has done, has made people who directly depend on you to participate in determining their development needs? (Give me a specific example).",
+        "15_4": "Sometimes the needs / priorities of development can not be addressed through formal training and development programs. Give me a recent example of how you and a person who reported directly to you develop a new skill without attending a formal program.",
+        "15_5": "We have all promoted someone to a position in which we were confident that he would succeed, only to discover that the person failed. Give me an example of when this happened to you. (What went wrong?).",
+        "15_6": "What extent people who depend directly on you or the team members have received training multifunctional? (Why? How?).",
+        "15_7": "We all know it's easy to forget to provide constant to improve people with high performance feedback. Tell me about the person with the highest level of performance that has worked with you. (What has so often discussed feedback you provided to other people?).",
+        "15_8": "Tell me about a time when one of the people who depend directly on you thought it was ready to be promoted, but you did not agree. (What did you do?).",
+        "15_9": "Not all people who depend directly on one performing satisfactorily in their jobs. Tell me about a person who reports directly to you she was fired because it was working fine. (Why was fired? Did you do anything to work with her on her problem areas before it was fired? What did he do?).",
+        "15_10": "It is not always easy to devote much time to each person who is directly dependent one. Think of a time when you did not contribute to the development of a person who reported directly to you. (What happened?).",
+        "15_11": "Describe one of the people who depend directly on you and tell me about the long-term goals you have for that person. (What measures have been adopted to help this person to achieve those goals ?.",
+        "15_12": "Tell me about the least efficient of people reporting directly to you. (What were your strengths and weaknesses? What did you do to improve performance?).",
+        "15_13": "NO EXPERIENCE. Tell me about a leadership position you have taken in a club or organization. (How did you develop a person who could replace him?)."
+      }
+    },
+    {
+      "id": 16,
+      "name": "Design Empowerment Posts",
+      "text": "To determine the organization and structure of the most effective position to achieve an objective or strategy; properly reconfigure positions to maximize opportunities for empowerment, continuous improvement and employee flexibility.",
+      "actions": {
+        "16_1": "Identify barriers to empowerment.",
+        "16_2": "Recognize barriers to quality and efficiency.",
+        "16_3": "Optimize the structure of the post."
+      },
+      "questions": {
+        "16_1": "Describe a time when you could adapt a job or activity to suit skills, abilities and individual motivations of the person who played.",
+        "16_2": "In his current role, what do you think are the main obstacles to the empowerment and continuous improvement considered? (What are you doing on these obstacles?).",
+        "16_3": "No organization is exempt from inefficiencies. What are the main factors that inhibit efficiency in your organization? (What are you doing about it?).",
+        "16_4": "Give me an example of a time when you reconfigured the structures of individual / team set to increase organizational productivity.",
+        "16_5": "Although the red tape can be a real wear to the effectiveness of an organization, it is sometimes difficult, if not impossible, to remove. Give me an example of bureaucratic red tape that you have tried to remove, but it has failed. (Why has not succeeded?).",
+        "16_6": "How would you characterize the level of satisfaction of your organization / department / team? How could I raise?",
+        "16_7": "Describe an activity that your organization used to play and that you removed because it prevented people make their own decisions.",
+        "16_8": "Even if we could reconfigure our organization / department / team to achieve greater productivity, we may not always succeed. Tell me about a time you tried reconfiguring your organization / department / team to achieve higher productivity, but was unsuccessful.",
+        "16_9": "Tell me about the last time restructured its organization / department / team. (Why did the restructuring? Did you meet your goals?).",
+        "16_10": "How has decided when it was needed, and if necessary, reconfigure a job / team? (Give me an example of when you applied this strategy).",
+        "16_11": "The employees of any organization are fully satisfied. Tell me what could increase employee satisfaction in your organization / department / team.",
+        "16_12": "What steps have you taken in the last six months to increase the degree of empowerment of your organization / department / team?",
+        "16_13": "What measures have been planned for the near future (within the next six months) to increase the efficiency of your organization?"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Energy",
+      "text": "Consistently maintain a high level of activity or productivity; maintain long working hours.",
+      "actions": {
+        "17_1": "Work long hours without losing efficiency.",
+        "17_2": "Maintaining a fast pace of work over time.",
+        "17_3": "Effectively perform the physically or mentally exhausting work."
+      },
+      "questions": {
+        "17_1": "Tell me about a time when you had to worked at a brisk pace for an extended period. (What kind of work did you? How did he keep up?).",
+        "17_2": "Tell me about a time you worked rotating shifts or night shifts. (What made to maintain efficiency?).",
+        "17_3": "How much overtime has averaged over the past three months? (Why it took overtime?).",
+        "17_4": "Everyone makes mistakes when tired at work. Tell me about the last time I was really tired while working. (What mistakes did at work?).",
+        "17_5": "What kind of physical work is required on your project como____________ ?.",
+        "17_6": "We all had difficult days, at the end of it, we were not as efficient in the post as we should be. Tell me about a time when this happened to you. (What did you do?).",
+        "17_7": "Tell me about a time when you worked late or on weekends for an extended period. (What was the outcome?).",
+        "17_8": "What activities since been found to require more energy? (What made to maintain efficiency?).",
+        "17_9": "After a long vacation / extended rest can be difficult to return to work. Tell me about your first day on the job after his last long vacation / extended rest. (What made to maintain efficiency?).",
+        "17_10": "SALE POSITION. How many sales calls made during an average week in _______________? (How long between visits scheduled another? What happens when you have less time than scheduled?).",
+        "17_11": "SALE POSITION. After a full day of appointments, meetings and presentations, it is impossible for the end of the same vendors as efficient as they would like to be. Tell me about the last time you had to work until the end of a long workday."
+      }
+    },
+    {
+      "id": 18,
+      "name": "Meeting Facilitation / Leadership Meetings",
+      "text": "Using appropriate interpersonal styles and methods to guide participants toward meeting objectives: modifying behavior according to tasks and individual present.",
+      "actions": {
+        "18_1": {
+          "title": "Effectively use relationship skills efficiently:",
+          "subactions": {
+            "1": "Maintain or increase self-esteem.",
+            "2": "Listen and respond with empathy.",
+            "3": "Asking for help and encourage participation.",
+            "4": "Share your thoughts, feelings and motivations.",
+            "5": "Provide support without removing responsibility."
+          }
+        },
+        "18_2": "Follow a logical sequence to conduct a meeting.",
+        "18_3": "Make suggestions for procedure.",
+        "18_4": "Check for understanding and agreement.",
+        "18_5": "Submit suggestions and views in an appropriate and compelling manner.",
+        "18_6": "Provide barriers in meetings and developing strategies to overcome them."
+      },
+      "questions": {
+        "18_1": "Obtain acceptance of their ideas by others may be difficult. Tell me about a time when I had problems for people who depended directly from you / team members / others accept his idea. (What approach did you use? What happened?).",
+        "18_2": "Tell me about how he tries to keep channeled meetings. (Tell me about a specific meeting where you have used this strategy).",
+        "18_3": "Tell me about a meeting you had to turn in which was a problematic issue. (How he managed the objections that were raised?).",
+        "18_4": "Tell me about a time that included people who reported directly to you / team members at a meeting to solve a problem. (What approach did you use? What happened?).",
+        "18_5": "We've all had people who depended directly on eachother / team members who do not work well together. Tell me about a meeting in which this relationship caused a problem. (What measures adopted during the meeting to improve the relationship between these people?).",
+        "18_6": "Tell me about a new idea you suggested to people who reported directly to you / team members in a meeting. (What approach used for others to accept?).",
+        "18_7": "We've all been in meetings where no one volunteered to speak or act. Tell me about a time when this happened in a meeting that you managed. (What did you do?).",
+        "18_8": "We've all been in meetings where a manager / supervisor / team leader said something with which we disagreed. Tell me about a time when this happened. (What did you do?).",
+        "18_9": "Have you ever led a meeting where one participant suggested an inappropriate idea? (How would you responded to that person?).",
+        "18_10": "Sometimes to meet with an important internal / external customer, we do not agree with everything that is discussed. Tell me about a meeting that you conducted where it happened. (What did you do?).",
+        "18_11": "Think of a meeting you recently led. How did it end the meeting? (What you said or did?).",
+        "18_12": "NO EXPERIENCE. Describe a class assignment where you had to influence other students so that they cooperate. (What did you say?).",
+        "18_13": "NO EXPERIENCE. Describe a time when you had to address a gathering of students, and the group was deviating from its course. (What did you do?)."
+      }
+    },
+    {
+      "id": 19,
+      "name": "Ability to Persuade and Sell",
+      "text": "Using interpersonal styles and communication methods appropriate for the acceptance of an idea, a plan, an activity or product by customers and prospects.",
+      "actions": {
+        "19_1": "Determine customer requirements and decision criteria.",
+        "19_2": "Select the appropriate method for the situation.",
+        "19_3": "Demonstrate how the product or service meets the requirements.",
+        "19_4": "Determine the nature and objections and respond appropriately."
+      },
+      "questions": {
+        "19_1": "Tell me about a time you had to obtain the support or cooperation of several people with very different perspectives. (How did you approach those guys?).",
+        "19_2": "Describe a new process or idea that was recently implemented substantially different from the standard procedure. (What approach used to get people reporting directly to you, colleagues and other people would agree with him?",
+        "19_3": "Describe a situation where you had to use a different approach or maybe several approaches that the initial focus not convinced or persuaded others.",
+        "19_4": "Sometimes, although we could have the best idea to solve a problem, it is impossible to convince others of the value of that idea. Tell me about a time when you could not convince others of the merit of his idea.",
+        "19_5": "What was one of the best ideas you tried but could not get him to accept a manager / supervisor / team member / colleague / client? (What approach did you use? Why failure the idea?).",
+        "19_6": "When working with a tight deadline, it is not always possible to afford to convince others to do something; to be direct and tell them what to do and how. Tell me about a time when you had to take this approach with a team member / compañerote / work colleague.",
+        "19_7": "Sometimes customers make the wrong decisions and accept proposals that are far from the best. Describe a time when you made a proposal should have been accepted by a customer, but it was not.",
+        "19_8": "SALE POSITION. Tell me about a time when you persuaded someone to do something. (What was the situation? What persuaded the person?).",
+        "19_9": "SALE POSITION. Describe a situation where you tried to get support from a teacher or colleague for an idea, but failed. (What was the situation? How he proceeded to try to get support from these people?)."
+      }
+    },
+    
+    {
+      "id": 20,
+      "name": "Initiative",
+      "text": "Making active attempts to influence events to achieve goals; initiate action rather than passively accepting them; actions that exceed what is required to achieve the goals; take initiative.",
+      "actions": {
+        "20_1": "Having initiative.",
+        "20_2": "Suggest ideas for improvement.",
+        "20_3": "Troubleshooting without requiring it.",
+        "20_4": "Seizing opportunities without request.",
+        "20_5": "Seek opportunities to improve.",
+        "20_6": "Do more than is required."
+      },
+      "questions": {
+        "20_1": "What have you done differently from their colleagues in your organization? (Why? Give me an example of what makes his work unique).",
+        "20_2": "What has been your greatest achievement in _____________? (What measures adopted to achieve?).",
+        "20_3": "Describe a situation in which he saw a problem and took action to correct it rather than wait for someone else to do it.",
+        "20_4": "Describe some ways that you changed your work in ____________. (Which led him to make these changes?).",
+        "20_5": "Everyone knows that sometimes, but something should be changed or improved, not worth the effort to do so. Give an example of a change in policy or procedure of the organization / team / department that you know you should do but has not done anything about it.",
+        "20_6": "For a good reason we have all experienced failure in the post. Tell me about your greatest failure in office at ______________. (What happened? Why? In retrospect, what would you have done differently to avoid failure?).",
+        "20_7": "We all know there is never enough time to do everything possible to meet or even exceed the customers' expectations every time. Tell me about a situation with a client in which you did not make the extra effort because they did not have the time. (What happened?).",
+        "20_8": "Although there may be a need, we all know that there is always a reward to volunteer for additional work on a special project or assignment. Tell me about a time that you do not volunteered or participated in a special project because I knew there would be a reward or recognition for it.",
+        "20_9": "Have you taken any steps to improve their skills or performance? (Give me an example).",
+        "20_10": "SALE POSITION. All sales situations, you could always do more than try to close the deal. Tell me about a time when you did not make any extra effort to get a particular sale and ended up losing. (Why did not you do any extra effort?).",
+        "20_11": "SALE POSITION. How does your sales techniques differed from others in your district / region / company? (What did you do differently? Give me a recent example of when you used these techniques).",
+        "20_12": "SALE POSITION. How do you give rise to new potential sales? (Tell me about a time when this has worked well for you.",
+        "20_13": "NO EXPERIENCE. Have you proposed any new ideas or suggestions while studying? (Give an example).",
+        "20_14": "NO EXPERIENCE. Have you ever done more than required for a course? (Give an example)."
+      }
+    },
+    {
+      "id": 21,
+      "name": "Innovation",
+      "text": "Generate creative solutions to work situations; try different and unique ways to address problems and opportunities in the organization.",
+      "actions": {
+        "21_1": "Propose innovative solutions.",
+        "21_2": "Gather ideas from several perspectives.",
+        "21_3": "Suggest new ways of applying existing knowledge.",
+        "21_4": "Use techniques to propose brainstorming."
+      },
+      "questions": {
+        "21_1": "Describe how you improved productivity / profitability of their work unit. (How did you identify these opportunities for improvement?).",
+        "21_2": "Tell me about a creative idea that you had to improve one of the products or services of your company.",
+        "21_3": "Tell me about a unique approach that you took to solve a problem. (How I got that approach? What other options considered?).",
+        "21_4": "It is impossible to always be the first company to develop a product / service innovation. Tell me about a product / service unique and fulfilling one of its competitors development before it did the organization to which you belong. (Does your organization finally introduced a product / service like? Why were you not the first?).",
+        "21_5": "Sometimes it is necessary to abandon the tentative methods in problem solving. Tell me about a problem that you were responsible for resolving and knew it required a unique solution. (How did he know that the established methods would not work?).",
+        "21_6": "We all know that some problems simply do not have solutions. Tell me about a problem you tried to solve but could not. (What solutions are tried? How did you get these solutions?).",
+        "21_7": "Give me an example of a new way in which he could apply existing knowledge to solve a problem.",
+        "21_8": "As an organization you can not develop in new product / service every day, sometimes it is important to combine the products / services leverage existing pair creatively a new opportunity. Tell me about a time when you did this in a satisfactory manner. ",
+        "21_9": "Tell me about a unique approach that you took to solve a problem. (How did you get that approach? What other options considered?).",
+        "21_10": "In his current role as ____________, what have you done differently than their predecessors? (Why?).",
+        "21_11": "Unfortunately, some solutions do not always correct the problems. Can you think of a creative solution proposed by you that did not correct the problem? (What was the solution? How did you get the idea?).",
+        "21_12": "Tell me about the technology that most interests you?",
+        "21_13": "Why do you want to work for ___________?",
+        "21_14": "If you could change aspects of your current sales organization, alignment and structure, what would the new model look like? (Industry, product, sales specialization, technical resources). How important is industry alignment to your customer?",
+        "21_15": "Give me an example where you have provided vision for a client and provided direction and got this client to switch to your product and technology because it would add business value to their company.",
+        "21_16": "What technology company, other than Microsoft, do you feel is a force to be reckoned with? What makes them powerful?",
+        "21_17": "What is the most exciting technology/application area that you see on the horizon? Which aren’t?"
+      }
+    },
+    {
+      "id": 22,
+      "name": "Integrity",
+      "text": "Maintain and promote the social, ethical and organizational standards in the conduct of internal and external business activities.",
+      "actions": {
+        "22_1": "Share complete and accurate information.",
+        "22_2": "Objectively represent the capabilities of the organization.",
+        "22_3": "Maintaining confidentiality.",
+        "22_4": "Observe policies and regulations.",
+        "22_5": "Honoring commitments and personal promises."
+      },
+      "questions": {
+        "22_1": "We've all been in situations where we have learned of an upcoming change in the organization or staff before they knew other people. Tell me about a time when this happened. (How do you respond?).",
+        "22_2": "Some companies do not care that employees use office equipment for personal business. He used you office equipment (eg, photocopiers, telephones) for personal matters? (Give me an example).",
+        "22_3": "Your manager / supervisor / team leader has ever asked him to do something that you thought was inappropriate? (How do you respond?).",
+        "22_4": "Do not always work with people they consider ethical or honest. Tell me about a time when you saw a coworker do something that you thought was inappropriate. (What did you do?).",
+        "22_5": "Have you ever had to orient a new employee? (What are some of the things you said about? New manager / supervisor / team leader position that person ¿of the organization do?.",
+        "22_6": "SALE POSITION. When we are excited about closing a sale, sometimes accidentally offers the customer a little more than they can actually provide. (Give me an example of when this happened).",
+        "22_7": "SALE POSITION. Give me an example of how to successfully influence a customer to buy a product / service more expensive than I thought originally purchased.",
+        "22_8": "SALE POSITION. Hábleme of an occasion when a customer asked about weaknesses or deficiencies of your product / service. (What did you do?).",
+        "22_9": "SALE POSITION. We do not always feel comfortable in selling our product / service to all external customers are. Tell me about a time when you felt uncomfortable in selling a product / service to a customer. (Why?).",
+        "22_10": "SALE POSITION. Tell me about a time when a customer asked about the strengths of the product / service from a competitor. (How do you respond?).",
+        "22_11": "NO EXPERIENCE. It is often difficult to finish on time for class work. Tell me about a time when this happened. (What are some of the shortcuts you used?).",
+        "22_12": "NO EXPERIENCE. We've all had a close friend or classmate who asks for help for assignments / projects that are expected to make their own. Ever has this happened to you? (How did you respond?)."
+      }
+    },
+    {
+      "id": 23,
+      "name": "Judgment / Problem Solving",
+      "text": "Understood with an action after developing alternative courses of action based on logical assumptions and factual information and that take into consideration resources, constraints and organizational values.",
+      "actions": {
+        "23_1": "Define the selection criteria.",
+        "23_2": "Consider the alternatives.",
+        "23_3": "Consider all relevant facts.",
+        "23_4": "Weighing the pros and cons / impact of the alternatives.",
+        "23_5": "Inform others when necessary.",
+        "23_6": "Committing to most appropriate action."
+      },
+      "questions": {
+        "23_1": "1. Tell me about a time when you had to take disciplinary action against a person who reported directly to you. (As decided what to do).",
+        "23_2": "2. Describe a situation where you received a new procedure or new instructions that were not in agreement. (How you respond?).",
+        "23_3": "3. His change of _________ to _________ was a significant career change. Important factors that influenced their decision to shift?",
+        "23_4": "4. Think of a good decision made and a recent decision that was not very good. What did differently to make those decisions?",
+        "23_5": "5. Describe a time when you weighed the pros and cons of a situation and decided not to take any action, but was under pressure to do so.",
+        "23_6": "6. Describe a time when you decided to involve others to make a decision. (Why did you decide to do so? How far used the contributions of others?).",
+        "23_7": "7. Sometimes we all make decisions that our manager / team leader / supervisor disagrees. Tell me about a time when this happened. (Why your manager / team leader / supervisor did not agree with their decision?).",
+        "23_8": "8. We all make decisions that ultimately result in errors. Describe a work decision you have made and would like to repeat.",
+        "23_9": "9. Describe a problem that has recently been asked to solve. (What did you do? What alternatives considered?).",
+        "23_10": "10. We've all had the experience of working with a really tight deadline that did not allow the luxury to carefully consider all options before making a decision. Give me an example of an occasion where this happened. (What was the result of your decision?).",
+        "23_11": "11. We've all had the experience of trying to solve a problem on their own, only to eventually discover that others should know the situation and participate in the solution. Tell me about a time when you took full responsibility to solve a problem but then found that I really should have involved others in the process.",
+        "23_12": "12. We all know that sometimes it is more important than time out a letter / document / proposal to stop to make a complete final testing. Tell me about a time when you meet a deadline for the submission of a project / paper / proposal but sent in error.",
+        "23_13": "NO EXPERIENCE. What was the toughest academic decision had to make? (How did he make that decision? What alternatives considered?)",
+        "23_14": "NO EXPERIENCE. What made you decide to attend (college, training, etc.) _________? (What influenced your decision?)."
+      }
+    },
+    {
+      "id": 24,
+      "name": "Strategic Leadership",
+      "text": "Create and reach a desired future state (vision) by influencing the organizational values, individual and group goals, reinforcements and systems.",
+      "actions": {
+        "24_1": "Communicating the vision and values by demonstrating commitment to them.",
+        "24_2": "Translate the vision into measurable objectives.",
+        "24_3": "Systems compatible with the vision and values.",
+        "24_4": "Obtain commitment to the vision, values, and individual and group goals.",
+        "24_5": "Establish reward structures.",
+        "24_6": "Leading through vision and values."
+      },
+      "questions": {
+        "24_1": "What strategies have you used to communicate an important new decision from management to employees? (What strategies have worked and which have not? Give me a specific example).",
+        "24_2": "Describe an occasion when he had to significantly modify work processes to align with the new strategic directions. (How he managed that?).",
+        "24_3": "Tell me about an important recent decision by senior management that you had to communicate and implement. (As he proceeded to do?).",
+        "24_4": "Tell me about the last decision of senior management who failed to achieve their desired goal. (Why failure?)",
+        "24_5": "We've all had times when we were frustrated at not being able to implement new ideas and insights from senior management. Describe a time when this happened.",
+        "24_6": "Describe a situation where you had to translate a broad or general management decision on specific goals. (How did this? What were the results?.",
+        "24_7": "Describe a situation where you had to translate a broad or general decision of top management in individual performance expectations. (How did this? What were the results?.",
+        "24_8": "Tell me about a reward structures or incentives established to help meet an important new guideline. (How did it work?).",
+        "24_9": "Often we encounter resistance when trying to implement change. Describe a time when your manager or other managers did not please them for their efforts to implement the change. (What approach did you use? What problems arose?).",
+        "24_10": "All managers / supervisors face unpleasant changes to be implemented. Describe the most unpleasant decision that had to be implemented in their area of responsibility. (What approach did you use? What were the results?.",
+        "24_11": "How will decided when and how to communicate a new senior management decision? (Give me an example of the strategy used).",
+        "24_12": "I often get the commitment can be a challenge. Tell me about a recent decision by senior management to which he could not obtain commitment of others. (Why did not succeed?).",
+        "24_13": "Making Change is always a challenge. Tell me about a time when you could not implement a major organizational system (control, compensation, communication, etc.) to support a new key decision. (What happened? What problems were)."
+      }
+    },
+    {
+      "id": 25,
+      "name": "Individual / Leadership Influence",
+      "text": "Using appropriate interpersonal styles and methods to inspire and guide individuals (line managers, colleagues and superiors) towards achieving the goals; modify behavior to suit the tasks, situations and individuals concerned.",
+      "actions": {
+        "25_1": "Use relationship skills efficiently:",
+        "25_2": "Maintain or increase self-esteem.",
+        "25_3": "Listen and respond with empathy.",
+        "25_4": "Asking for help and encourage participation.",
+        "25_5": "Share your thoughts, feelings and motivations.",
+        "25_6": "Provide support without removing responsibility.",
+        "25_7": "Follow a logical sequence in the discussions.",
+        "25_8": "Focus on the situation, not the person.",
+        "25_9": "Submit suggestions or views in an appropriate and compelling manner.",
+        "25_10": "Ask for a commitment to action and get it."
+      },
+      "questions": {
+        "25_1": "Tell me about a time when someone encouraged to make efforts to do a good job. (How did you do it?).",
+        "25_2": "Tell me about how to set up a harmonious relationship with the newest members of your team / unit / group.",
+        "25_3": "Tell me about a time when you could get someone outside of your team / unit / group cooperate with you on an important project / task / assignment.",
+        "25_4": "Our relationships with coworkers are not always perfect. Tell me about the most difficult relationship he had with a colleague / team member. (Why was it so difficult relationship? That you did to improve it?)",
+        "25_5": "Tell me about a time that included one of his colleagues / people who reported directly to you (or team members) in solving a problem. (What approach did you use? What happened?).",
+        "25_6": "When working on an important project with tight deadlines, most managers / team leaders / supervisors only have enough to identify the problem and correct it as quickly as possible time. Tell me about a time when you had to act quickly to correct a problem in a major project. (What happened? How did they respond the people involved?).",
+        "25_7": "Tell me about a time when checked the status of a major project / task / assignment and discovered that he was doing wrong. (What did you do?).",
+        "25_8": "Tell me about a time when you had to make an internal / external client agreed with a major change to a project you were working for him. (How you tried to get the customer to collaborate / support change?).",
+        "25_9": "Sometimes just enough to tell people what to do and how to do time. Tell me about a time when you had to act this way with people who are directly dependent on you / team members / colleagues. (How do they react?).",
+        "25_10": "Describe a face to face meeting where you had to lead a very sensitive individual and influence him.",
+        "25_11": "When dealing with a person who reported directly to you / team member / colleague, how did you determine you were doing when too much pressure? (Give me an example of when this happened).",
+        "25_12": "Not all people with whom we are as cooperative as we would be. Tell me about a time when someone refused to do anything you need it to. (How do you respond?).",
+        "25_13": "We have all had the misfortune of not meeting a deadline. Tell me about the last time they failed to meet a deadline because one of his co-workers did not fulfill their responsibilities on time. (What did you do?).",
+        "25_19": "If you have held a leadership position in the past, draw the organizational chart above and below your position to illustrate the scope of your leadership responsibility.",
+        "25_20": "Give me an example of when you inspired people with vision.",
+        "25_16": "Tell me about a time  when you significantly improved the performance of a group of people who reported directly to you.",
+        "25_17": "How did you motívate the top performers?",
+        "25_18": "Give me an example of when you took a significant risk for the sake of principle, value or mission.",
+        "25_14": "NO EXPERIENCE. Describe a situation where you had to influence another student or colleague for it to cooperate. (What did you say?).",
+        "25_15": "NO EXPERIENCE. Tell me about a leadership role you had in an extracurricular activity. (How did you handle it? Give me an example)."
+      }
+    },
+    {
+      "id": 26,
+      "name": "Visionary Leadership",
+      "text": "Create a desired future state by helping others to understand, to feel how things can be different (and better).",
+      "actions": {
+        "26_1": "Provide long-term opportunities.",
+        "26_2": "Define a desired future state.",
+        "26_3": "Communicating the direction (vision and values) with enthusiasm.",
+        "26_4": "Anticipate reactions to the vision and values.",
+        "26_5": "Obtain commitment to the vision and values."
+      },
+      "questions": {
+        "26_1": "Have you ever been in a situation where you had to reorganize important parts of an organization? (What led to the decision? How did?).",
+        "26_2": "What changes do you expect to deeply affect the markets they serve your organization? (What have you done about it?).",
+        "26_3": "What was the most important change that you place in an organization?",
+        "26_4": "All managers have struggled as staff turnover, low morale and low productivity because their work unit was not committed to the vision of the organization. Tell me about a time when your work area experienced a similar problem.",
+        "26_5": "Tell me about a time when you had an important bearing on the business impact of your organization. (What steps did?).",
+        "26_6": "It is impossible to always increase the market segment of a particular product or service. Give me an example of a product or service for which you were responsible, experienced a fall in the market segment. (Why did this happen? What did he do to try to recover it?",
+        "26_7": "Obtain commitment to a new vision can be very difficult. Tell me about a time when you did not succeed to gain the commitment of others in your organization to a new vision. (Why did not succeed?).",
+        "26_8": "What is the most vulnerable place in your organization? (What have you done that?).",
+        "26_9": "Tell me about a measure adopted to extend the traditional markets of the products or services of your organization?. (Explain).",
+        "26_10": "Tell me about your greatest internal / external customer and how their needs are changing. (What actions have you taken to adapt / support these changes?).",
+        "26_11": "What changes have occurred in your field that may impact your organization? (How have you responded to one of those changes? Explain)."
+      }
+    },
+    {
+      "id": 27,
+      "name": "Maximizing Performance",
+      "text": "Establish performance goals and development, advising on performance, providing training and evaluating performance.",
+      "actions": {
+        "27_1": "Agree measurable areas of performance.",
+        "27_2": "Agree specific objectives.",
+        "27_3": "Agree methods to check the performance.",
+        "27_4": "Mutually agree on achievements."
+      },
+      "questions": {
+        "27_1": "Tell me about a recent performance plan you have developed for a person who reported directly to you. (How did you prepare? What sources of information did you use?).",
+        "27_2": "How have deferred their performance management efforts in dealing with employees with high and low performance? (Give me an example of an employee performance with high vs. a low level of performance).",
+        "27_3": "Tell me about your newest employee. (What made to provide training?).",
+        "27_4": "Give me an example of a project / task / assignment you have given to a person who reported directly to you so you could develop a specific skill.",
+        "27_5": "We all have situations in which a person who is directly dependent we disagree with the targets. Tell me about a time when a person who reports directly to you disagreed with the goals you set. (What went wrong? What did you do?).",
+        "27_6": "We all know that when there is a lot of work is hard to make time to provide feedback to employees developing high performance. Tell me about your employee with the highest levels of performance. (How often have gathered to discuss the performance of it?).",
+        "27_7": "Tell me about a recent change in the business plan of the organization. Does this change affected the performance goals of the people who report directly to you? How?.",
+        "27_8": "All have had to deal with employees who could not / were not willing to contribute to its development planning process. Tell me about a time that this has happened to you. (What did you do?).",
+        "27_9": "Tell me about a time when you had to train someone a technical task. (How you handled the situation?).",
+        "27_10": "All managers I have met in one time or another have been too busy to engage in suitable work performance planning done. Can you tell me about a time that this has happened to you?.",
+        "27_11": "Tell me about a person who reports directly from you that changed from being a low-level employee to one with high performance. (How and why it improved the performance of this person?).",
+        "27_12": "How have you managed to involve those directly under you in identifying goals and performance expectations? (Give me an example).",
+        "27_13": "Sometimes people do not respond well to a performance improvement plan. Could you give me an example of a plan that went wrong? (What happened).",
+        "27_14": "Give me an example of feedback and help you provided in relation to performance failures. (What did you do? How did you do? What happened?)."
+      }
+    },
+    {
+      "id": 28,
+      "name": "Negotiation",
+      "text": "Study alternatives and positions to reach outcomes that gain the support and acceptance of all parties.",
+      "actions": {
+        "28_1": "Study the needs, concerns and positions of others.",
+        "28_2": "Identify points of agreement and disagreement.",
+        "28_3": "Present alternative.",
+        "28_4": "Maintain control over trouble spots.",
+        "28_5": "Reaching agreement through negotiation attitudes.",
+        "28_6": "Find a solution of a tie."
+      },
+      "questions": {
+        "28_1": "In what types of treatment you have participated? (Describe a recent situation. What role did? What was the result?",
+        "28_2": "We've all had the misfortune of trying to deal with a difficult person. Give me an example of the most difficult person you have had to deal with. (What happened?).",
+        "28_3": "Tell me about a particularly difficult negotiation in which you have participated with other members of their organization. (What was your involvement? What was the outcome?).",
+        "28_4": "Describe a situation where you negotiated with others in your organization with regard to limited resources.",
+        "28_5": "Describe a situation in which treated with vendors or suppliers to obtain a favorable outcome for the company you represent.",
+        "28_6": "Sometimes there is simply no room to negotiate when working on an important project. Give me an example of a project where you work, where you had to make non-negotiable demands to others. (What happened? How did they respond?).",
+        "28_7": "Describe a situation where you thought that a seller / provider was wrong or that you disagreed with him. (How did you handle the situation?).",
+        "28_8": "We have all been involved in major deals where we have failed. Give me an example of an important ion s in which you participated and what failed. (What went wrong?).",
+        "28_9": "We've all made the mistake of accepting a negotiated settlement that proved truly bad for our organization / department. Describe an occasion where this happened. (Why was an incorrect negotiation decision made?)",
+        "28_10": "Describe a situation where you negotiated price / conditions / delivery with a difficult client. (What happened?).",
+        "28_11": "Explain in detail the negotiations that is particularly proud. (What kind of preparation did you have? How can these data be used?).",
+        "28_12": "NO EXPERIENCE. Sometimes we are given assignments that do not interest us. Tell me about a time when this happened. (What did you do?).",
+        "28_13": "NO EXPERIENCE. Tell me about a time when you had to negotiate expectations __________ (parent, teacher, peers)."
+      }
+    },
+    {
+      "id": 29,
+      "name": "Labor Standards",
+      "text": "Setting goals or standards of performance for high-level self, subordinates, others and the organization; not be satisfied with average performance; self imposing standards of excellence rather than other people to impose.",
+      "actions": {
+        "29_1": "Set high standards of performance.",
+        "29_2": "Underline the high standards to other standards.",
+        "29_3": "Show pride when standards are achieved.",
+        "29_4": "Do not settle for an inferior performance to the standards."
+      },
+      "questions": {
+        "29_1": "When judging the performance of the people directly dependent one, what are the most important factors for you? (Tell me about a time when you used these factors to evaluate a specific employee).",
+        "29_2": "Have you ever decided to terminate an employee for lower performance standards? (Describe a situation in taking this action).",
+        "29_3": "At one time or another, everyone feels pressure to sacrifice quality in order to finish the work on time. Tell me about a time when this happened. (What did you do?).",
+        "29_4": "Are you satisfied with the performance of your computer (your department)? (Why or why not? What steps have been taken [if he has taken any] to improve performance?).",
+        "29_5": "Sometimes the evaluation of a supervisor / team leader differs from his own. When has that happened? (What did you do about it?).",
+        "29_6": "Think of a time when your work was up to standards and once that was below them. What were some reasons for the difference in performance ?.",
+        "29_7": "There are always satisfied with our performance. Tell me about the time that most remember it was not satisfied with its performance. (What did you do about it?).",
+        "29_8": "In his position with _______________, how do you do a good job defined? (Did you do a good job? How did you know? Give me an example).",
+        "29_9": "Describe a time in which I learned that a process or operation went wrong. (What did you do? What effect did the action?).",
+        "29_10": "SALE POSITION. Were you satisfied with the level of sales of its (department) ________________? (Why or why not?).",
+        "29_11": "SALE POSITION. External customers are always satisfied with our efforts. Tell me about a specific occasion in which any of its external customers were dissatisfied. (How did you handle the situation?).",
+        "29_12": "NO EXPERIENCE. Tell me about the research project proudest. (What made it so good? What role did you?).",
+        "29_13": "NO EXPERIENCE. As a student, how defined the good performance? (What you have done to perform in accordance with that definition?).",
+        "29_14": "NO EXPERIENCE. There are always deals with assessments that teachers make of us. Tell me about a time when you disagreed with the assessment of a particular teacher. (How did you handle the situation?)."
+      }
+    },
+    {
+      "id": 30,
+      "name": "Quality Orientation / Attention to Detail",
+      "text": "Perform tasks showing interest in all affected areas, no matter how small; showing concern for all aspects of the job; accurately verify the processes and tasks; stay alert for a period of time.",
+      "actions": {
+        "30_1": "Clarify the details of the tasks.",
+        "30_2": "Complementing all the details.",
+        "30_3": "Check results as to determine whether they are accurate and complete.",
+        "30_4": "Follow established procedures.",
+        "30_5": "Bring a checklist to cover the details."
+      },
+      "questions": {
+        "30_1": "Give me an example of how you knew things were not going well on __________________ with details of a process / function / operation / activity.",
+        "30_2": "Can you tell me a time when quality defects found in the products of labor? (What was wrong? How did you noticed?)",
+        "30_3": "Tell me about a time when you noticed subtle changes in ___________________ (equipment / processes / equipment) in place. (How he noticed the changes? What did he do?)",
+        "30_4": "We have all experienced times when we were too busy to check all details of a project. Tell me about a time when it happened, and some errors escaped him.",
+        "30_5": "Describe the things you do to handle errors in their work. (Tell me about the only time that these methods helped. What did you do?)",
+        "30_6": "All have taken occasion in which we were working on something and ignore one small detail. Describe a time when that happened. (What was the cause? What was he result?)",
+        "30_7": "Working in a repetitive task, it is easy to get bored and overlook important details that could cause problems later. Describe an occasion when this happened.",
+        "30_8": "In his work as __________________, what you noticed any process or task that was performed unsafely? (Tell me about a specific occasion when it happened. How did you find the situation? What did he do?)",
+        "30_9": "Tell me about a time when the details of something that was making were especially important. How he treated those details?",
+        "30_10": "We all had occasions at work when something escaped our attention. Can you tell me about an occasion when this happened? (What was the cause?).",
+        "30_11": "Describe a time when you identified a problem or error that escaped the attention of others.",
+        "30_12": "Tell me about a time when you thought it was over but a project manager / supervisor / team leader is returned for further work. (Describe the project and the steps required to finish).",
+        "30_13": "NO EXPERIENCE. Tell me about a major project that had to do in college. (What steps did before considering it?)."
+      }
+    },
+    {
+      "id": 31,
+      "name": "Result Orientation",
+      "text": "Covers personal liability for business results and creating a high performance culture",
+      "actions": {
+        "31_1": "Create a culture of performance of the organization of high level, including proper use of systems for compensation and benefits.",
+        "31_2": "Provides results that meet or exceed expectations.",
+        "31_3": "Has accountability throughout the organization",
+        "31_4": "Unifies and measures financial objectives with business performance indicators such as capital efficiency",
+        "31_5": "Assumes responsibility for business results",
+        "31_6": "Works proactively and with high sense of urgency to ensure that the results meet"
+      },
+      "questions": {
+        "31_1": "Tell me about a time when a project did not turn out as expected, but you took responsibility for it.",
+        "31_2": "What was the last project that got a jo are translat nce alca saving economical for the company? What did you do?",
+        "31_3": "Tell me about a situation he inherited a project that had arrears? What did you do?",
+        "31_4": "Tell me about a major project that you have already developed.",
+        "31_5": "Tell me about some important deadline and the steps you took to achieve it.",
+        "31_6": "What results are you trying to achieve? (look for an indication that the person is clear about what his/her priorities are takes responsibility for achieving them)",
+        "31_7": "Tell me about the last time one of your projects fell off track. What did you do to get it back on track?",
+        "31_8": "How do you decide what to work on each day? How do you decide what your priorities are?",
+        "31_9": "Tell me about important deadline and the steps you took to meet it.",
+        "31_10": "Tell me about a complex assignment or project you accomplished on your own? Did you initiate it? How did you get started?"
+      }
+    },
+    {
+      "id": 32,
+      "name": "Customer Service Orientation",
+      "text": "Initiative to develop customer relationships by making efforts to listen and understand (internal and external); anticipate and provide solutions to customer needs; give high priority to customer satisfaction.",
+      "actions": {
+        "32_1": "Recognize the customer.",
+        "32_2": "Clarify customer requirements.",
+        "32_3": "Meet or exceed the requirements.",
+        "32_4": "Check the level of satisfaction.",
+        "32_5": "Listen and show empathy.",
+        "32_6": "Assume responsibility for the action."
+      },
+      "questions": {
+        "32_1": "In their work on __________, how do you know if your internal / external customers were satisfied? (Give me a specific example).",
+        "32_2": "Sometimes we all want to change the way we interact with customers. Tell me about an interaction he wanted to change.",
+        "32_3": "Describe a time when you had to ask questions and listen carefully to clarify the exact nature of the problem of internal / external customer.",
+        "32_4": "Even if we could do everything we can to satisfy the customer, it always seems that some complained at the way they were treated. Tell me about the last customer who complained about the service you provided.",
+        "32_5": "Describe a situation in which you chose to involve others to help solve the problem of internal / external customer. (What was the client's problem, and how it helped to solve the participation of others?).",
+        "32_6": "At the end of the day, it is difficult for anyone to be so focused on customers as it was earlier in the day. Tell me about a recent time when you handled a customer interaction and later in the day, in an unsatisfactory manner.",
+        "32_7": "Tell me about a time when he could respond to the request for an internal / external customer in a shorter period than expected. Compare this situation with a time that could not meet the expectations of external / internal customers. (What was the difference?).",
+        "32_8": "There are not enough hours to ensure that all customers are fully satisfied. Give me a recent example of a situation where you just did not have time to fully satisfy a customer.",
+        "32_9": "Do not always agree on the best way to manage internal / external customers. When was the last time your manager / supervisor / team leader criticized the way in which you handled an external / internal customer? (Why?).",
+        "32_10": "Sooner or later we all have to deal with internal / external customer with unreasonable demands. Think of a time when you had to handle such a request. What made?.",
+        "32_11": "What system is used to maintain the external / internal informed about the status of your project customers? (Give me an example of this system when used).",
+        "32_12": "Who are your customers? How do you determine their needs? How do you meet their needs?",
+        "32_13": "Tell me about the last time you had an unhappy customer or set of customers. How did you handle?",
+        "34-14": "Tell me about your most difficult customer. What made the customer difficult? What did you do?",
+        "32_15": "How you have anticipated changes in your customer’s needs and expectations? How have you gotten data when your customer’s needs were changing?",
+        "32_16": "If I were to tell you your customer isn’t happy, what specific evidence and/or data would you give me to prove otherwise?",
+        "32_17": "Describe a time when you put the interest of the customer ahead of your own.",
+        "32_18": "Describe a situation in which you’ve demonstrated a passion for customers.",
+        "32_19": "Describe a time when you worked to better understand the customer’s need.",
+        "32_20": "Describe a time when you went the extra mile to fix a customer’s problem.",
+        "32_21": "What does it mean to you to have a passion for customers?",
+        "32_22": "Tell me about the technology that most interests you?",
+        "32_23": "Why do you want to work for __________________?",
+        "32_24": "If you could change aspects of your current sales organization, alignment and structure, what would the new model look like? (Industry, product, sales specialization, technical resources). How important is industry alignment to your customer?",
+        "32_25": "Give me an example where you have provided vision for a client and provided direction and got this client to switch to your product and technology because it would add business value to their company.",
+        "32_26": "What is the most exciting technology/application area that you see on the horizon? Which aren’t?",
+        "32_27": "SALE POSITION. Describe a time that was particularly important to establish a good relationship with an external client. (What have you done about it).",
+        "32_28": "SALE POSITION. How has found that an external client was dissatisfied? (Tell me about a specific dissatisfied customer who has had).",
+        "32_29": "NO EXPERIENCE. In his position as ___________ (in charge of residence, paraprofessional, etc.), how to ensure they are providing good service? (Give me an example of a client)."
+      }
+    },
+    {
+      "id": 33,
+      "name": "Participation in Meetings",
+      "text": "Using appropriate interpersonal styles and methods to help you reach your goal a meeting; be aware of the needs and potential contributions of others.",
+      "actions": {
+        "33_1": "Provide information and ideas.",
+        "33_2": "Check for understanding.",
+        "33_3": "Listen to others and show appreciation for their contributions.",
+        "33_4": "Make suggestions for procedure.",
+        "33_5": "Work on proposed ideas.",
+        "33_6": "Commit to follow-up action."
+      },
+      "questions": {
+        "33_1": "Sometimes when we met with significant internal / external customer, we do not understand everything about what is being discussed. Tell me about a time when this happened. (What did).",
+        "33_2": "Tell me about a meeting in which you provided expertise. (How he made sure that everyone understood what you said?).",
+        "33_3": "We've all been in meetings where no one able to volunteer to speak or act. Tell me about a time this happened in a meeting that you attended. (What did you do?).",
+        "33_4": "Tell me about a meeting in which you had to take a stand on an issue matter. (What did you say?).",
+        "33_5": "Getting others to accept our ideas can be difficult. Tell me about a time when they struggled to get people to accept your ideas in a meeting. (What approach did you use? What happened?).",
+        "33_6": "Describe a time when you had to express your ideas in a meeting. (What did you say?).",
+        "33_7": "We've all been in meetings where two or more people do not get along. Tell me about a meeting in which you have participated and in which this happened. (What role did you?).",
+        "33_8": "Tell me about a meeting where someone suggested a new idea work affecting you. (How do you react?).",
+        "33_9": "How often he has met with his coworkers as a group? Tell me about a particular meeting. (What was your role in that meeting?).",
+        "33_10": "We've all been in meetings where people started to talk about issues external to the entity. Tell me about a time when this happened. (How did you respond?).",
+        "33_11": "We've all been in meetings where our manager / supervisor / team leader said something that we did not agree. Tell me about a time when this happened. (What did you do?).",
+        "33_12": "NO EXPERIENCE. Tell me about a class in which you were part of a study group. (What was your role in these group meetings?).",
+        "33_13": "NO EXPERIENCE. Tell me about an extracurricular activity in college (or a club) in which you participated. (How often met with that group? What is my role?)."
+      }
+    },
+    {
+      "id": 34,
+      "name": "Organizational Insight (Business Acumen)",
+      "text": "Understand the business and uses this knowledge to help you succeed.",
+      "actions": {
+        "34_1": "Anticipate the future and changing business conditions of the current organization and markets",
+        "34_2": "Understand key business metrics of the company and the drivers of growth and profitability",
+        "34_3": "Includes basic business processes and strives for continuous improvement",
+        "34_4": "Understand the values and the return on investment of programs and initiatives developed"
+      },
+      "questions": {
+        "34_1": "Explain how your class has helped the organization achieve its goals. You have made?",
+        "34_2": "Describe to the products and services your company offers. Did you get to know them?",
+        "34_3": "That you understand that markets will affect your company in the near future. What are your thoughts?",
+        "34_4": "As the department has helped the company to increase its profitability? You have made?"
+      }
+    },
+    {
+      "id": 35,
+      "name": "Planning and Organization / Management Jobs",
+      "text": "Establish a course of action for self and others to accomplish a specific goal; plan the proper assignments of personnel and appropriate allocation of resources.",
+      "actions": {
+        "35_1": "Set priorities.",
+        "35_2": "Set goals and milestones",
+        "35_3": "Calculate the time and schedule activities.",
+        "35_4": "Identify and allocate resources.",
+        "35_5": "Use tools (eg, calendars, files, graphics, etc.)"
+      },
+      "questions": {
+        "35_1": "Tell me about a long-term or short term you developed for your department.",
+        "35_2": "What procedures used to prevent or control the delays in your work area? (Describe a specific case that had to do this).",
+        "35_3": "What goals set for this year? (What steps have you taken to ensure you are making progress on all of them?)",
+        "35_4": "Everyone is too busy at one time or another to plan future activities. Tell me about a time when you were so busy they simply react to situations, rather than planning in this regard.",
+        "35_5": "Describe to me in detail yesterday. (Or last week) and tell me how planned activities during the day (or week).",
+        "35_6": "We've all had experiences at work where we were forced to waste time because it happened something unexpected (unexpected delays, etc.). Tell me about the last time he lost time due to an unexpected event.",
+        "35_7": "Tell me about a time when you faced conflicting priorities. When scheduling your time, how did you determine what the top priority?",
+        "35_8": "We have all experienced situations in which we could achieve just do everything on time. Tell me about a situation that happened.",
+        "35_9": "What procedure is used to keep track of issues that need your attention? (Tell me about a time when you used these proceedings).",
+        "35_10": "At one time or another we've all forgotten to do something important for a customer. Tell me about a recent time when this happened. (What will you miss? Why? What happened?).",
+        "35_11": "It is difficult to know how to prioritize the projects / activities / responsibilities. Tell me about the last time that incorrectly assigned priority to a project / activity / responsibility. (What happened?).",
+        "35_12": "Have you ever had to adjust his work program that did not have all the parts, materials or equipment needed? (Tell me about those situations).",
+        "35_13": "Tell me about a project that you had to plan, organize, and coordinate from beginning to end. Was it successful? Give me an overview of how you planned, organized, and coordinated it. If you had it to do over, what would you differently?",
+        "35_14": "Tell me about a project that you owned that crossed group or divisional boundaries. How did you keep the important parties informed? What problems did you encounter (such as, in organizing resources, coordinating schedules, and so on)? What were the solutions?",
+        "35_15": "Describe your methodology for project estimation and scheduling. What strategy do you have to meet deadlines? How do you measure progress of a project?",
+        "35_16": "SALE POSITION. Explain how you decided what to do last.",
+        "35_17": "NO EXPERIENCE. Tell me about the time his study load was heavier than ever. How did all of your work?",
+        "35_18": "NO EXPERIENCE. What he considered to establish their class schedule?",
+        "35_19": "NO EXPERIENCE. How could strike a balance between their academic work activities extracurricular?"
+      }
+    },
+    {
+      "id": 36,
+      "name": "Formal Presentation",
+      "text": "Present ideas effectively to individuals or groups when you are proportions time for preparation (including nonverbal communication and use of visual aids); presentations specifically focusing on the characteristics and needs of the public.",
+      "actions": {
+        "36_1": "Establish the purpose and importance to the public.",
+        "36_2": "Present content in a logical sequence.",
+        "36_3": "Use appropriate vocabulary and examples.",
+        "36_4": "Effectively use the speed, volume, gestures and eye contact.",
+        "36_5": "Use audiovisual techniques.",
+        "36_6": "Listen to the questions and objections and respond to them."
+      },
+      "questions": {
+        "36_1": "Have you ever made a presentation to your supervisor / manager / team leader? Tell me about one of these presentations. How prepared?.",
+        "36_2": "What approach has been used in presentations to different audiences? Give me a specific example. How it changed their approach to meet the needs of this?.",
+        "36_3": "All presentations have done something important in that went wrong (lost transparencies, faulty audiovisual equipment, hostile audience, etc.). Tell me about the presentation you most remember that went wrong.",
+        "36_4": "Have you given any training in the classroom or workshop.? Tell me about a specific course or workshop that has been addressed.",
+        "36_5": "It is difficult for anyone to do a good job when making a presentation for the first time on a new topic. Tell me about a presentation he did for the first time and it did not go well.",
+        "36_6": "Have you ever made presentations which made recommendations about a new product, service or procedure? Tell me about one of these presentations. How he conducted the presentation?",
+        "36_7": "All have been so busy that it is difficult to properly prepare for an important presentation. Tell me about the last time you did not have enough for the preparation of a key presentation time. (What adverse outcomes was sitting by his lack of preparation?).",
+        "36_8": "Have you had to present technical information to non-technical people? (Give me an example).",
+        "36_9": "We've all had to make difficult public presentations. Can you give me an example of when he made a presentation to a hostile audience?",
+        "36_10": "SALE POSITION. Formal presentations can be very difficult challenges. Tell me about one of his formal presentations would like to repeat.",
+        "36_11": "SALE POSITION. Tell me about one of his most successful formal sales presentations. What was your approach?.",
+        "36_12": "NO EXPERIENCE. Have you ever spoken in public? Tell me about one of these presentations."
+      }
+    },
+    {
+      "id": 37,
+      "name": "Restoration",
+      "text": "Handle frustration and rejection without being affected efficiency.",
+      "actions": {
+        "37_1": "Maintain enthusiasm after a disappointment or rejection.",
+        "37_2": "To maintain the level of performance after a disappointment or rejection.",
+        "37_3": "Recover quickly."
+      },
+      "questions": {
+        "37_1": "Each job has its frustrations. What was one of your biggest frustrations while working in ______________? (How is it addressed?).",
+        "37_2": "Others do not always react positively to the efforts you make. Describe a situation in which devoted much time to prepare a presentation to meet the needs of a client, and his efforts received an unfavorable response. (What did you do?).",
+        "37_3": "The feedback from their managers is not always positive. Tell me about the last time your manager gave you negative feedback. (How do you respond?).",
+        "37_4": "SALE POSITION. No vendor closes all your sales. Tell me about the last time he hoped to achieve a sale but did not. (How did you feel? How did this affect your work with other clients?).",
+        "37_5": "SALE POSITION. We can not always get the support they need sales. Tell me about a time when I needed some help (technical or otherwise) to close a sale, and could not get it. (How do you handle the situation?).",
+        "37_6": "SALE POSITION. Sometimes customers change their minds. Tell me about a time when you thought you had a big order, and then it was canceled. (How do you respond?).",
+        "37_7": "SALE POSITION. Finding new leads is never easy. Tell me about the last time I was trying to get a new customer but was rebuffed repeatedly.",
+        "37_8": "SALE POSITION. All vendors are current or potential customers that act indifferent or hostile. Tell me about one of those situations. (How he managed this client?).",
+        "37_9": "SALE POSITION. The customer feedback is not always positive. Tell me about the last time that one of his customers complained. How did you respond?).",
+        "37_10": "NO EXPERIENCE. Other people do not always react positively to the efforts you make. Tell me about a situation where he devoted much time to developing a presentation or write a paper for one of his classes, and received an unfavorable response. (What did you do?).",
+        "37_11": "NO EXPERIENCE. No racing can win every time. Tell me about a time when you were competing with someone else and lost (in sports, student, student groups, government etc.). (What was the problem? How did you respond?).",
+        "37_12": "NO EXPERIENCE. All have been criticized by others. Tell me about a time when he was criticized by a teacher / manager / colleague? (How do you react?)."
+      }
+    },
+    {
+      "id": 38,
+      "name": "Physical / Health Capacity",
+      "text": "Be free from physical constraints to job performance.",
+      "actions": {
+        "38_1": "None."
+      },
+      "questions": {
+        "38_1": "The assessment of physical health is usually assigned to a doctor. NOT looking for information on this in an interview."
+      }
+    },
+    {
+      "id": 39,
+      "name": "Follow up",
+      "text": "Establish procedures to monitor the results of delegations, assignments or projects; taking into account the skills, knowledge and experience of the assigned individual and the characteristics of the assignment or project.",
+      "actions": {
+        "39_1": "Overcoming obstacles to achieve goals.",
+        "39_2": "Make internal repeated to achieve the goals.",
+        "39_3": "Hold on a task to completion.",
+        "39_4": "Know when to quit."
+      },
+      "questions": {
+        "39_1": "SALE POSITION. Tell me longer period that is required _____________ sale to a customer. (Describe your approach for ordering).",
+        "39_2": "SALE POSITION. Describe a situation where I needed information to prepare for an important sales presentation, but which struggled to get it. (What steps did?).",
+        "39_3": "SALE POSITION. It is often not easy to overcome the objections of a client. Tell me about an important sales lost because he could not overcome customer objections.",
+        "39_4": "SALE POSITION. Win a new customer is never easy. Tell me about a sale that could not close despite their attempts. (Why did you decide to retire?).",
+        "39_5": "SALE POSITION. Sometimes it is hard to know when to quit. Can you tell me about an experience where you felt that persisted too long? (How could this situation be improved?).",
+        "39_6": "SALE POSITION. Describe a situation in which he persisted in a sales strategy or plan in action until the desired or could no longer reach target was reached.",
+        "39_7": "SALE POSITION. Things do not always go as we think. Describe a situation in which he tried his best but did not achieve the desired result.",
+        "39_8": "SALE POSITION. No salesperson closes the sale every time. What was the biggest sale you have lost? (Describe your attempts to make that sale. [Watch for the repeated attempts to close the sale]).",
+        "39_9": "SALE POSITION. Projects rarely go ahead unhindered. Tell me about a recent project you've worked on where he found a major obstacle. (What made to circumvent this obstacle?).",
+        "39_10": "SALE POSITION. Tell me about a client of his who has experienced repeated with the products / services of the company you represent problems. (Describe your strategy for solving the problem of the client).",
+        "39_11": "NO EXPERIENCE. We all have certain subjects that we are easier to learn than others. What was the college course that caused more problems? (How did you handle it?).",
+        "39_12": "NO EXPERIENCE. What was one of the biggest problems encountered while in college? (How did you handle it?).",
+        "39_13": "NO EXPERIENCE. There may be many reasons for not completing a college course. I see (referring to student records) that you did not complete ____________ (the course). (What happened?)."
+      }
+    },
+    {
+      "id": 40,
+      "name": "Tenacity",
+      "text": "Staying with a position or plan of action until the desired objective is achieved or not this is reasonably achievable.",
+      "actions": {
+        "40_1": "Overcoming obstacles to achieve goals.",
+        "40_2": "Make repeated attempts to achieve goals.",
+        "40_3": "Hold on a task to completion.",
+        "40_4": "Know when to quit."
+      },
+      "questions": {
+        "40_1": "SALE POSITION. Tell me about the longest period that has required the sale of _______________ To a customer. (Describe your approach for ordering).",
+        "40_2": "SALE POSITION. Describe a situation where you needed information to prepare for an important sales presentation, but which struggled to get it. (What steps did?).",
+        "40_3": "SALE POSITION. It is often not easy to overcome the objections of a client. Tell me about an important sales lost because he could not overcome customer objections.",
+        "40_4": "SALE POSITION. Win a new customer is never easy. Tell me about a sale that could not close despite their attempts. (Why did you decide to retire?).",
+        "40_5": "SALE POSITION. Sometimes it is hard to know when to quit. Can you tell me about an experience where you felt that persisted too long? (How could this situation be improved?).",
+        "40_6": "SALE POSITION. Describe a situation in which he persisted in a sales strategy or plan of action until the desired or could no longer reach target was reached.",
+        "40_7": "SALE POSITION. Things do not always go as we think. Describe a situation in which he tried his best but did not achieve the desired result.",
+        "40_8": "SALE POSITION. No salesperson closes the sale every time. What was the selling has p I erdido? (Describe your attempts to make that sale. [Watch for the repeated attempts to close the sale]).",
+        "40_9": "SALE POSITION. Projects rarely go ahead unhindered. Tell me about a recent project you've worked on where he found a major obstacle. (What made to circumvent this obstacle?).",
+        "40_10": "SALE POSITION. Tell me about a client of his who has been experiencing repeated problems with the products / services of the company you represent. (Describe your strategy for solving the problem of the client).",
+        "40_11": "NO EXPERIENCE. We all have certain areas that are easier to learn than others. What was the college course that caused more problems? (How did you handle it?).",
+        "40_12": "NO EXPERIENCE. What was one of the biggest problems encountered while in college? (How did you handle it?).",
+        "40_13": "NO EXPERIENCE. There may be many reasons for not completing a college course. I see (referring to student records) that you did not complete _______________ (the course). (What happened?)."
+      }
+    },
+    {
+      "id": 41,
+      "name": "Stress Tolerance",
+      "text": "Maintaining stable performance under pressure or opposition (such as time pressure or ambiguity in the post); relieve stress in a way that is acceptable to the person, others and organization.",
+      "actions": {
+        "41_1": "Identify ways to reduce stress on the job.",
+        "41_2": "Maintaining control while under pressure.",
+        "41_3": "Request support from others when you are stressed.",
+        "41_4": "Use appropriate measures to address the situation (humor, positive attitude, exercise, etc.) techniques."
+      },
+      "questions": {
+        "41_1": "Describe a time when you faced a particularly difficult situation of express delivery (emergency, time, etc.). How you react?",
+        "41_2": "We all go through situations where the work pressure is extremely high. Describe a time like this in their past work experience. How did you react?",
+        "41_3": "Describe a time when you have experienced conflicting demands of work. What were these conflicting demands? How did you respond?",
+        "41_4": "Have you ever been in a situation of new or little known job for which there was little time to prepare? (Give me an example, how would you react?).",
+        "41_5": "To what extent has faced distractions or interruptions in office? (Give me an example of this. How do you react?).",
+        "41_6": "Customers can be difficult at times. Describe one of the most stressful interactions you have had with an internal / external customers. (How do you react?).",
+        "41_7": "How much time away from home requires his work in __________? (Tell me about a time when he was out for a long time. How did you react?).",
+        "41_8": "Sometimes the interactions at work can be difficult. Describe an extremely stressful interaction you have with your manager / supervisor / team leader. (How do you react?)."
+      }
+    },
+    {
+      "id": 42,
+      "name": "Teamwork / Collaboration",
+      "text": "Working effectively with team / work group or those outside the formal line of authority (eg, peers, managers) to achieve the objectives of the organization; take actions that respect the needs and contributions of others; contribute to consensus and accept it; subordinating own objectives of the organization or team.",
+      "actions": {
+        "42_1": "Develop relationships.",
+        "42_2": "Contribute to the success of the team and / or organization."
+      },
+      "questions": {
+        "42_1": "Interacting with others can sometimes be a challenge. Sometimes had difficulty getting along with colleagues / team members / others at work? (Tell me about a specific occasion when this happened. How you handle the situation?).",
+        "42_2": "Tell me about a situation in which a colleague / team member strongly disagreed with his ideas or actions. (How you handle the situation? What was the outcome?).",
+        "42_3": "Tell me about an experience with someone who worked there was less cooperative than you needed to be. (How you handle the situation?).",
+        "42_4": "Describe a time you worked with a group / team to determine the responsibilities of a project. (What problems did the group / team? What role did you?).",
+        "42_5": "Tell me about one of the teams / toughest groups with which he had to work. (What did the team / group was hard? What did you do?).",
+        "42_6": "Sometimes it can be frustrating trying to find and obtain information from others to solve a problem. Please describe a situation com this why you have gone. (What did you do?).",
+        "42_7": "Describe a situation where she could not help a colleague or team member.",
+        "42_8": "Tell me about a situation in which he experienced frustration or impatience in dealing with a colleague, team member or other employee. (What did you do?).",
+        "42_9": "Tell me about an experience you have had in working with a new employee. (How was your working relationship? What did you do to make it so? Give me an example of your dealings with that person.",
+        "42_10": "Occasionally, all of us must deal with someone who makes us lose our time at work. Tell me about a similar situation that you had.",
+        "42_11": "When dealing with team members (or a group), it is difficult to know when you are being overly demanding. Tell me about a time when you might have been too demanding.",
+        "42_12": "Can you give me an example of a team decision you participated in recently? (What did you do to help the team reach that decision?).",
+        "42_13": "Tell me about a time when you worked with a group outside your organization to achieve a mutual goal. How did you identify the group? What specifically did you do to enable the collaboration? What were the issues in getting that a group to cooperate? What things could have been done differently?",
+        "42_14": "Tell me about a time that groups outside your organization looked to you or your team to partner on a common goal. How did you respond? How was the idea to collaborate supported or not supported?",
+        "42_15": "Tell me about a time when a partnership between groups did not work well. What were the issues that prevented collaboration? How might better collaboration have been achieved?",
+        "42_16": "Give an example of a time when you were able to build a long-term relationship with another team that was mutually beneficial? Specifically, what was your role in making this happen? Why was this relationship beneficial to your team? To the other team? To the larger organization or company?"
+      }
+    }
+  ]

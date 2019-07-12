@@ -1,0 +1,1133 @@
+[{
+    "id": 1,
+    "name": "Adaptabilidad",
+    "text": "Mantener la eficacia en diferentes tareas, responsabilidades y personas.",
+    "actions": {
+      "1_1": "Ajustar el enfoque para que se corresponda con los diferentes requisitos de las tareas.",
+      "1_2": "Ajustar el comportamiento al estilo de otros.",
+      "1_3": "Cambiar las prioridades para enfrentarse a demandas cambiantes.",
+      "1_4": "Ajustarse rápidamente a las nuevas responsabilidades y tareas."
+    },
+    "questions": {
+      "1_1": "Hábleme de dos de las personas que dependen directamente de usted/miembros del equipo que sean totalmente diferentes el uno del otro. (Cómo ha manejado/dirigido usted a cada uno de ellos? Deme un ejemplo.)",
+      "1_2": "Hábleme de una situación en la que tuvo que adaptarse rápidamente a un cambio en las prioridades de la organización, el departamento o el equipo. (Cómo lo afectó el cambio a usted?)",
+      "1_3": "Hábleme de una ocasión en la que tenía que cumplir con un plazo programado mientras su trabajo estaba siendo continuamente interrumpido. (Qué fue lo que le causó la mayor dificultad y por qué?)",
+      "1_4": "Trabajar con personas de antecedentes o culturas diversas pueden ser un verdadero desafío. ¿Puede hablarme de una ocasión en la que se enfrentó al desafío de adaptarse a una persona de antecedentes o culturas diferentes? (¿Qué sucedió? ¿Qué hizo usted? ¿Cuál fue el resultado?).",
+      "1_5": "Hábleme de un proyecto/tarea/asignación importante en el que usted trabajara para un cliente interno, en el cual cambiaron las especificaciones. (¿Qué hizo usted? ¿Cómo lo afectó esto a usted?).",
+      "1_6": "Nuestras relaciones con los clientes tienden a variar. Hábleme del cliente interno/externo con el que usted ha tenido la relación menos satisfactoria. (¿Por qué no fue satisfactoria la relación?).",
+      "1_7": "Pasar de _______ (puesto) a _______ (puesto) debe haber sido difícil. Hábleme acerca de un problema que haya surgido al hacer esa transición. (¿Cómo lo manejó usted?).",
+      "1_8": "Algunas veces tenemos que trabajar bajo nuevas reglamentaciones con las que no estamos de acuerdo. Hábleme de la última vez en que usted estuvo en desacuerdo con una nueva política o procedimiento instituidos por la gerencia. (¿Por qué? ¿Qué hizo usted?).",
+      "1_9": "Hábleme del gerente/supervisor/líder del equipo con quien haya sido más difícil trabajar. (¿Cómo manejó usted esta relación difícil?).",
+      "1_10": "En el trabajo todos nos enfrentamos a problemas que son difíciles de resolver. Hábleme de un problema que usted no solucionó en el primer intento. ¿Qué hizo? (Esté atento a cómo el candidato varió el enfoque).",
+      "1_11": "PUESTO DE VENTAS. Hábleme de uno de sus clientes con cuyo contacto clave hubo un cambio. (¿Cuánto tiempo necesitó para sentirse cómodo con su nuevo contacto? ¿Qué medidas adoptó?).",
+      "1_12": "SIN EXPERIENCIA. Veo que se ha mudado varias veces. ¿Cuál fue el problema más difícil al que se enfrentó al mudarse? (¿Cómo se las arregló?).",
+      "1_13": "SIN EXPERIENCIA. Pasar de la universidad a los estudios de postgrado puede ser un cambio radical. (Háblame de un problema particular que haya tenido cuando hizo esta transición)."
+    }
+  },
+  {
+    "id": 2,
+    "name": "Análisis/Evaluación de Problemas",
+    "text": "Obtener información relevante e identificar los asuntos y relaciones clave a partir de una base de información; relacionar y comparar datos de diferentes fuentes; identificar las relaciones de causa-efecto.",
+    "actions": {
+      "2_1": "Detectar la existencia de problemas u oportunidades.",
+      "2_2": "Recopilar toda la información relevante.",
+      "2_3": "Identificar los asuntos o problemas fundamentales.",
+      "2_4": "Organizar la información.",
+      "2_5": "Reconocer las tendencias.",
+      "2_6": "Identificar las relaciones de causa-efecto."
+    },
+    "questions": {
+      "2_1": "Todos hemos estado en situaciones en las que alguien tuvo que quejarse de algo para que descubriéramos un problema que debía ser solucionado. Hábleme de una ocasión en que esto le haya sucedido. (¿Por qué no se detectó antes el problema?)",
+      "2_2": "Describa un problema complicado al que haya tenido que enfrentarse en su puesto. (¿Cómo identificó u obtuvo una mejor comprensión del problema?)",
+      "2_3": "Si tenemos suerte, algunas veces podemos identificar un problema pequeño y corregirlo antes de que se convirtiera en un problema importante. ¿Puede darme un ejemplo de una ocasión en la que pudo identificar un problema pequeño antes de que se convirtiera en un gran problema?)",
+      "2_4": "Es imposible que un gerente/líder de equipo/supervisor esté enterado de todas las razones que un empleado/miembro del equipo pueda tener para no estar satisfecho con su puesto. Hábleme de una ocasión en la que usted descubrió este tipo de problema recién después que el empleado renunció o fue o fue transferido a otro departamento.",
+      "2_5": "¿Alguna vez ha tenido que revisar propuestas presentadas por un proveedor o por otro equipo? (Hábleme de una de esas situaciones).",
+      "2_6": "En una u otra ocasión todos hemos pensado que habíamos manejado satisfactoriamente un problema para finalmente descubrir que en realidad solamente habíamos tocado un síntoma de un problema mayor. ¿Puede hablarme de una ocasión en la que haya sucedido esto?.",
+      "2_7": "Hábleme de una ocasión en la que tuvo que analizar o interpretar información numérica o financiera",
+      "2_8": "Explíqueme detalladamente una situación en la que tuvo que obtener información haciendo muchas preguntas a varia personas. (¿Cómo supo usted qué debía preguntar?)",
+      "2_9": "Hábleme de un problema reciente que haya descubierto en su puesto en ___________ (¿Qué fuentes de información utilizó para identificar este problema?).",
+      "2_10": "¿Cómo ha controlado usted los problemas potenciales con su maquinaria? (Hábleme de un problema potencial que haya advertido).",
+      "2_11": "Es importante que alguien pueda arreglar todas las piezas de las máquinas cada vez que algo se descompone. Hábleme de una ocasión en la que usted no pudo repararlas.",
+      "2_12": "Cuéntame sobre el problema más difícil que tuviste que resolver el año pasado. ¿Tomó esta decisión solo o involucró a otros en la decisión? ¿Por qué lo abordaste de esta manera? ¿Cuál fue el resultado?",
+      "2_13": "Cuéntame sobre la última vez que tuviste que escalar un problema a un nivel superior. ¿Cuál fue la situación? ¿Qué medidas tomaste antes de escalarlo? ¿Cuál fue el resultado? En retrospectiva, ¿cómo manejarías esto de manera diferente, si es que lo harías?",
+      "2_14": "Cuénteme acerca de una situación en la que su análisis de un problema cruzó los límites de la organización. ¿Cómo te acercaste a esto? ¿Cuál fue el resultado?",
+      "2_15": "PUESTO DE VENTAS. Deme un ejemplo de una ocasión en la que no estaba seguro de lo que quería un cliente interno/externo. (¿Cómo manejó la situación?).",
+      "2_16": "PUESTO DE VENTAS. Todos hemos tenido clientes que consideran que saben exactamente lo que deben comprar, pero después que reciben lo que han pedido, se percatan de que en realidad necesitan otra cosa. Hábleme de una ocasión en la que han pedido, se percatan de que en realidad necesitan otra cosa. Hábleme de una ocasión en la que haya sucedido esto.",
+      "2_17": "SIN EXPERIENCIA. ¿Qué tipos de información ha utilizado usted para elegir una carrera profesional? (¿Cómo la utilizó?¿Qué ha aprendido usted?).",
+      "2_18": "SIN EXPERIENCIA. Explíqueme detalladamente una situación en la que tuvo que hacer investigación y analizar los resultados de una de sus clases.",
+      "2_19": "SIN EXPERIENCIA. ¿Qué tipo de información utilizó para escoger dónde estudiar? (¿Cómo la interpreto?)."
+    }
+  },
+  {
+    "id": 3,
+    "name": "Aprendizaje Práctico",
+    "text": "Asimilar y aplicar, de una manera oportuna, información relacionada con el puesto que pueda variar en su complejidad.",
+    "actions": {
+      "3_1": "Hacer preguntas para obtener nueva información.",
+      "3_2": "Leer sobre temas relevantes.",
+      "3_3": "Adquirir habilidades observando a los otros.",
+      "3_4": "Mejorar las habilidades a través de la práctica.",
+      "3_5": "Aplicar con rapidez los nuevos conocimientos y habilidades."
+    },
+    "questions": {
+      "3_1": "En cualquier nuevo empleo, hay algunas cosas que captamos rápidamente y otras cosas que requieren más tiempo para aprenderse. En su puesto en __________, hábleme de algo que haya captado rápidamente y algo que le llevó más tiempo para aprender.",
+      "3_2": "Describa una ocasión en la que pudo aprender algo complejo en un corto período.",
+      "3_3": "Describa una ocasión en la que tuvo dificultad para aprender algo complejo.",
+      "3_4": "Todos hemos tenido ocasiones en las cuales nos sentíamos confundidos/abrumados por un proyecto. Hábleme de una ocasión en que le sucedió esto.",
+      "3_5": "Es importante saber tanto como sea posible acerca de los clientes internos. Hábleme de uno de sus clientes internos más importantes y cómo se enteró usted de sus necesidades y prioridades. (¿Qué fuentes de información utilizó?).",
+      "3_6": "Es difícil mantenerse al día con los rápidos cambios tecnológicos y las innovaciones que prácticamente todos los campos experimentan hoy en día. Hábleme de un área/campo en particular que haya cambiado de una manera que usted todavía no entiende por completo.",
+      "3_7": "Ser un____________ (programador, contador, mecánico, etc.) indudablemente requiere mucho conocimientos técnicos. ¿Cómo los obtuvo usted? (¿Cuánto tiempo le llevó?).",
+      "3_8": "Hábleme de un aspecto complejo de su puesto en __________. (¿Cuánto tiempo requirió para aprenderlo?).",
+      "3_9": "¿Alguna vez ha tenido que aprender nueva información acerca de productos, mercados o procedimientos cambiantes? (Hábleme de una de esas situaciones y de cómo adquirió la nueva información).",
+      "3_10": "Es difícil saberlo todo acerca de un proceso o producto incluso cuando se ha trabajado con él durante mucho tiempo. Deme un ejemplo de un proceso o producto que todavía no domine por completo.",
+      "3_11": "Todos hemos tenido la experiencia de no entenderlo todo acerca de un nuevo producto, servicio o procedimiento, incluso después de asistir a una sesión de entrenamiento. ¿Puede hablarme de una ocasión en la que sucedió esto?",
+      "3_12": "Incluso después de trabajar con una pieza de equipo o maquinaria durante mucho tiempo, es inevitable tener todavía dudas acerca de su operación. Deme un ejemplo de una pieza de equipo o maquinaria en la que haya trabajado durante mucho tiempo y acerca de la cual todavía tenga dudas.",
+      "3_13": "PUESTO DE VENTAS. Hábleme de la información que ha obtenido acerca de un competidor clave. (Deme un ejemplo de cómo utilizó esa información).",
+      "3_14": "SIN EXPERIENCIA. ¿Qué campos técnicos ha estudiado? (Hábleme de un área de estudio. ¿Qué tan difícil la encontró? ¿En qué medida dominó el tema? ¿Cómo lo supo?)."
+    }
+  },
+  {
+    "id": 4,
+    "name": "Asesoría",
+    "text": "Facilitar el desarrollo de los conocimientos y las habilidades de otros; proporcionar retroalimentación oportuna y guía para ayudarlos a alcanzar sus objetivos.",
+    "actions": {
+      "4_1": {
+        "title": "Utilizar eficientemente las habilidades de relación:",
+        "subactions": {
+          "1": "Mantener o incrementar la autoestima.",
+          "2": "Escuchar y responder con empatía.",
+          "3": "Compartir los pensamientos, sentimientos y motivaciones.",
+          "4": "Proporcionar apoyo sin quitar la responsabilidad."
+        }
+      },
+      "4_2": "Acordar en los resultados previstos.",
+      "4_3": "Acordar en las medidas que deben adoptarse.",
+      "4_4": "Observar mientras el aprendiz lleva a cabo el proceso.",
+      "4_5": "Proporcionar retroalimentación inmediata y específica."
+    },
+    "questions": {
+      "4_1": "Hábleme de una persona que depende directamente de usted o un miembro del equipo que haya tenido más éxito como resultado de la asistencia/asesoría que usted le proporcionó. ¿Cómo lo ayudó/asesoró usted?",
+      "4_2": "Describa una tarea complicada en la que tuvo problemas para enseñar a alguien desempeñarla. Que método utilizó? ¿Por qué tuvo/no tuvo éxito?",
+      "4_3": "Todos sabemos que es difícil proporcionar con eficacia retroalimentación para mejorar. Hábleme de una ocasión en que su retroalimentación para mejorar fue mal recibida por alguien con quien usted estaba trabajando.",
+      "4_4": "Describa una ocasión reciente en la que asesoró a alguien. (¿Cuál fue la tarea? ¿Cómo, si es que logró en absoluto, hizo que la persona participara en el proceso, por ejemplo, ofreciendo sugerencias, escuchando sus problemas?).",
+      "4_5": "Deme un ejemplo de una situación en la que usted reforzó satisfactoriamente el desempeño de alguien que trabajaba para usted.",
+      "4_6": "Todos hemos tenido una ocasión en la que nuestros esfuerzos de asesoría no tuvieron éxito. Hábleme de una ocasión en la que usted trabajó con alguien, pero esa persona no mejoró.",
+      "4_7": "Describa la manera en que usted asesoró a dos personas diferentes para llevar a cabo la misma tarea. (¿Cuáles fueron las semejanzas y las diferencias en los métodos que utilizó?).",
+      "4_8": "Todos hemos experimentado situaciones en donde la persona a quien estábamos de asesorar rechazó nuestra oferta de asistencia. Hábleme de una ocasión en la que le sucedió esto. (¿Desde entonces ha tenido usted oportunidad de probar in nuevo método? ¿Algún ejemplo?.",
+      "4_9": "Hábleme de una ocasión en la que usted le proporcionó retroalimentación a alguien después que esta persona tuvo un desempeño deficiente.",
+      "4_10": "La asesoría requiere tiempo y algunas veces falta el tiempo necesario para asesorar adecuadamente. Hábleme de una ocasión en la que no tuvo el tiempo adecuado para asesorar a alguien. (¿Qué sucedió?).",
+      "4_11": "Deme un ejemplo de retroalimentación que usted le proporcionó a alguien a quien estaba asesorando porque tenía dificultades con una tarea asignada. (Sondee para determinar cuán específica y objetiva fue la retroalimentación).",
+      "4_12": "Hábleme de una reunión frente a frente con una persona sensible a quien usted tuvo que darle retroalimentación para mejorar. (¿Qué sucedió?)."
+    }
+  },
+  {
+    "id": 5,
+    "name": "Asociación Empresarial",
+    "text": "Proporciona los programas de más alta calidad, procesos y servicios para la organización.",
+    "actions": {
+      "5_1": "Creación de estructuras que permitan a la organización para abordar los principales retos y oportunidades.",
+      "5_2": "Asegura que los programas, procesos y servicios aporten a los objetivos generales de negocio.",
+      "5_3": "Maximiza el impacto del capital humano en la conducción de los objetivos organizacionales.",
+      "5_4": "Ofrece soluciones de forma proactiva o asesoramiento sobre cuestiones de organización.",
+      "5_5": "Trabaja proactivamente con los líderes de negocio clave para desarrollar e impulsar estrategias de negocio."
+    },
+    "questions": {
+      "5_1": "Déme un ejemplo de la última sugerencia para el fin de mejorar otro departamento.",
+      "5_2": "¿Cuál es el mayor desafío que ha enfrentado en el departamento? ¿Cómo lo reconoció?",
+      "5_3": "Hábleme de la última reunión del personal en la que pudo sugerir diferentes estrategias que afectan el negocio. ¿Qué estrategias sugirió?",
+      "5_4": "Explique el último programa que desarrollo."
+    }
+  },
+  {
+    "id": 6,
+    "name": "Asunción de Riesgos",
+    "text": "Realizar acciones que impliquen un intento deliberado por obtener un beneficio reconocido o una ventaja cuando se entienden las consecuencias negativas potenciales.",
+    "actions": {
+      "6_1": "Tomar decisiones cuando el resultado es poco claro.",
+      "6_2": "Tomar decisiones con consecuencias negativas potenciales.",
+      "6_3": "Realizar acciones que otros podrían evitar.",
+      "6_4": "Realizar acciones con consecuencias negativas potenciales."
+    },
+    "questions": {
+      "6_1": "Describa la decisión profesional más arriesgada que ha tenido que tomar. (Cuánto tiempo le llevó recopilar la información para tomar esa decisión? Cuánto tiempo después de eso para tomar la decisión? ¿Cuál fue el resultado?",
+      "6_2": "Es imposible predecir los resultados exactos de una decisión arriesgada. Hábleme de una decisión arriesgada que quisiera haber tomado, pero no lo hizo.",
+      "6_3": "Describa una ocasión en la que decidió ensayar un enfoque nuevo y no probado, para manejar un problema. ¿Qué sucedió?",
+      "6_4": "Describa una ocasión en la que decidió correr un riesgo y se alegró de haberlo hecho.",
+      "6_5": "Describa una ocasión en la que apoyó la idea de alguna otra persona, la cual tenía poca probabilidad de éxito. (¿Por qué apoyó esta idea? ¿Qué sucedió?).",
+      "6_6": "Nunca es fácil tomar una decisión arriesgada, especialmente cuando no se tiene el apoyo de los colegas/compañeros de trabajo. Hábleme de una decisión arriesgada que evitó porque no tenía apoyo de los demás.",
+      "6_7": "Describa una ocasión en la que decidió hacer algo que habría sido penoso para usted si hubiera fracasado. (¿Qué sucedió?).",
+      "6_8": "Todos hemos tenido ocasiones en las que debíamos tomar una decisión y los amigos o compañeros de trabajo nos aconsejan que evitáramos el riesgo. Describa una ocasión en la que rechazó este consejo y tomó una decisión arriesgada. (¿Qué sucedió?).",
+      "6_9": "Describa una ocasión en la que decidió correr un riesgo y se alegró de haberlo hecho.",
+      "6_10": "Describa uno de los mayores riesgos profesionales que haya corrido durante los últimos cinco años.",
+      "6_11": "Describa una ocasión en la que tuvo que tomar una decisión, tenía varias opciones (algunas arriesgadas) de las cuales escoger. (¿Cómo determinó qué opción representaba la mayor recompensa y cuál representaba la mínima?)."
+    }
+  },
+  {
+    "id": 7,
+    "name": "Catalizador del cambio",
+    "text": "Realiza los cambios necesarios para mejorar el desarrollo profesional.",
+    "actions": {
+      "7_1": "Construye la alineación para crear el tipo de organización necesaria en el futuro.",
+      "7_2": "Fuerza a los líderes empresariales a adueñarse y administrar los procesos y los cambios.",
+      "7_3": "Crea un ambiente dentro de la organización que alienta, fomenta y premia el cambio.",
+      "7_4": "Desarrolla e implementa programas innovadores, procesos y servicios que apoyan y premian la innovación.",
+      "7_5": "Dirige y gestiona el cambio en el rostro de la resistencia y la adversidad.",
+      "7_6": "Pone en marcha estrategias para acelerar el ritmo del cambio.",
+      "7_7": "Funciona con los líderes de negocios para el diagnóstico y el plan para el cambio proactivo."
+    },
+    "questions": {
+      "7_1": "¿Alguna vez se ha enfrentado a una experiencia en la que los empleados no fueron proactivas para un cambio? ¿Qué hiciste?",
+      "7_2": "¿Cómo ha alineado las estrategias con los continuos cambios en el departamento? Déme un ejemplo.",
+      "7_3": "Que sugerencias de cambio ha hecho usted con el fin de mejorar el rendimiento de un empleado?",
+      "7_4": "Háblame de la última vez que se reunió con los directivos de alto nivel para desarrollar estrategias para un cambio que se iban a aplicar?"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Rendición de cuentas",
+    "text": "Una medida de la capacidad de ser responsable de la acción personal",
+    "actions": {
+      "8_1": "Aceptar la responsabilidad personal por las consecuencias de las acciones personales.",
+      "8_2": "Evitar culpar innecesariamente a los demás",
+      "8_3": "Mantiene el compromiso personal con los objetivos independientemente del éxito o fracaso de la decisión personal",
+      "8_4": "Aplica lecciones personales aprendidas de fallos pasadas para avanzar en el logro de éxitos futuros"
+    },
+    "questions": {
+      "8_1": "¿Cómo manejó un incidente cuando no entregó lo prometido?",
+      "8_2": "Describe un momento en el que respondiste proactivamente para encontrar una solución a un problema.",
+      "8_3": "Cuénteme acerca de un momento en que dijo 'es mi culpa' y aceptó la responsabilidad de corregir una situación.",
+      "8_4": "¿De qué resultado estás más orgulloso en tu último trabajo?",
+      "8_5": "¿Cómo sabe si ha entregado un producto o resultado de calidad?",
+      "8_6": "¿Cómo defines la responsabilidad?",
+      "8_7": "¿Qué harías si tuvieras un empleado que tenga resultados individuales increíbles pero que careciera de hacer al equipo mejor?",
+      "8_8": "Cuéntame sobre una ocasión en que fue necesario admitir a otros que cometiste un error. ¿Cómo lo manejaste?",
+      "8_9": "Dame un ejemplo de una situación en la que otros cometieron un fallo o error y tuviste que llevarte la culpa por sus acciones. ¿Cómo te sentiste al hacer eso?",
+      "8_10": "¿Cuál es la peor decisión de negocios que hayas tomado? ¿Qué fue lo peor? ¿Saber lo que sabes te ayudó a evitar tomar esa decisión?",
+      "8_11": "¿Cómo manejó un incidente cuando un subordinado no entrego lo prometido?"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Comunicación Escrita",
+    "text": "Expresar las ideas claramente en documentos que tengan la estructura, organización, gramática, terminología e idioma adecuados a las características y necesidades del público.",
+    "actions": {
+      "9_1": {
+        "title": "Mecánica – utilizar la gramática correcta:",
+        "subactions": {
+          "1": "Utilizar la voz activa",
+          "2": "Utilizar vocabulario y estilo apropiados para el público"
+        }
+      },
+      "9_2": {
+        "title": "Estructura – organizarla en forma lógica",
+        "subactions": {
+          "1": "Expresar las ideas en forma clara y sucinta"
+        }
+      },
+      "9_3": {
+        "title": "Contenido – abordar las necesidades del público:",
+        "subactions": {
+          "1": "Utilizar un estilo apropiado para el propósito"
+        }
+      }
+    },
+    "questions": {
+      "9_1": "Alguna vez ha tenido que redactar material técnico para el personal no técnico? Describa una de esas asignaciones de redacción.",
+      "9_2": "Todos hemos tenido la experiencia de redactar un memo que requería acción específica, para luego descubrir que las personas que lo recibieron no hicieron lo que se suponía que debían hacer. Puede hablarme de una ocasión en que le sucedió esto?",
+      "9_3": "Alguna vez ha escrito algún procedimiento o política para clientes internos/externos u otros miembros de su organización? Hábleme de uno de esos casos.",
+      "9_4": "¿Qué tipos de redacción ha hecho en su puesto de ______________? ¿Puede darme un ejemplo?.",
+      "9_5": "¿Usted redacta y prepara correspondencia o documentos para clientes externos sin la aportación de otros? (Describa una ocasión reciente en la que hizo esto).",
+      "9_6": "¿Ha redactado alguna vez instrucciones para otras personas? Hábleme de una ocasión en la que alguien siguió sus instrucciones fácilmente y una ocasión en la que alguien no pudo seguir sus instrucciones.",
+      "9_7": "¿Alguna vez ha escrito cartas para contestar reclamos? Hábleme de una situación reciente.",
+      "9_8": "Todos hemos tenido la experiencia de que una carta/documento/informe nos sea devuelto por un gerente /líder de equipo/supervisor porque él no entendió lo que tratábamos de decir o porque el documento necesitaba correcciones importantes de gramática, ortografía, etc. Deme un ejemplo de una carta/documento/informe que le haya sido devuelto.",
+      "9_9": "Todos hemos tenido situaciones en las que no tuvimos tiempo para revisar una carta o documento en lo que respecta a correcciones de gramática, puntuación, estilo y ortografía. Hábleme de una ocasión en que le sucedió esto.",
+      "9_10": "¿Alguna vez ha redactado cartas para su gerente/supervisor/líder de equipo? Hábleme de una carta especialmente importante que usted escribió.",
+      "9_11": "PUESTO DE VENTAS. ¿Ha escrito alguna carta memorable a clientes externos solicitando una cita o promoviendo un producto? Hábleme de una de esas cartas.",
+      "9_12": "PUESTO DE VENTAS. ¿Ha escrito propuestas de ventas que fueron enviadas a clientes externos? Hábleme de la mejor propuesta que jamás haya escrito. (¿Por qué fue la mejor? ¿Cómo sabe usted que era buena?).",
+      "9_13": "PUESTO DE VENTAS. Ha alterado usted propuestas o materiales estándar de mercadotecnia para abordar mejor las necesidades o intereses especiales de clientes potenciales externos? (Hábleme de una ocasión reciente en la que hizo esto. ¿Cuál fue la medida de los cambios que hizo?).",
+      "9_14": "PUESTO DE VENTAS. Todos los vendedores han tenido la experiencia de haber redactado una propuesta de ventas acerca de la cual un cliente tuvo muchas preguntas. Describa una ocasión en que le sucedió esto."
+    }
+  },
+  {
+    "id": 10,
+    "name": "Reclutamiento y Selección",
+    "text": "",
+    "actions": {},
+    "questions": {
+      "10_1": "Cuéntame sobre una mala contratación que hiciste. ¿Por qué la persona era una mala contratación? ¿Qué aprendiste?",
+      "10_2": "Cuénteme sobre la última posición clave que tenía abierta. ¿Cómo fue para llenar el puesto? ¿Qué estabas buscando en un candidato? ¿Cuánto tiempo tardaste en llenarlo?",
+      "10_3": "¿Cómo decides cuándo contratar para resultados potenciales contra resultados inmediatos?",
+      "10_4": "Cuando está entrevistando para su grupo, ¿qué tipos de atributos eliminarían directamente a un candidato de inmediato? ¿Por qué?"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Concientización de Seguridad",
+    "text": "Estar consciente sobre las condiciones que afectan la seguridad de los empleados.",
+    "actions": {
+      "11_1": "Observar las reglas y procedimientos.",
+      "11_2": "Alentar a otros para que observen las reglas y procedimientos.",
+      "11_3": "Verificar el estado del equipo.",
+      "11_4": "Reconocer riesgos.",
+      "11_5": "Mejorar las condiciones inseguras."
+    },
+    "questions": {
+      "11_1": "Hábleme de uno de sus nuevos empleados. Cómo se aseguró usted de que su nuevo empleado estuviera adecuadamente enterado en políticas y procedimientos relacionados con la seguridad?",
+      "11_2": "Es fácil tener un accidente o infracción ocasional cuando se trabaja en un puesto tan complejo o peligroso como el suyo. Hábleme de un accidente o infracción en materia de seguridad que usted o su grupo/equipo de trabajo hayan tenido en el último año.",
+      "11_3": "Describa una ocasión en la que tuvo que enfrentarse a alguien que infringió una regla de seguridad industrial o física.",
+      "11_4": "Hábleme de una ocasión en la que le faltaba personal en el trabajo. ¿Qué medidas adoptó para garantizar que la seguridad no se viera comprometida?",
+      "11_5": "¿Algunas de las personas que dependían directamente de usted, o los miembros del equipo, han sido lesionados en el trabajo? (Deme un ejemplo específico. ¿Cómo sucedió?).",
+      "11_6": "Los accidentes suceden. Hábleme de un accidente relacionado con el trabajo que tuvo, o que casi haya tenido. (Sondee en busca de una causa).",
+      "11_7": "Hábleme de una tarea peligrosa que tuvo que desempeñar. (¿Cómo se aseguró de que usted u otra persona no resultaran lesionados?).",
+      "11_8": "En su puesto en ____________, ¿alguna vez advirtió algún proceso o tarea que fuera desempeñado en forma insegura (maquinaria, equipo/operario inseguros)? (Deme un ejemplo. ¿Cómo lo advirtió usted? ¿Qué hizo?).",
+      "11_9": "Hábleme de un material o pieza de equipo peligroso con los que haya trabajado. (¿Qué procedimientos especiales observó?).",
+      "11_10": "Cuando ha estado realmente atareado en el puesto o bajo mucha presión, ¿qué medidas ha adoptado para garantizar que la seguridad no se viera comprometida?.",
+      "11_11": "A veces todos hemos tomado atajos para hacer un trabajo. Hábleme de una ocasión en la que fue necesario utilizar un atajo en una práctica de seguridad para hacer un trabajo."
+    }
+  },
+  {
+    "id": 12,
+    "name": "Conocimientos Técnicos/Profesionales",
+    "text": "Haber alcanzado un nivel satisfactorio de habilidades o conocimientos técnicos y profesionales en las áreas relacionadas con el puesto; mantenerse al día sobre los sucesos y las tendencias actuales en el área de competencia.",
+    "actions": {
+      "12_1": "Conocer la terminología y los avances técnicos.",
+      "12_2": "Saber cómo aplicar una habilidad o procedimiento técnico.",
+      "12_3": "Saber cuando aplicar una habilidad o procedimiento técnico.",
+      "12_4": "Realizar tareas complejas en el área de competencia."
+    },
+    "questions": {
+      "12_1": "Todos cometemos errores, incluso en nuestra área de conocimiento. Deme un ejemplo de un error que haya cometido en su área de conocimiento.",
+      "12_2": "Describa un proyecto, situación o asignación que haya constituido un desafio a sus habilidades como __________. (Que hizo para manejar eficazmente la situación?).",
+      "12_3": "Algunas veces los proyectos complejos requieren conocimientos adicionales. Describa una situación en la que tuvo que solicitar ayuda o asistencia para uno de sus proyectos técnicos o asignaciones.",
+      "12_4": "Alguna vez ha tenido que orientar a un nuevo empleado en una tarea o área técnica? (Hábleme de una de esas situaciones).",
+      "12_5": "¿Qué entrenamiento técnico ha recibido? (¿Puede darme un ejemplo de cómo ha aplicado este entrenamiento?).",
+      "12_6": "Todos hemos tenido la experiencia de recibir una nueva tarea/responsabilidad que deberíamos haber sabido cómo manejar correctamente por nuestra preparación y entrenamiento, pero que no pudimos manejar. Describa una ocasión en que le sucedió esto.",
+      "12_7": "Describa una ocasión en la que solucionó un problema técnico.",
+      "12_8": "¿Para operar qué equipo ha recibido entrenamiento? (¿Qué tan hábil es al respecto?).",
+      "12_9": "Deme un ejemplo de un proyecto que demuestre sus conocimientos técnicos en ____________.",
+      "12_10": "Describa cómo ha procedido para aprender una nueva tarea técnica.",
+      "12-11": "Todo el mundo ha tenido la experiencia de pensar que sabía cómo solucionar un problema relacionado con el puesto, para encontrar finalmente que no lo sabía. ¿Puede hablarme de una ocasión en que haya sucedido esto?.",
+      "12_12": "¿Cuánta experiencia ha tenido en operar un/una ____________(máquina de escribir, procesador de palabras, taladro de banco, etc.)? (¿Qué tan hábil es al respecto?).",
+      "12_13": "Describa el trabajo de mantenimiento más difícil que ha realizado.",
+      "12_14": "¿Cuéntame sobre el problema técnico más interesante o emocionante que has intentado resolver el año pasado? ¿Por qué fue emocionante para ti?",
+      "12_15": "Cuéntame acerca de una vez que descubriste una idea creativa. ¿Cómo hiciste para apoyar y nutrir esta idea?",
+      "12_16": "Cuéntame sobre una vez que viste que un proyecto necesitaba una nueva dirección. ¿Cómo viste la necesidad del cambio? ¿Qué hiciste? ¿Cuál fue el resultado?",
+      "12_17": "Cuénteme sobre la última vez que estuvo involucrado en traer un nuevo producto o servicio al mercado. ¿Dime cómo evitaste que tus empleados se estancasen, que se quedasen atrapados en la rutina diaria? ¿Qué haces para alentarlos a pensar 'fuera de la caja'?",
+      "12_18": "SIN EXPERIENCIA. Deme un ejemplo de una asignación en la que haya trabajado, en la que se demuestren sus conocimientos en __________. (¿Qué hizo?)."
+    }
+  },
+  {
+    "id": 13,
+    "name": "Control de la Información",
+    "text": "Establecer procedimientos permanentes de recopilación y revisión de la información necesaria para el manejo de los proyectos o de una organización; tomar en consideración las habilidades, los conocimientos y la experiencia de los individuos responsables y las características de las asignaciones o proyectos.",
+    "actions": {
+      "13_1": "Establecer sistemas/programas para supervisar el progreso del trabajo.",
+      "13_2": "Recopilar y analizar los informes sobre los proyectos de trabajo.",
+      "13_3": "Observar los proyectos en proceso.",
+      "13_4": "Reunirse con otros para analizar el estado actual del proyecto.",
+      "13_5": "Identificar las fuentes de recopilación de datos."
+    },
+    "questions": {
+      "13_1": "¿Qué clase de información ha utilizado usted para permanecer informado acerca de lo que sucede en su organización? (Hábleme de una ocasión en la que utilizó esa información).",
+      "13_2": "¿Cómo ha hecho seguimiento de lo que hacen las personas que dependen directamente de usted? (Hábleme de una ocasión en la que utilizó la información de tal seguimiento).",
+      "13_3": "¿Cómo ha seguido usted las reglamentaciones que afectan a su industria (por ejemplo, legislativa, de protección ambiental)? (Deme un ejemplo).",
+      "13_4": "¿Ha supervisado la productividad o el desempeño de su equipo/grupo? (Deme un ejemplo).",
+      "13_5": "Es difícil saber cuál es la información/los datos clave que deben controlarse en un proyecto importante. Hábleme de una ocasión en la que su equipo/grupo/departamento se concentró en la información equivocada.",
+      "13_6": "¿Qué clase de información ha utilizado usted para mantenerse informado de lo que hacen las organizaciones competitivas? (Hábleme de una ocasión en la que utilizó esa información).",
+      "13_7": "Todos hemos participado en un proyecto que se desvió de su cauce porque recibimos datos críticos demasiado tarde para poder hacer un cambio. Hábleme de una ocasión en la que sucedió esto.",
+      "13_8": "¿Ha supervisado usted la productividad o el desempeño de su equipo/grupo? (Deme un ejemplo).",
+      "13_9": "Es difícil hacer un seguimiento de políticas/procedimientos cambiantes. Deme un ejemplo de cuando un procedimiento/política cambió sin que usted lo supiera. (¿Qué sucedió? ¿Por qué no estaba usted enterado?).",
+      "13_10": "Hábleme de una ocasión en la que estableció procedimientos continuados para el equipo/grupo.",
+      "13_11": "Todos hemos experimentado ocasiones en las que el paso en un procedimiento ha sido omitido. Describa una ocasión en la que se omitió un paso en un proceso continuado.",
+      "13_12": "Hábleme de una ocasión en la que la retroalimentación que usted obtuvo sobre un proyecto o proceso fue especialmente útil en el resultado de ese proyecto.",
+      "13_13": "Todos experimentamos obstáculos al tratar de recopilar la información necesaria. Hábleme de una ocasión en la que usted se encontró con obstáculos para recopilar información. (¿Cómo los eliminó?)."
+    }
+  },
+  {
+    "id": 14,
+    "name": "Delegación de Autoridad y Responsabilidad",
+    "text": "Asignar la autoridad en la toma de decisiones y las responsabilidades relacionadas con tareas a las personas apropiadas que dependen directamente de uno; utilizar eficientemente el tiempo, las habilidades y el potencial de quienes dependen directamente de uno.",
+    "actions": {
+      "14_1": "Prever la asignación de tareas a los individuos apropiados.",
+      "14_2": "Asignar la responsabilidad por la acción.",
+      "14_3": "Aclarar el ámbito de autoridad y responsabilidades.",
+      "14_4": "Comunicar confianza a los individuos.",
+      "14_5": "Proporcionar recursos para llevar a cabo las asignaciones.",
+      "14_6": "Establecer procesos y fechas de seguimiento."
+    },
+    "questions": {
+      "14_1": "Hábleme de un proyecto/tarea/asignación importante que haya delegado. ¿Qué recursos proporcionó para asegurar el éxito del mismo?",
+      "14_2": "Hábleme de una situación en la que alguien no quería aceptar la responsabilidad por una asignación, tarea o proyecto delegado. (Cómo respondió usted ante la resistencia de esa persona?).",
+      "14_3": "¿Qué clase de proyecto/tarea/asignación no delegaría usted? (Puede darme un ejemplo de una ocasión en la que decidió no delegar esta clase de trabajo? Por qué?)",
+      "14_4": "Ha tenido alguno vez una situación en la que no quería delegar pero tuvo que hacerlo? (Hábleme al respecto).",
+      "14_5": "Determinar quién es la persona apropiada para delegarle una tarea puede ser difícil. Hábleme de una ocasión en la que delegó un proyecto/tarea asignación importante a la persona equivocada. (¿Qué sucedió? ¿Por qué?).",
+      "14_6": "¿Alguna vez le ha pedido a alguien que cubra su puesto cuando tuvo que salir de la ciudad o de la oficina?. (Hábleme de una de esas situaciones).",
+      "14_7": "Al delegar un proyecto/tarea/situación relevante, es importante comunicar su confianza y fe en la capacidad de esa persona para hacer el trabajo. Deme un ejemplo de cómo hizo esto en una asignación reciente que delegó.",
+      "14_8": "La mayoría de nosotros les hemos asignado trabajo a personas que dependen directamente de nosotros, y éstas no sabían cual era el propósito. ¿Puede hablarme de una ocasión en la que sucedió eso? (¿Por qué sucedió? [Sondear en busca de instrucciones poco claras, asignaciones a la persona inapropiada, o falta de plazos específicos]).",
+      "14_9": "Es difícil establecer el equilibrio entre lo que se delega y las tareas que hace uno mismo. Hábleme de una ocasión en la que no delegó lo suficiente. (¿Qué sucedió?).",
+      "14_10": "Hábleme de una de las asignaciones para solución de problemas más difíciles que haya delegado.",
+      "14_11": "Cuando estamos muy atareados con el trabajo, algunas veces no tenemos otra opción que delegar más de lo que quisiéramos. Háblame de una ocasión en la que usted le delegó a un empleado más de lo que hubiera querido delegar.",
+      "14_12": "Al asignarle trabajo a personas que dependen directamente de usted, ¿cómo determinó la cantidad de instrucciones que debía proporcionarles? (Deme un ejemplo de una situación en la que aplicó estas pautas)."
+    }
+  },
+  {
+    "id": 15,
+    "name": "Desarrollo del Personal",
+    "text": "Desarrollar las habilidades y aptitudes de las personas que dependen directamente de uno mediante la planeación eficaz de actividades de desarrollo relacionadas con los puestos actuales y futuros.",
+    "actions": {
+      "15_1": "Identificar mutuamente las necesidades y oportunidades de desarrollo.",
+      "15_2": "Discutir sobre los objetivos de desarrollo y convenir en los mismos.",
+      "15_3": "Identificar mutuamente las oportunidades de entrenamiento.",
+      "15_4": "Convenir en las tareas para cumplir los objetivos de desarrollo.",
+      "15_5": "Crear oportunidades para aplicar nuevas habilidades.",
+      "15_6": "Reducir al mínimo los obstáculos para el desarrollo."
+    },
+    "questions": {
+      "15_1": "¿Cuáles eran las principales necesidades de entrenamiento y desarrollo del personal en su departamento/grupo/equipo? (Cómo identificó esas necesidades? ¿Qué ha hecho para abordar esas necesidades?).",
+      "15_2": "¿Si usted fuera ascendido mañana, tiene quien lo substituya? (Qué ha hecho para ayudar al desarrollo de esa persona?).",
+      "15_3": "¿Cómo, si es que lo ha logrado, ha hecho que las personas que dependen directamente de usted participen en la determinación de sus necesidades de desarrollo? (Deme un ejemplo especifico).",
+      "15_4": "Algunas veces las necesidades/prioridades de desarrollo no pueden ser abordadas por medio de programas formales de entrenamiento y desarrollo. Deme un ejemplo reciente de como usted y una persona que dependía directamente de usted desarrollaron una nueva habilidad sin asistir a un programa formal.",
+      "15_5": "Todos hemos ascendido a alguien a un puesto en el que estábamos seguros que tendría éxito, para finalmente descubrir que la persona fracasaba. Deme un ejemplo de cuando le sucedió esto a usted. (¿Qué salió mal?).",
+      "15_6": "¿En que medida las personas que dependen directamente de usted o los miembros del equipo han recibido entrenamiento multifuncional? (¿Por qué? ¿Cómo?).",
+      "15_7": "Todos sabemos que es fácil olvidarse de proporcionar retroalimentación constante para mejorar a las personas con alto desempeño. Hábleme de la persona con más alto nivel de desempeño que haya trabajado con usted. (¿Qué tan frecuentemente ha discutido sobre retroalimentación que les ha proporcionado a otras personas?).",
+      "15_8": "Hábleme de una ocasión en la que una de las personas que dependen directamente de usted pensaba que estaba lista para ser ascendida, pero usted no estuvo de acuerdo. (¿Qué hizo usted?).",
+      "15_9": "No todas las personas que dependen directamente de uno se desempeñan satisfactoriamente en sus puestos. Hábleme de una persona que depende directamente de usted que fue despedida porque no trabajaba bien. (¿Por qué fue despedida? ¿Hizo usted algo para trabajar con ella en sus áreas problemáticas antes de que fuera despedida? ¿Qué hizo?).",
+      "15_10": "No siempre es fácil dedicar mucho tiempo a cada persona que depende directamente de uno. Piense en una ocasión en la que usted no contribuyó al desarrollo de una persona que dependía directamente de usted. (¿Qué sucedió?).",
+      "15_11": "Describa a una de las personas que dependen directamente de usted y hábleme de las metas a largo plazo que usted tiene para esa persona. (¿Qué medidas ha adoptado para ayudarle a esta persona a alcanzar esas metas?.",
+      "15_12": "Hábleme acerca de la menos eficiente de las personas que dependían directamente de usted. (¿Cuáles eran sus puntos fuertes y sus puntos débiles? ¿Qué hizo usted para mejorar su desempeño?).",
+      "15_13": "SIN EXPERIENCIA. Hábleme de un puesto de liderazgo que usted haya ocupado en un club u organización. (¿Cómo desarrolló a una persona que pudiera substituirlo?)."
+    }
+  },
+  {
+    "id": 16,
+    "name": "Diseño de Puestos con Empowerment",
+    "text": "Determinar la organización y la estructura del puesto más eficaces para alcanzar un objetivo o estrategia; reconfigurar apropiadamente los puestos para maximizar las oportunidades para el empowerment, el mejoramiento continuo y la flexibilidad de los empleados.",
+    "actions": {
+      "16_1": "Identificar los obstáculos que se oponen al empowerment.",
+      "16_2": "Reconocer los obstáculos que se oponen a la calidad y la eficacia.",
+      "16_3": "Optimizar la estructura del puesto."
+    },
+    "questions": {
+      "16_1": "Describa una ocasión en la que pudo adaptar un puesto o actividad para adecuarlo a las habilidades, capacidades y motivaciones individuales de la persona que lo desempeñaba.",
+      "16_2": "En su puesto actual como______________, ¿cuáles considera usted que son los principales obstáculos para el empowerment y la mejora continua? (¿Qué está haciendo usted en relación con estos obstáculos?).",
+      "16_3": "Ninguna organización está exenta de ineficiencias. ¿Cuáles son los principales factores que impiden la eficacia en su organización? (¿Qué está usted haciendo al respecto?).",
+      "16_4": "Deme un ejemplo de una ocasión en la que usted reconfiguró las estructuras del puesto individual/del equipo para aumentar la productividad organizacional.",
+      "16_5": "Aunque el papeleo burocrático puede representar un verdadero desgaste para la efectividad de una organización, algunas veces es difícil, si no imposible, eliminarlo. Deme un ejemplo de papeleo burocrático que usted ha tratado de eliminar, pero no lo ha logrado. (¿Por qué no ha tenido éxito?).",
+      "16_6": "¿Cómo caracterizaría usted el nivel de satisfacción de su organización/departamento/equipo? ¿Cómo podría elevarlo?",
+      "16_7": "Describa una actividad que su organización solía desempeñar y que usted eliminó porque impedía que las personas tomaran sus propias decisiones.",
+      "16_8": "Aunque pudiéramos reconfigurar nuestra organización/departamento/equipo para lograr mayor productividad, podríamos siempre no tener éxito. Hábleme de una ocasión en la que intentó reconfigurar su organización/departamento/equipo para lograr mayor productividad, pero no tuvo éxito.",
+      "16_9": "Hábleme de la última vez en que reestructuró su organización/departamento/equipo. (¿Por qué hizo la reestructuración? ¿Alcanzó sus objetivos?).",
+      "16_10": "¿Cómo ha decidido cuándo era necesario, y si era necesario, reconfigurar un puesto/equipo? (Deme un ejemplo de cuando aplicó esta estrategia).",
+      "16_11": "Los empleados de ninguna organización están totalmente satisfechos. Dígame qué podría aumentar la satisfacción de los empleados en su organización /departamento/ equipo.",
+      "16_12": "¿Qué medidas ha adoptado usted en los últimos seis meses para aumentar el grado de empowerment de su organización/departamento/equipo?",
+      "16_13": "¿Qué medidas ha planeado para el futuro próximo (dentro de los próximos seis meses) para aumentar la eficiencia de su organización?"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Energía",
+    "text": "Mantener consistentemente un alto nivel de actividad o productividad; mantener horarios de trabajo prolongados.",
+    "actions": {
+      "17_1": "Trabajar en horarios prolongados sin perder eficiencia.",
+      "17_2": "Mantener un ritmo rápido de trabajo a través del tiempo.",
+      "17_3": "Desempeñar eficazmente el trabajo física o mentalmente agotador."
+    },
+    "questions": {
+      "17_1": "Hábleme de una ocasión en la que tuvo que trabajar a un ritmo rápido durante un período prolongado. (¿Qué clase de trabajo hacía? ¿Qué hizo para mantener el ritmo?).",
+      "17_2": "Hábleme de una ocasión en la que trabajó turnos rotativos o turnos nocturnos. (¿Qué hizo para mantener su eficiencia?).",
+      "17_3": "¿Cuánto tiempo extra ha promediado en los últimos tres meses? (¿Por qué necesitó trabajar tiempo extra?).",
+      "17_4": "Todo el mundo comete errores cuando está cansado en el trabajo. Háblame de la última vez en que realmente estaba fatigado mientras trabajaba. (¿Qué errores cometió en su trabajo?).",
+      "17_5": "¿Qué clase de tareas físicas se le requerían en su proyecto como____________?.",
+      "17_6": "Todos hemos tenido días difíciles en los que, al final del mismo, no éramos tan eficientes en el puesto como deberíamos serlo. Hábleme de una ocasión en que a usted le sucedió esto. (¿Qué hizo?).",
+      "17_7": "Hábleme de una ocasión en la que trabajó hasta tarde o los fines de semana durante un período prolongado. (¿Cuál fue el resultado?).",
+      "17_8": "¿Qué actividades del puesto ha encontrado que requieren más energía? (¿Qué hizo para mantener su eficiencia?).",
+      "17_9": "Después de unas largas vacaciones/descanso prolongado puede ser difícil volver al trabajo. Hábleme de su primer día en el puesto después de sus últimas vacaciones largas/descanso prolongado. (¿Qué hizo para mantener su eficiencia?).",
+      "17_10": "PUESTO DE VENTAS. ¿Cuántas visitas de ventas ha hecho durante una semana promedio en _______________? (¿Cuánto tiempo programó entre una visita y otra? ¿Qué sucede cuando tiene menos tiempo que el programado?).",
+      "17_11": "PUESTO DE VENTAS. Después de un día completo de citas, reuniones y presentaciones, es imposible que al final del mismo los vendedores sean tan eficientes como quisieran serlo. Hábleme de la última vez en la que tuvo que esforzarse hasta el final de un largo día de trabajo."
+    }
+  },
+  {
+    "id": 18,
+    "name": "Facilitación de Reuniones / Liderazgo en Reuniones",
+    "text": "Utilizar estilos y métodos interpersonales apropiados para guiar a los participantes hacia los objetivos de una reunión: modificar el comportamiento de acuerdo con tareas y los individuos presentes.",
+    "actions": {
+      "18_1": {
+        "title": "Utilizar con eficacia las habilidades de relación eficientemente:",
+        "subactions": {
+          "1": "Mantener o incrementar la autoestima.",
+          "2": "Escuchar y responder con empatía.",
+          "3": "Pedir ayuda y alentar la participación.",
+          "4": "Compartir los pensamientos, sentimientos y motivaciones.",
+          "5": "Proporcionar apoyo sin quitar la responsabilidad."
+        }
+      },
+      "18_2": "Seguir una secuencia lógica al dirigir una reunión.",
+      "18_3": "Hacer sugerencias de procedimiento.",
+      "18_4": "Verificar la comprensión y el acuerdo.",
+      "18_5": "Presentar sugerencias y puntos de vista de una manera apropiada y convincente.",
+      "18_6": "Proveer los obstáculos en las reuniones y desarrollar estrategias para vencerlos."
+    },
+    "questions": {
+      "18_1": "Obtener la aceptación de sus ideas por parte de otros puede ser difícil. Hábleme de una ocasión en la que tuvo problemas para que las personas que dependían directamente de usted/miembros del equipo/otros aceptaran su idea. (Qué enfoque utilizó? ¿Qué sucedió?).",
+      "18_2": "Hábleme de cómo trata de mantener las reuniones encauzadas. (Hábleme de una reunión específica en la que haya utilizado esta estrategia).",
+      "18_3": "Hábleme de una reunión que usted tuvo que dirigir en la que trataba un tema problemático. (Cómo se las arregló con las objeciones que le fueron planteadas?).",
+      "18_4": "Hábleme de una ocasión en la que incluyó a personas que dependían directamente de usted/miembros del equipo en una reunión para resolver un problema. (¿Qué enfoque utilizó? ¿Qué sucedió?).",
+      "18_5": "Todos hemos tenido personas que dependían directamente de nosostros/miembros del equipo que no trabajan bien juntos. Háblame de una reunión en la que este tipo de relación causó un problema. (¿Qué medidas adoptó durante la reunión para mejorar la relación entre estas personas?).",
+      "18_6": "Hábleme de una nueva idea que usted les propuso a personas que dependían directamente de usted/miembros del equipo en una reunión. (¿Qué enfoque utilizó para que otros la aceptaran?).",
+      "18_7": "Todos hemos estado en reuniones en las que nadie se ofreció como voluntario para hablar o actuar. Háblame de una ocasión en que le sucedió esto en una reunión que usted dirigía. (¿Qué hizo?).",
+      "18_8": "Todos hemos estado en reuniones donde un gerente/supervisor/líder de equipo dijo algo con lo que estábamos en desacuerdo. Hábleme de una ocasión en que le sucedió esto. (¿Qué hizo usted?).",
+      "18_9": "¿Alguna vez ha dirigido una reunión en la que un participante sugirió una idea inapropiada? (¿Cómo le respondió usted a esa persona?).",
+      "18_10": "Algunas veces al reunirnos con un cliente interno/externo importante, no estamos de acuerdo con todo lo que se discute. Hábleme de una reunión que usted dirigió donde le sucedió esto. (¿Qué hizo?).",
+      "18_11": "Piense en una reunión que haya dirigido recientemente. ¿Cómo terminó la reunión? (¿Qué dijo o hizo usted?).",
+      "18_12": "SIN EXPERIENCIA. Describa una asignación de clase en la que tuvo que ejercer influencia sobre otros estudiantes para que éstos cooperaran. (¿Qué dijo usted?).",
+      "18_13": "SIN EXPERIENCIA. Describa una ocasión en la que tuvo que dirigir una reunión de estudiantes, y el grupo se estaba desviando de su curso. (¿Qué hizo usted?)."
+    }
+  },
+  {
+    "id": 19,
+    "name": "Habilidad para Persuadir y Vender",
+    "text": "Mediante el uso de estilos interpersonales y métodos de comunicación apropiados para lograr la aceptación de una idea, un plan, una actividad o un producto por parte de clientes actuales y potenciales.",
+    "actions": {
+      "19_1": "Determinar los requerimientos del cliente y los criterios de decisión.",
+      "19_2": "Seleccionar el método apropiado para la situación.",
+      "19_3": "Demostrar de qué manera el producto o el servicio cumple con los requerimientos.",
+      "19_4": "Determinar la naturaleza y las objeciones y responder adecuadamente."
+    },
+    "questions": {
+      "19_1": "Hábleme de una ocasión en la que tuvo que obtener el apoyo o cooperación de varias personas con perspectivas muy diferentes. (¿Cómo abordó a esos individuos?).",
+      "19_2": "Describa un nuevo procedimiento o idea que implementó recientemente que fuera considerablemente diferente del procedimiento estándar. (¿Qué enfoque utilizó para lograr que las personas que dependían directamente de usted, los colegas y otras personas estuvieran de acuerdo con él?",
+      "19_3": "Describa una situación en la que tuvo que utilizar un enfoque diferente o tal vez varios enfoques porque el enfoque inicial no convenció o persuadió a los demás.",
+      "19_4": "Algunas veces, aunque pudiéramos tener la mejor idea para resolver un problema, es imposible convencer a otros del valor de esa idea. Háblame de una ocasión en la que no pudo convencer a otros del mérito de su idea.",
+      "19_5": "¿Cuál fue una de las mejores ideas que usted probó pero que no pudo lograr que la aceptara un gerente/supervisor/miembro del equipo/colega/cliente? (¿Qué enfoque utilizó usted? ¿Por qué fracaso la idea?).",
+      "19_6": "Al trabajar con un plazo ajustado, no siempre es posible darse el lujo de convencer a otros de que deben hacer algo; es necesario ser directo y decirles qué deben hacer y cómo hacerlo. Hábleme de una ocasión en la que tuvo que adoptar este enfoque con un miembro del equipo/compañerote trabajo/colega.",
+      "19_7": "Algunas veces, los clientes toman las decisiones incorrectas y aceptan propuestas que estén lejos de ser las mejores. Describa una ocasión en la que presentó una propuesta que debería haber sido aceptada por un cliente, pero no lo fue.",
+      "19_8": "PUESTO DE VENTA. Hábleme de una ocasión en la que percudió a alguien para que hiciera algo. (¿Cuál fue la situación? ¿Cómo persuadió a la persona?).",
+      "19_9": "PUESTO DE VENTA. Describa una situación en la que trató de obtener el apoyo de un profesor o un colega a favor de una idea, pero no lo logró. (¿Cuál fue la situación? ¿Cómo procedió para tratar de obtener el apoyo de esas personas?)."
+    }
+  },
+
+  {
+    "id": 20,
+    "name": "Iniciativa",
+    "text": "Hacer activos intentos por influir sobre los acontecimientos a fin de lograr los objetivos; iniciar acciones en lugar de aceptarlas pasivamente; realizar acciones que excedan lo requerido para alcanzar las metas; tener iniciativa.",
+    "actions": {
+      "20_1": "Tener iniciativa.",
+      "20_2": "Proponer ideas para mejorar.",
+      "20_3": "Solucionar los problemas sin que se lo requieran.",
+      "20_4": "Aprovechar las oportunidades sin que se lo soliciten.",
+      "20_5": "Buscar oportunidades para mejorar.",
+      "20_6": "Hacer más de lo requerido."
+    },
+    "questions": {
+      "20_1": "¿Qué ha hecho usted de diferente manera de sus colegas en su organización? (Por qué? Deme un ejemplo de lo que hace que su trabajo sea único).",
+      "20_2": "¿Cuál ha sido su mayor logro en _____________? ( Qué medidas adoptó para lograrlo?).",
+      "20_3": "Describa una situación en la que vio un problema y tomó medidas para corregirlo en vez de esperar a que otro lo hiciera.",
+      "20_4": "Describa algunas maneras en las que usted modificó su trabajo en ____________. (¿Qué lo indujo a hacer esos cambios?).",
+      "20_5": "Todo el mundo sabe que algunas veces, aunque algo debería ser modificado o mejorado, no vale la pena el esfuerzo de hacerlo. Déme un ejemplo de un cambio de política o procedimiento de la organización/equipo/departamento que usted sabe que debería hacerse pero no ha hecho nada al respecto.",
+      "20_6": "Por alguna buena razón todos hemos experimentado fracaso en el puesto. Hábleme de su mayor fracaso en su puesto en ______________. (¿Qué sucedió? ¿Por qué? En retrospectiva, ¿qué podría usted haber hecho de forma diferente para evitar el fracaso?).",
+      "20_7": "Todos sabemos que nunca hay tiempo suficiente para hacer todo lo posible para exceder o incluso cumplir con las expectativas de los clientes todas las veces. Hábleme acerca de una situación con un cliente en la que usted no hizo el esfuerzo extra porque no contaba con el tiempo. (¿Qué sucedió?).",
+      "20_8": "Aunque podría existir la necesidad, todos sabemos que no siempre hay una recompensa al ofrecerse como voluntario para un trabajo adicional en un proyecto o asignación especial. Hábleme de una vez en la que usted no se ofreció como voluntario o no participó en un proyecto especial porque sabía que no habría recompensa ni reconocimiento por hacerlo.",
+      "20_9": "¿Ha adoptado usted alguna medida para mejorar sus habilidades o su desempeño? (Deme un ejemplo).",
+      "20_10": "PUESTO DE VENTAS. En todas las situaciones de ventas, usted siempre podría hacer algo más que tratar de cerrar el trato. Hábleme de una ocasión en la que no hizo ningún esfuerzo extra para obtener una venta en particular y terminó perdiéndola. (¿Por qué no hizo usted ningún esfuerzo extra?).",
+      "20_11": "PUESTO DE VENTAS. ¿De qué manera sus técnicas de ventas han diferido de las otras personas en su distrito/región/empresa? (¿Qué hizo usted de manera diferente? Déme un ejemplo reciente de cuando utilizó estas técnicas).",
+      "20_12": "PUESTO DE VENTAS. ¿Cómo da origen usted a nuevas ventas potenciales? (Hábleme de una ocasión en la que esto haya funcionado bien para usted.",
+      "20_13": "SIN EXPERIENCIA. Ha usted propuesto alguna nueva idea o sugerencia mientras estudiaba? (Déme un ejemplo).",
+      "20_14": "SIN EXPERIENCIA. ¿Alguna vez ha hecho más de lo requerido en un curso? (Déme un ejemplo)."
+    }
+  },
+  {
+    "id": 21,
+    "name": "Innovación",
+    "text": "Generar soluciones creativas para situaciones de trabajo; probar formas diferentes y originales para abordar los problemas y las oportunidades en la organización.",
+    "actions": {
+      "21_1": "Proponer soluciones novedosas.",
+      "21_2": "Recopilar ideas desde varias perspectivas.",
+      "21_3": "Sugerir nuevas maneras de aplicar los conocimientos existentes.",
+      "21_4": "Utilizar técnicas para proponer el aporte de ideas."
+    },
+    "questions": {
+      "21_1": "Describa como mejoró usted la productividad / rentabilidad de su unidad de trabajo. (Cómo identificó usted estas oportunidades para mejorar?).",
+      "21_2": "Háblame acerca de una idea creativa que usted tuvo para mejorar uno de los productos o servicios de su empresa.",
+      "21_3": "Háblame acerca de un enfoque único que usted adoptó para solucionar un problema. (Cómo obtuvo ese enfoque? Qué otras opciones consideró?).",
+      "21_4": "Es imposible ser siempre la primera empresa que desarrolla un producto/servicio innovador. Hábleme acerca de un producto/servicio único y satisfactorio que uno de sus competidores desarrollo antes de que lo hiciera la organización a la que usted pertenece. (¿Su organización finalmente introdujo un producto/servicio semejante? ¿Por qué no fueron ustedes los primeros?).",
+      "21_5": "Algunas veces es necesario abandonar los métodos tentativos para solucionar in problema. Hábleme acerca de un problema que usted era responsable de resolver y sabía que requería una solución única. (¿Cómo supo que los métodos establecidos no funcionarían?).",
+      "21_6": "Todos sabemos que algunos problemas simplemente no tienen soluciones. Hábleme de un problema que usted trató de resolver pero no pudo. (¿Qué soluciones intentó? ¿Cómo obtuvo esas soluciones?).",
+      "21_7": "Deme un ejemplo de una nueva manera en la que pudo aplicar los conocimientos existentes para resolver un problema.",
+      "21_8": "Como una organización no puede desarrollar in nuevo producto/servicio cada día de la semana, algunas veces es importante combinar los productos/servicios existentes par aprovechar en forma creativa una nueva oportunidad. Hábleme de una ocasión en la que usted hizo esto en forma satisfactoria.",
+      "21_9": "Hábleme acerca de un enfoque único que usted adoptó para solucionar un problema. (¿Cómo obtuvo ese enfoque? ¿Qué otras opciones consideró?).",
+      "21_10": "En su puesto actual como ____________, ¿qué ha hecho usted de diferente manera que sus antecesores? (¿Por qué?).",
+      "21_11": "Desafortunadamente, algunas soluciones no siempre corrigen los problemas. ¿Se le ocurre una solución creativa propuesta por usted que no corrigió el problema? (¿Cuál fue la solución? ¿Cómo obtuvo la idea?).",
+      "21_12": "Cuéntame sobre la tecnología que más te interesa",
+      "21_13": "¿Por qué quieres trabajar para XXX?",
+      "21_14": "Si pudiera cambiar aspectos de su organización de ventas actual, alineación y estructura, ¿cómo sería el nuevo modelo? (Industria, producto, especialización de ventas, recursos técnicos). ¿Cuán importante es la alineación de la industria para su cliente?",
+      "21_15": "Deme un ejemplo en el que hayas proporcionado visión a un cliente y le hayas proporcionado dirección, y haya conseguido que este cliente cambie a tu producto y tecnología porque agregaría valor comercial a su empresa.",
+      "21_16": "¿Qué compañía de tecnología, aparte de Microsoft, cree que es una fuerza a tener en cuenta? ¿Qué los hace poderosos?",
+      "21_17": "¿Cuál es el área de tecnología / aplicación más emocionante que se ve en el horizonte? ¿Cuáles no lo son?"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Integridad",
+    "text": "Mantener y promover las norma sociales, éticas y organizacionales en la realización de las actividades comerciales internas y externas.",
+    "actions": {
+      "22_1": "Compartir información completa y precisa.",
+      "22_2": "Representar con objetividad las capacidades de la organización.",
+      "22_3": "Mantener la confidencialidad.",
+      "22_4": "Observar las políticas y reglamentos.",
+      "22_5": "Cumplir con los compromisos y promesas personales."
+    },
+    "questions": {
+      "22_1": "Todos hemos estado en situaciones en las que hemos sabido de un próximo cambio en la organización o el personal antes de que lo supieran otras personas. Hábleme de una ocasión en la que sucedió esto. (¿Cómo respondió usted?).",
+      "22_2": "A algunas empresas no les importa que los empleados utilicen el equipo de oficina para asuntos personales. Ha utilizado usted el equipo de oficina (por ejemplo, fotocopiadoras, teléfonos) para asuntos personales? (Deme un ejemplo).",
+      "22_3": "Su gerente/supervisor/líder de equipo alguna vez le ha pedido que haga algo que usted pensaba que no era apropiado? (¿Cómo respondió usted?).",
+      "22_4": "No siempre trabajamos con personas a las que consideramos ética u honestas. Hábleme de una ocasión en la que vio a un compañero de trabajo hacer algo que usted pensó que no era apropiado. (¿Qué hizo usted?).",
+      "22_5": "¿Alguna vez ha tenido que orientar a un nuevo empleado? (¿Cuáles son algunas de las cosas que usted dijo acerca del; nuevo gerente/supervisor/líder del equipo de esa persona? ¿Del puesto? ¿De la organización?.",
+      "22_6": "PUESTO DE VENTAS. Cuando estamos entusiasmados con el cierre de una gran venta, algunas veces le ofrecemos accidentalmente al cliente un poco más de lo que podemos proporcionarles realmente. (Deme un ejemplo de cuando le sucedió esto).",
+      "22_7": "PUESTO DE VENTAS. Deme un ejemplo de cómo influyó satisfactoriamente en un cliente para que comprara un producto/servicio más costoso del que pensaba adquirir originalmente.",
+      "22_8": "PUESTO DE VENTAS. Hábleme de una ocasión en que un cliente le preguntó acerca de los puntos débiles o las deficiencias de su producto/servicio. (¿Qué hizo usted?).",
+      "22_9": "PUESTO DE VENTAS. No siempre nos sentimos cómodos en venderle nuestro producto/servicio a todos los clientes externos que encontramos. Hábleme de una ocasión en la que se sintió incómodo en venderle un producto/servicio a un cliente. (¿Por qué?).",
+      "22_10": "PUESTO DE VENTAS. Hábleme de una ocasión en la que un cliente le preguntó acerca de los puntos fuertes del producto/servicio de un competidor. (¿Cómo respondió usted?).",
+      "22_11": "SIN EXPERIENCIA. A menudo es difícil lograr terminar a tiempo el trabajo para la clase. Hábleme de una ocasión en que esto le sucedió. (¿Cuáles son algunos de los atajos que utilizó?).",
+      "22_12": "SIN EXPERIENCIA. Todos hemos tenido un amigo cercano o compañero de clase que nos pide ayuda para   asignaciones/proyectos que se esperaba hiciera por cuenta propia. ¿Alguna vez le ha sucedido esto a usted? (¿Cómo respondió?)."
+    }
+  },
+  {
+    "id": 23,
+    "name": "Juicio / Solución de Problemas",
+    "text": "Comprenderse con una acción después de desarrollar cursos de acción alternativos basados en suposiciones lógicas y en información objetiva, y que tome en cuenta los recursos, las limitaciones y los valores de la organización.",
+    "actions": {
+      "23_1": "Definir los criterios de selección.",
+      "23_2": "Considerar las alternativas.",
+      "23_3": "Considerar todos los hechos pertinentes.",
+      "23_4": "Ponderar los pros y los contras / el impacto de las alternativas.",
+      "23_5": "Informar a los demás cuando sea necesario.",
+      "23_6": "Comprometerse con la acción más apropiada."
+    },
+    "questions": {
+      "23_1": "Háblame de una ocasión en la que tuvo que adoptar medidas disciplinarias hacia una persona que dependía directamente de usted. ( Como decidió lo que debía hacer ).",
+      "23_2": "Describa una situación en la que recibió un nuevo procedimiento o nuevas instrucciones con las que no estuvo de acuerdo. ( Cómo respondió?).",
+      "23_3": "Su cambio de _________ a _________ fue un cambio profesional importante. Que factores importantes influyeron en su decisión para cambiar de puesto?",
+      "23_4": "Piense en una buena decisión que tomó y una decisión reciente que no fue muy buena. ¿Qué hizo de diferente manera al tomar esas decisiones?",
+      "23_5": "Describa una ocasión en la que ponderó los pro y los contras de una situación y decidió no adoptar ninguna medida, aunque se encontraba bajo presión para hacerlo.",
+      "23_6": "Describa una ocasión en la que decidió involucrar a otros para tomar una decisión.(¿Por qué decidió hacerlo así?¿En qué medida utilizó las aportaciones de los demás?).",
+      "23_7": "A veces, todos tomamos decisiones con las que nuestro gerente/líder de equipo/supervisor está en desacuerdo. Hábleme de una ocasión en que le sucedió esto. (Por qué su gerente/líder de equipo/supervisor no estuvo de acuerdo con su decisión?).",
+      "23_8": "Todos tomamos decisiones que resultan finalmente en errores. Describa una decisión de trabajo que haya tomado y quisiera poder repetir.",
+      "23_9": "Describa un problema que se le ha pedido recientemente que resolviera. (¿Qué hizo usted?¿Qué alternativas consideró?).",
+      "23_10": "Todos hemos tenido la experiencia de trabajar con un plazo verdaderamente ajustado que no permitía el lujo de considerar detenidamente todas las opciones antes de tomar una decisión. Deme un ejemplo de una ocasión en la que sucedió esto. (¿Cuál fue el resultado de su decisión?).",
+      "23_11": "Todos hemos tenido la experiencia de tratar de resolver un problema por cuenta propia, sólo para descubrir finalmente que otros debían conocer la situación y participar en la solución. Hábleme de una ocasión en la que usted asumió la responsabilidad total para resolver un problema pero después encontró que realmente debería haber involucrado a otros en el proceso.",
+      "23_12": "Todos sabemos que algunas veces es más importante que salga a tiempo una carta/documento/propuesta, a detenernos para hacer una verificación completa final. Hábleme de una ocasión en la que cumplió con un plazo para la presentación de un proyecto/documento/propuesta, pero lo envió con errores.",
+      "23_13": "SIN EXPERIENCIA. ¿Cuál fue la decisión académica más difícil que tuvo que tomar? (¿Qué hizo para tomar esa decisión?¿Qué alternativas consideró?)",
+      "23_14": "SIN EXPERIENCIA. ¿Qué le hizo decidirse a asistir a (la universidad, el entrenamiento, etc.) _________? (¿Qué influyó en su decisión?)."
+    }
+  },
+  {
+    "id": 24,
+    "name": "Liderazgo Estratégico",
+    "text": "Crear y llegar a un estado futuro deseado (la visión) mediante la influencia en los valores organizacionales, los objetivos individuales y de grupo, los refuerzos y los sistemas.",
+    "actions": {
+      "24_1": "Comunicar la visión y los valores demostrando compromiso con los mismos",
+      "24_2": "Traducir la visión en objetivos mensurables.",
+      "24_3": "Compatibilizar los sistemas con la visión y los valores.",
+      "24_4": "Obtener el compromiso con la visión, los valores y los objetivos individuales y grupales.",
+      "24_5": "Establecer estructuras de recompensa.",
+      "24_6": "Dirigir por medio de la visión y los valores."
+    },
+    "questions": {
+      "24_1": "¿Qué estrategias ha utilizado para comunicar una nueva e importante decisión de la gerencia a los empleados? ( ¿Qué estrategias han funcionado y cuáles no? Deme un ejemplo específico).",
+      "24_2": "Describa una ocasión en la tuvo que modificar significativamente los procedimientos de trabajo para alinearlos con las nuevas directrices estratégicas. (Cómo logró esto?).",
+      "24_3": "Hábleme de una importante decisión reciente de la alta gerencia que usted tuvo que comunicar e implementar. ( Como procedió para lograrlo?).",
+      "24_4": "Hábleme de la última decisión de la alta gerencia que no pudo alcanzar su meta deseada. (Por qué fracaso?)",
+      "24_5": "Todos hemos tenido ocasiones en las que quedamos frustrados al no poder implementar las nuevas ideas o la visión de la alta gerencia. Describa una ocasión en la que sucedió esto.",
+      "24_6": "Describa una situación en la que tuvo que traducir una decisión amplia o general de la gerencia en metas específicas. (¿Cómo hizo esto? ¿Cuáles fueron los resultados?.",
+      "24_7": "Describa una situación en la que tuvo que traducir una decisión amplia o general de la alta gerencia en expectativas de desempeño individual. (¿Cómo hizo esto? ¿Cuáles fueron los resultados?.",
+      "24_8": "Hábleme de una de las estructuras de recompensa o incentivos que estableció para ayudar a cumplir con una nueva e importante directriz. (¿Cómo funcionó?).",
+      "24_9": "A menudo nos topamos con resistencia al tratar de implementar el cambio. Describa una ocasión en la que a su gerente o a otros gerentes no les complacieron sus esfuerzos para implementar el cambio. (¿Qué enfoque utilizó? ¿Qué problemas surgieron?).",
+      "24_10": "Todos los gerentes/supervisores se enfrentan a cambios desagradables que deben implementar. Describa la decisión más desagradable que ha tenido que implementar en su área de responsabilidad. (¿Qué enfoque utilizó? ¿Cuáles fueron los resultados?.",
+      "24_11": "¿De qué manera decidió cuándo y cómo comunicar una nueva decisión de la alta gerencia? (Deme un ejemplo de la estrategia que usó).",
+      "24_12": "A menudo obtener el compromiso puede ser un desafío. Hábleme de una decisión reciente de la alta gerencia para la cual no pudo obtener el compromiso de otros. (¿Por qué no tuvo éxito?).",
+      "24_13": "Realizar el cambio siempre es un desafío. Hábleme de una ocasión en la que no pudo implementar un importante sistema organizacional (control, remuneración, comunicación, etc.) para apoyar una nueva decisión clave. (¿Qué sucedió? ¿Qué problemas resultaron)."
+    }
+  },
+  {
+    "id": 25,
+    "name": "Liderazgo Individual / Influencia",
+    "text": "Utilizar estilos y métodos interpersonales apropiados para inspirar y guiar a los individuos (jefes directos, colegas y superiores) hacia la consecución de las metas; modificar el comportamiento para adaptarse a las tareas, situaciones e individuos de que se trate.",
+    "actions": {
+      "25_1": "Utilizar las habilidades de relación eficientemente:",
+      "25_2": "Mantener o incrementar la autoestima.",
+      "25_3": "Escuchar y responder con empatía.",
+      "25_4": "Pedir ayuda y alentar la participación.",
+      "25_5": "Compartir los pensamientos, sentimientos y motivaciones.",
+      "25_6": "Proporcionar apoyo sin quitar responsabilidad.",
+      "25_7": "Seguir una secuencia lógica en las discusiones.",
+      "25_8": "Concentrarse en la situación, no en la persona.",
+      "25_9": "Presentar sugerencias o puntos de vista de una manera apropiada y convincente.",
+      "25_10": "Pedir el compromiso hacia la acción y obtenerlo."
+    },
+    "questions": {
+      "25_1": "Hábleme de una ocasión en la que incentivó a alguien para que se esforzara en hacer un buen trabajo. ( ¿Cómo lo hizo usted?).",
+      "25_2": "Hábleme acerca de cómo estableció una relación armoniosa con los miembros más nuevos de su equipo/unidad/grupo.",
+      "25_3": "Háblame de una ocasión en la que pudo lograr que alguien de afuera de su equipo/unidad/grupo cooperara con usted en un importante proyecto/tarea/asignación.",
+      "25_4": "Nuestras relaciones con los compañeros de trabajo no siempre son perfectas. Háblame de la relación más difícil que ha tenido con un colega/miembro del equipo. ( ¿Por qué fue tan difícil la relación? Que hizo usted para mejorarla?)",
+      "25_5": "Hábleme de una ocasión en la que incluyó a uno de sus colegas/personas que dependían directamente de usted (o los miembros del equipo) en la solución de un problema. (¿Qué enfoque utilizó? ¿Qué sucedió?).",
+      "25_6": "Al trabajar en un proyecto importante que tenga plazos ajustados, la mayoría de los gerentes/líderes de equipo/supervisores sólo tienen tiempo suficiente para identificar el problema y corregirlo tan rápidamente como sea posible. Hábleme de una ocasión en la que tuvo que tomar medidas rápidamente para corregir un problema en un proyecto importante. (¿Qué sucedió? ¿Cómo respondieron las personas involucradas?).",
+      "25_7": "Hábleme de una ocasión en la verificó el estado actual de un importante proyecto/tarea/asignación y descubrió que se estaba haciendo incorrectamente. (¿Qué hizo usted?).",
+      "25_8": "Hábleme de una ocasión en la que tuvo que lograr que un cliente interno/externo estuviera de acuerdo con un cambio importante en un proyecto en el que usted estaba trabajando para él. (¿Cómo intentó usted lograr que el cliente colaborara/apoyara el cambio?).",
+      "25_9": "Algunas veces sólo hay tiempo suficiente para decirles a las personas lo que deben hacer y cómo deben hacerlo. Hábleme de una ocasión en la que tuvo que actuar de esta manera con las personas que dependen directamente de usted/miembros del equipo/colegas. (¿Cómo reaccionaron ellos?).",
+      "25_10": "Describa una reunión frente a frente en la que usted tuvo que dirigir a un individuo muy sensible o ejercer influencia sobre él.",
+      "25_11": "Al tratar con una persona que dependía directamente de usted/miembro del equipo/colega, ¿cómo determinó usted cuándo estaba haciendo demasiada presión? (Deme un ejemplo de cuando sucedió esto).",
+      "25_12": "No todas las personas con las que nos encontramos son tan cooperativas como quisiéramos que lo fueran. Hábleme de una ocasión en la alguien se negó a hacer algo que usted necesitaba que se hiciera. (¿Cómo respondió usted?).",
+      "25_13": "Todos hemos pasado la mala fortuna de no cumplir con un plazo. Hábleme de la última vez en que no cumplió con un plazo porque uno de sus compañeros de trabajo no cumplió con sus responsabilidades a tiempo. (¿Qué hizo usted?).",
+      "25_19": "Si ha ocupado una posición de liderazgo en el pasado, dibuje el organigrama que se encuentra por encima y por debajo de su posición para ilustrar el alcance de su responsabilidad de liderazgo.",
+      "25_20": "Deme un ejemplo de cuando inspiraste a las personas con tu visión",
+      "25_16": "Hábleme de un momento en el que mejoró significativamente el rendimiento de un grupo de personas que le informaron directamente.",
+      "25_17": "¿Cómo motivó a las personas que más rendían?",
+      "25_18": "Dame un ejemplo de cuando tomaste un riesgo significativo por el bien de los principios, el valor o la misión.",
+      "25_14": "SIN EXPERIENCIA. Describa una situación en la que tuvo que ejercer influencia sobre otro estudiante o colega para que éste cooperara. (¿Qué dijo usted?).",
+      "25_15": "SIN EXPERIENCIA. Hábleme de un papel de liderazgo que usted haya tenido en una actividad extracurricular. (¿Cómo dirigió? Deme un ejemplo)."
+    }
+  },
+  {
+    "id": 26,
+    "name": "Liderazgo Visionario",
+    "text": "Crear un estado futuro deseado ayudando a otros a comprender, sentir cómo las cosas pueden ser diferentes (y mejores).",
+    "actions": {
+      "26_1": "Prever las oportunidades a largo plazo.",
+      "26_2": "Definir un estado futuro deseado.",
+      "26_3": "Comunicar el rumbo (la visión y los valores) con entusiasmo.",
+      "26_4": "Prever las reacciones a la visión y los valores.",
+      "26_5": "Obtener el compromiso hacia la visión y los valores."
+    },
+    "questions": {
+      "26_1": "¿Alguna vez ha estado en una situación en la que tuvo que reorganizar partes importantes de una organización? (¿Qué lo condujo a la decisión? ¿Cómo lo hizo?).",
+      "26_2": "¿Qué cambios espera usted que afecten en forma profunda los mercados que atienden su organización? (¿Que ha hecho usted al respecto?).",
+      "26_3": "¿Cuál fue el cambio más importante que usted produjo en una organización?",
+      "26_4": "Todos los gerentes han tenido problemas como rotación de personal, baja moral y baja productividad porque su unidad de trabajo no estaba comprometida con la visión de la organización. Hábleme de una ocasión en la que su área de trabajo experimentó un problema semejante.",
+      "26_5": "Hábleme de una ocasión en la que usted tuvo un impacto importante en el rumbo de los negocios de su organización. (¿Qué medidas tomó?).",
+      "26_6": "Es imposible siempre aumentar el segmento del mercado de un producto o servicio en particular. Deme un ejemplo de un producto o servicio del que usted era responsable, que experimentó una baja del segmento del mercado. (¿Por qué sucedió esto? ¿Qué hizo para tratar de recuperarlo?",
+      "26_7": "Obtener el compromiso hacia una nueva visión puede ser muy difícil. Hábleme de una ocasión en la que usted no tuvo éxito para lograr el compromiso de otros miembros de su organización hacia una nueva visión. (¿Por qué no tuvo éxito?).",
+      "26_8": "¿Cuál es el punto más vulnerable en su organización? (¿Qué ha hecho usted al respecto?).",
+      "26_9": "Hábleme de una medida que adoptó para ampliar los mercados tradicionales de los productos o servicios de su organización?. (Explique).",
+      "26_10": "Hábleme de su mayor cliente interno/externo y de cómo sus necesidades están cambiando. (¿Qué acciones ha tomado usted para adaptarse/apoyar esos cambios?).",
+      "26_11": "¿Qué cambios han tenido lugar en su campo que puedan tener impacto en su organización? (¿Cómo ha respondido usted a uno de esos cambios? Explique)."
+    }
+  },
+  {
+    "id": 27,
+    "name": "Maximización del Desempeño",
+    "text": "Establecer objetivos de desempeño y desarrollo, asesorar sobre el desempeño, proporcionar capacitación y evaluar el desempeño.",
+    "actions": {
+      "27_1": "Convenir en las áreas mensurables del desempeño.",
+      "27_2": "Convenir en objetivos específicos.",
+      "27_3": "Convenir en métodos para comprobar el desempeño.",
+      "27_4": "Convenir mutuamente sobre los logros."
+    },
+    "questions": {
+      "27_1": "Hábleme de un plan reciente de desempeño que usted haya desarrollado para una persona que dependía directamente de usted. (¿Cómo se preparó usted? ¿Qué fuentes de información utilizó?).",
+      "27_2": "¿Cómo han diferido sus esfuerzos de manejo del desempeño al tratar con empleados con alto y bajo grado de desempeño? (Deme un ejemplo de un empleado con alto grado de desempeño vs. uno con bajo grado de desempeño).",
+      "27_3": "Hábleme de su empleado más nuevo. (¿Qué hizo para proporcionarles entrenamiento?).",
+      "27_4": "Deme un ejemplo de un proyecto/tarea/asignación que usted haya dado a una persona que dependía directamente de usted para que pudiera desarrollar una habilidad específica.",
+      "27_5": "Todos tenemos situaciones en las que una persona que depende directamente de nosotros no está de acuerdo con las metas fijadas. Hábleme de una ocasión en la que una persona que depende directamente de usted no estuvo de acuerdo con las metas que usted fijó. (¿Qué salió mal? ¿Qué hizo usted?).",
+      "27_6": "Todos sabemos que cuando hay mucho trabajo es difícil hacer tiempo para proporcionarles retroalimentación de desarrollo a los empleados con alto grado de desempeño. Hábleme de su empleado con más alto grado de desempeño. (¿Qué tan frecuentemente se han reunido para discutir sobre el desempeño del mismo?).",
+      "27_7": "Hábleme de un cambio reciente en el plan de negocios de su organización. ¿Este cambio afectó las metas de desempeño de las personas que dependen directamente de usted? ¿Cómo?.",
+      "27_8": "Todos hemos tenido que tratar con empleados que no podían/ no estaban dispuestos a contribuir en su proceso de planeación de desarrollo. Hábleme de una ocasión en que le haya sucedido esto a usted. (¿Qué hizo usted?).",
+      "27_9": "Hábleme de una ocasión en la que tuvo que entrenar a alguien una tarea técnica. (¿Cómo manejó usted la situación?).",
+      "27_10": "Todos los gerentes que he conocido en una u otra ocasión han estado demasiado atareados para dedicarse a realizarse un trabajo adecuado en la planeación del desempeño. ¿Puede hablarme de una ocasión en que esto le haya sucedido a usted?.",
+      "27_11": "Hábleme de una persona que depende directamente de usted que cambió de ser un empleado con bajo grado a uno con alto grado de desempeño. (¿Cómo y por qué mejoró el desempeño de esta persona?).",
+      "27_12": "¿Cómo ha logrado involucrar a quienes dependen directamente de usted en la identificación de las metas y expectativas de desempeño? (Deme un ejemplo).",
+      "27_13": "Algunas veces las personas no responden bien a un plan de mejoramiento del desempeño. ¿Podría usted darme un ejemplo de un plan que salió mal? (¿Qué sucedió).",
+      "27_14": "Deme un ejemplo de retroalimentación y de ayuda que usted proporcionó en relación con fallas en el desempeño. (¿Qué hizo usted? ¿Cómo lo hizo? ¿Qué pasó después?)."
+    }
+  },
+  {
+    "id": 28,
+    "name": "Negociación",
+    "text": "Estudiar las alternativas y las posiciones para llegar a resultados que obtengan el apoyo y la aceptación de todas las partes.",
+    "actions": {
+      "28_1": "Estudiar las necesidades, preocupaciones y posiciones de los demás.",
+      "28_2": "Identificar los puntos de acuerdo y desacuerdo.",
+      "28_3": "Presentar alternativas.",
+      "28_4": "Mantener control sobre los puntos problemáticos.",
+      "28_5": "Llegar al acuerdo mediante actitudes de negociación.",
+      "28_6": "Buscar una solución de empate."
+    },
+    "questions": {
+      "28_1": "En qué tipos de tratos ha participado usted? (Describa una situación reciente. ¿Qué papel desempeñó? ¿Cuál fue el resultado?",
+      "28_2": "Todos hemos tenido la mala fortuna de tratar de negociar con una persona muy difícil. Deme un ejemplo de la persona más difícil con la que usted ha tenido que tratar. (Qué sucedió?).",
+      "28_3": "Hábleme de una negociación particularmente difícil en la que usted haya participado con otros miembros de su organización. ( ¿Cuál fue su participación? ¿Cuál fue el resultado?).",
+      "28_4": "Describa una situación en la que usted negoció con otras personas de su organización en lo que respecta a recursos limitados.",
+      "28_5": "Describa una situación en la que trató con vendedores o proveedores para obtener un resultado favorable para la empresa que usted representa.",
+      "28_6": "Algunas veces, simplemente no hay margen para negociar al trabajar en un proyecto importante. Deme un ejemplo de un proyecto en el que usted trabajara, donde tuvo que hacer reclamos no negociables a otras personas. (¿Qué sucedió? ¿Cómo le respondieron?).",
+      "28_7": "Describa una situación en la que usted pensó que un vendedor/proveedor estaba equivocado o en la que usted estuvo en desacuerdo con él. (¿Cómo manejó la situación?).",
+      "28_8": "Todos hemos participado en tratos importantes en los que hemos fallado. Deme un ejemplo de una sión importante en la que usted participó y qué falló. (¿Qué salió mal?).",
+      "28_9": "Todos hemos cometido el error de aceptar un acuerdo negociado que resultó ser verdaderamente negativo para nuestra organización/departamento. Describir una ocasión en la que sucedió esto. (¿Por qué se tomó una decisión de negociación incorrecta?)",
+      "28_10": "Describa una situación en la que negoció precio/condiciones/entrega con un cliente difícil. (¿Qué sucedió?).",
+      "28_11": "Explíqueme detalladamente una negociación de la que se enorgullezca particularmente. (¿Qué tipo de preparación tuvo? ¿Cómo se utilizaron esos datos?).",
+      "28_12": "SIN EXPERIENCIA. Algunas veces se nos dan asignaciones que no nos interesan. Hábleme de una ocasión en que le sucedió esto. (¿Qué hizo?).",
+      "28_13": "SIN EXPERIENCIA. Hábleme de una ocasión en la que tuvo que negociar las expectativas con __________ (padre, profesor, colegas)."
+    }
+  },
+  {
+    "id": 29,
+    "name": "Normas de Trabajo",
+    "text": "Fijar metas o normas del desempeño de alto nivel para sí mismo, los subordinados, otras personas y la organización; no satisfacerse con el desempeño promedio; auto imposición de estándares de excelencia en vez de que otras personas los impongan.",
+    "actions": {
+      "29_1": "Fijar altas normas de desempeño.",
+      "29_2": "Subrayar las altas normas a otras normas.",
+      "29_3": "Mostrar orgullo cuando las normas son alcanzadas.",
+      "29_4": "No conformarse con un desempeño inferior a las normas."
+    },
+    "questions": {
+      "29_1": "Al juzgar el desempeño de las personas que dependen directamente de uno, ¿cuáles son los factores más importantes para usted? (Hábleme de una ocasión en la que utilizó estos factores para evaluar a un empleado específico).",
+      "29_2": "¿Alguna vez ha decidido despedir a un empleado por desempeño inferior a las normas? (Describa una situación en la adoptó esta medida).",
+      "29_3": "En una u otra ocasión, todo el mundo siente presiones por sacrificar la calidad para poder terminar el trabajo a tiempo. Hábleme de una ocasión en que le sucedió esto. (¿Qué hizo usted?).",
+      "29_4": "¿Está satisfecho con el desempeño de su equipo(su departamento)? (¿Por qué o por qué no? ¿Qué medidas ha tomado [si es que ha tomado alguna] para mejorar el desempeño?).",
+      "29_5": "Algunas veces la evaluación de un supervisor/líder del equipo difiere de la suya propia. ¿Cuándo le ha sucedido eso? (¿Qué hizo al respecto?).",
+      "29_6": "Piense en una ocasión en que su trabajo era superior a las normas y una vez en que era inferior a las mismas. ¿Cuáles fueron algunas razones de la diferencia en el desempeño?.",
+      "29_7": "No siempre estamos satisfechos con nuestro rendimiento. Hábleme de la ocasión que más recuerde en que no estuvo satisfecho con su rendimiento. (¿Qué hizo al respecto?).",
+      "29_8": "En su puesto con _______________, ¿cómo definía usted hacer un buen trabajo? (¿Hizo usted un buen trabajo? ¿Cómo lo supo? Deme un ejemplo).",
+      "29_9": "Describa una ocasión en la que supo que un proceso u operación se hizo mal. (¿Qué hizo usted? ¿Qué efecto tuvo su acción?).",
+      "29_10": "PUESTO DE VENTAS. ¿Estaba satisfecho con el nivel de ventas de su (departamento) en ________________? (¿Por qué o por qué no?).",
+      "29_11": "PUESTO DE VENTAS. Los clientes externos no siempre están satisfechos con nuestros esfuerzos. Hábleme de una ocasión específica en la que alguno de sus clientes externos estuvo insatisfecho. (¿Cómo manejó la situación?).",
+      "29_12": "SIN EXPERIENCIA. Hábleme del proyecto de investigación del que más se enorgullece. (¿Qué hizo que fuera tan bueno? ¿Qué papel desempeñó usted?).",
+      "29_13": "SIN EXPERIENCIA. Como estudiante, ¿cómo definía el buen desempeño? (¿Qué ha hecho para desempeñarse de acuerdo con esa definición?).",
+      "29_14": "SIN EXPERIENCIA. No siempre estamos de acuerdos con las evaluaciones que los profesores hacen de nosotros. Hábleme de una ocasión en la que no estuvo de acuerdo con la evaluación de un profesor en particular. (¿Cómo manejó la situación?)."
+    }
+  },
+  {
+    "id": 30,
+    "name": "Orientación a la Calidad/Atención al Detalle",
+    "text": "Realizar las tareas manifestando interés por todas las áreas afectadas, sin importar cuán pequeñas sean; mostrar interés por todos los aspectos del puesto; verificar con precisión los procesos y las tareas; mantenerse alerta durante un período de tiempo.",
+    "actions": {
+      "30_1": "Aclarar los detalles de las tareas.",
+      "30_2": "Complementar todos los detalles.",
+      "30_3": "Verificar los resultados en cuanto al fin de determinar si son exactos y están completos.",
+      "30_4": "Seguir los procedimientos establecidos.",
+      "30_5": "Llevar una lista de cotejo para cubrir los detalles."
+    },
+    "questions": {
+      "30_1": "Deme un ejemplo de cómo sabía usted que las cosas no estaban marchando bien en __________________ con los detalles de un proceso / función / operación / actividad.",
+      "30_2": "¿Puede hablarme de una ocasión en la que encontró defectos de calidad en los productos del trabajo? (¿Qué estaba mal? ¿Cómo lo advirtió?)",
+      "30_3": "Hábleme de una ocasión en la que advirtió cambios sutiles en ___________________ (el equipo / procesos / material) en su puesto. (¿Cómo advirtió los cambios? ¿Qué hizo?)",
+      "30_4": "Todos hemos experimentado ocasiones en las que estábamos demasiado ocupado para verificar todos los detalles de un proyecto. Hábleme de una ocasión en que le sucedió esto, y algunos errores se le escaparon.",
+      "30_5": "Describa las cosas que hace para controlar los errores de su trabajo. (Hábleme de la única ocasión en que esos métodos la ayudaron. ¿Qué hizo usted?)",
+      "30_6": "Todos hemos tenidos ocasiones en la que estábamos trabajando en algo y pasamos por alto un pequeño detalle. Describa una ocasión en la que sucedió eso. (¿Cuál fue la causa? ¿Cuál fue le resultado?)",
+      "30_7": "Al trabajar en una tarea repetitiva, es fácil aburrirse y pasar por alto detalles importantes que podrían causar problemas más adelante. Describa una ocasión en la sucedió esto.",
+      "30_8": "En su trabajo como __________________, ¿a advertido usted algún proceso o tarea que fuera desempeñado en forma insegura? (Hábleme de una ocasión específica en la que le sucedió esto. ¿Cómo descubrió la situación? ¿Qué hizo?)",
+      "30_9": "Hábleme de una ocasión en que los detalles de algo que estaba haciendo eran especialmente importantes. ¿Cómo atendió a esos detalles?",
+      "30_10": "Todos hemos tenido ocasiones en el trabajo cuando algo escapó a nuestra atención. ¿Puede hablarme de una ocasión en que le sucedió esto? (¿Cuál fue la causa?).",
+      "30_11": "Describa una ocasión en la que identificó un error o problema que escapó a la atención de otros.",
+      "30_12": "Háblame de una ocasión en la que usted pensó que había terminado un proyecto pero su gerente/supervisor/líder de equipo se lo devolvió para trabajo adicional. (Describa el proyecto y las medidas que requirió para terminarlo).",
+      "30_13": "SIN EXPERIENCIA. Hábleme de un proyecto importante que tuvo que realizar en la universidad. (¿Qué medidas tomó antes de considerarlo?)."
+    }
+  },
+  {
+    "id": 31,
+    "name": "Orientación a los resultados",
+    "text": "Abarca la responsabilidad personal por los resultados empresariales y en la creación de una cultura de alto desempeño",
+    "actions": {
+      "31_1": "Crea una cultura de rendimiento de la organización de alto nivel, incluyendo el uso adecuado de los sistemas de compensación y beneficios.",
+      "31_2": "Ofrece resultados que cumplen o superan las expectativas.",
+      "31_3": "Posee rendición de cuentas en toda la organización",
+      "31_4": "Unifica y mide los objetivos con los indicadores financieros de desempeño del negocio como la eficiencia del capital",
+      "31_5": "Asume responsabilidad de los resultados empresariales",
+      "31_6": "Trabaja de forma proactiva y con alto sentido de urgencia para asegurar que los resultados que se cumplan"
+    },
+    "questions": {
+      "31_1": "Hábleme de un momento en que algún proyecto no resultó como se esperaba, pero usted asumió la responsabilidad del mismo.",
+      "31_2": "¿Cuál fue el último proyecto que logró que se tradujo en un ahorro de alcance económico para la empresa? ¿Qué hizo?",
+      "31_3": "Cuénteme una situación en la que ha heredado un proyecto que tenia atrasos? ¿Qué hizo?",
+      "31_4": "Explíqueme sobre un proyecto importante que te haya desarrollado.",
+      "31_5": "Hábleme sobre alguna fecha límite importante y los pasos que siguió para lograrlo.",
+      "31_6": "¿Qué resultados estás tratando de lograr? (busque una indicación de que la persona es clara sobre cuáles son sus prioridades y es la responsable de lograrlas)",
+      "31_7": "Cuénteme sobre la última vez que uno de sus proyectos se desvió del rumbo. ¿Qué hiciste para volver a encaminarlo?",
+      "31_8": "¿Cómo decides en qué trabajar cada día? ¿Cómo decides cuáles son tus prioridades?",
+      "31_9": "Háblame sobre una fecha límite importante y los pasos que tomaste para cumplirla.",
+      "31_10": "Cuéntame sobre una tarea o proyecto complejo que has logrado por tu cuenta. ¿Lo iniciaste tu? ¿Cómo empezaste?"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Orientación de Servicio a Clientes",
+    "text": "Desarrollar con iniciativa relaciones con los clientes, haciendo esfuerzos para escucharlos y entenderlos(tanto internos como externos); prever y proporcionar soluciones a las necesidades de los clientes; otorgar alta prioridad a la satisfacción de los clientes.",
+    "actions": {
+      "32_1": "Reconocer al cliente.",
+      "32_2": "Aclarar los requerimientos del cliente.",
+      "32_3": "Satisfacer o exceder los requerimientos.",
+      "32_4": "Confirmar el nivel de satisfacción.",
+      "32_5": "Escuchar y mostrar empatía.",
+      "32_6": "Asumir responsabilidad por la acción."
+    },
+    "questions": {
+      "32_1": "En su trabajo en __________, ¿cómo sabía usted si sus clientes internos/externos estaban satisfechos? (Deme un ejemplo específico).",
+      "32_2": "A veces, todos quisiéramos poder cambiar la forma en que interactuamos con los clientes. Hábleme de una interacción que quisiera poder cambiar.",
+      "32_3": "Describa una ocasión en la que tuvo que hacer preguntas y escuchar cuidadosamente para aclarar la naturaleza exacta del problema de un cliente interno/externo.",
+      "32_4": "Aunque pudiéramos hacer todo lo posible para satisfacer al cliente, siempre parece que algunos se quejaran por la forma en que fueron tratados. Hábleme del último cliente que se quejó acerca del servicio que usted le proporcionó.",
+      "32_5": "Describa una situación en la que optó por involucrar a otros para ayudar a solucionar el problema de un cliente interno/externo. (¿Cuál era el problema del cliente, y cómo ayudó a resolverlo la participación de otros?).",
+      "32_6": "Al final del día, es difícil que cualquiera esté tan concentrado en los clientes como lo estaba al principio del día. Hábleme de una ocasión reciente en la que manejó una interacción con clientes ya tarde durante el día, de una manera insatisfactoria.",
+      "32_7": "Hábleme de una ocasión en la que pudo responder a la solicitud de un cliente interno/externo en un período más corto de lo previsto. Compare esa situación con una ocasión en la que no pudo cumplir con las expectativas de un cliente externo/interno. (¿Cuál fue la diferencia?).",
+      "32_8": "No hay horas suficientes para asegurar que todos los clientes estén totalmente satisfechos. Deme un ejemplo reciente de una situación en la que usted simplemente no tuvo tiempo para satisfacer totalmente a un cliente en particular.",
+      "32_9": "No siempre estamos de acuerdo en la mejor manera de manejar a los clientes internos/externos. ¿Cuándo fue la última vez que su gerente/supervisor/líder del equipo criticó la manera en que usted manejó a un cliente externo/interno? (¿Por qué?).",
+      "32_10": "Tarde o temprano todos tenemos que tratar con un cliente interno/externo que tiene demandas no razonables. Piense en una ocasión en la que tuvo que manejar una petición de ese tipo. ¿Qué hizo?.",
+      "32_11": "¿Qué sistema ha utilizado para mantener a los clientes externos/internos informados sobre el estado de su proyecto? (Deme un ejemplo de cuando utilizó este sistema).",
+      "32_12": "¿Quiénes son tus clientes? ¿Cómo determinan sus necesidades? ¿Cómo satisfacen sus necesidades?",
+      "32_13": "Cuénteme acerca de la última vez que tuvo un cliente infeliz o un grupo de clientes. ¿Cómo lo manejaste?",
+      "34-14": "Cuéntame sobre tu cliente más difícil. ¿Qué hacía que el cliente fuse tan difícil? ¿Qué hiciste?",
+      "32_15": "¿Cómo has anticipado cambios en las necesidades y expectativas de tus clientes? ¿Cómo ha obtenido los datos cuando las necesidades de sus clientes estaban cambiando?",
+      "32_16": "Si le dijera que su cliente no está contento, ¿qué evidencia específica y / o datos me daría para probar lo contrario?",
+      "32_17": "Describa una vez en la que puso el interés del cliente por delante del suyo propio.",
+      "32_18": "Describe una situación en la que has demostrado pasión por los clientes.",
+      "32_19": "Describa una vez en la que trabajó para comprender mejor las necesidades del cliente.",
+      "32_20": "Describa una vez en la que hizo un esfuerzo adicional para solucionar el problema de un cliente.",
+      "32_21": "¿Qué significa para ti tener pasión por los clientes?",
+      "32_22": "¿Cuéntame sobre la tecnología que más te interesa?",
+      "32_23": "¿Por qué quieres trabajar para la EMPRESA?",
+      "32_24": "Si pudiera cambiar aspectos de su organización actual de ventas, alineación y estructura, ¿cómo sería el nuevo modelo? (Industria, producto, especialización de ventas, recursos técnicos). ¿Cúan importante es la alineación de la industria con su cliente?",
+      "32_25": "Dame un ejemplo en el que hayas proporcionado visión para un cliente y le hayas proporcionado guía y has conseguido que este cliente cambie a tu producto y tecnología porque añade valor comercial a su empresa.",
+      "32_26": "¿Cuál es el área de aplicación / tecnología más emocionante que ves en el horizonte? ¿Cuales no lo son?",
+      "32_27": "PUESTO DE VENTAS. Describa una ocasión en la que era particularmente importante establecer una buena relación con un cliente externo. (¿Qué hizo usted al respecto).",
+      "32_28": "PUESTO DE VENTAS. ¿Cómo ha descubierto que un cliente externo estaba insatisfecho? (Hábleme de un cliente insatisfecho específico que haya tenido).",
+      "32_29": "SIN EXPERIENCIA. En su puesto como ___________ (encargado de residencia, auxiliar docente, etc.), ¿cómo se aseguró de estar proporcionando buen servicio? (Deme un ejemplo de un cliente)."
+    }
+  },
+  {
+    "id": 33,
+    "name": "Participación en Reuniones",
+    "text": "Utilizar estilos y métodos interpersonales apropiados para ayudar a que una reunión alcance su objetivo; estar consciente de las necesidades y las contribuciones potenciales de otros.",
+    "actions": {
+      "33_1": "Ofrecer información e ideas.",
+      "33_2": "Verificar la comprensión.",
+      "33_3": "Escuchar a otros y mostrar reconocimiento por sus aportes.",
+      "33_4": "Hacer sugerencias de procedimiento.",
+      "33_5": "Trabajar sobre ideas propuestas.",
+      "33_6": "Comprometerse con la acción de seguimiento."
+    },
+    "questions": {
+      "33_1": "Algunas veces, cuando nos reunimos con un cliente interno/externo importante, no entendemos todo sobre lo que se discute. Hábleme de una ocasión en que le sucedió esto. (¿Qué hizo).",
+      "33_2": "Hábleme de una reunión en la que usted proporcionó conocimientos técnicos. (¿Cómo se aseguró de que todos entendieran lo que usted dijo?).",
+      "33_3": "Todos hemos estado en reuniones en las que nadie se ofrecería como voluntario para hablar o actuar. Hábleme de una ocasión en que sucedió esto en una reunión a la que usted asistía. (¿Qué hizo?).",
+      "33_4": "Hábleme de una reunión en la que usted tuvo que asumir una postura sobre una cuestión problemática. (¿Qué dijo usted?).",
+      "33_5": "Lograr que otros acepten nuestras ideas puede ser difícil. Hábleme de una ocasión en la que tuvo problemas para lograr que las personas aceptaran sus ideas en una reunión. (¿Qué enfoque utilizó? ¿Qué sucedió?).",
+      "33_6": "Describa una ocasión en la que tuvo que expresar sus ideas en una reunión. (¿Qué dijo usted?).",
+      "33_7": "Todos hemos estado en reuniones donde dos o más personas no se llevaban bien. Hábleme de una reunión en la que usted haya participado y en la que sucedió esto. (¿Qué papel desempeñó usted?).",
+      "33_8": "Hábleme de una reunión en la que otra persona sugirió una nueva idea que afectaba el trabajo de usted. (¿Cómo reaccionó usted?).",
+      "33_9": "¿Qué tan frecuentemente se ha reunido con sus compañeros de trabajo como grupo? Hábleme de una reunión en particular. (¿Cuál fue su papel en esa reunión?).",
+      "33_10": "Todos hemos estado en reuniones en donde las personas empezaron a hablar de temas ajenos a la misma. Hábleme de una ocasión en la que sucedió esto. (¿Cómo respondió?).",
+      "33_11": "Todos hemos estado en reuniones en las que nuestro gerente/supervisor/líder del equipo dijo algo con lo que no estábamos de acuerdo. Hábleme de una ocasión en la que sucedió esto. (¿Qué hizo usted?).",
+      "33_12": "SIN EXPERIENCIA. Hábleme acerca de una clase en la que usted formó parte de un grupo de estudio. (¿Cuál fue su papel en esas reuniones de grupo?).",
+      "33_13": "SIN EXPERIENCIA. Hábleme de una actividad extracurricular en la universidad (o en un club) en que haya participado. (¿Qué tan frecuentemente se reunió con ese grupo? ¿Qué papel desempeño?)."
+    }
+  },
+  {
+    "id": 34,
+    "name": "Perspicacia Organizacional (Business Acumen)",
+    "text": "Entiende el negocio y utiliza este conocimiento para contribuir a su éxito.",
+    "actions": {
+      "34_1": "Anticipa el futuro y las condiciones cambiantes de los negocios de la organización actual y los mercados",
+      "34_2": "Comprende las métricas clave del negocio de la empresa y los motores del crecimiento y la rentabilidad",
+      "34_3": "Comprende los procesos básicos de negocios y se esfuerza hacia la mejora continua",
+      "34_4": "Comprende los valores y el retorno de inversión de los programas e iniciativas desarrolladas"
+    },
+    "questions": {
+      "34_1": "Explique como su determinación ha ayudado a la organización a lograr sus metas. ¿Que ha realizado usted?",
+      "34_2": "Descríbame los productos y servicios que su compañía ofrece. Que hizo usted para conocerlos?",
+      "34_3": "¿Qué mercados usted entiende que afectara su compañía en un futuro cercano?. ¿Qué piensa usted de esto?",
+      "34_4": "¿Cómo su departamento ha ayudado a la compañía a aumentar su rentabildiad? ¿Qué ha realizado usted?"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Planeación y Organización / Manejo del Trabajo",
+    "text": "Establecer un curso de acción para sí mismos y para los demás a fin de lograr un objetivo específico; planear las asignaciones apropiadas de personal y la adecuada distribución de recursos.",
+    "actions": {
+      "35_1": "Fijar prioridades.",
+      "35_2": "Establecer objetivos e hitos",
+      "35_3": "Calcular el tiempo y programar las actividades.",
+      "35_4": "Identificar y asignar los recursos.",
+      "35_5": "Usar herramientas ( por ejemplo, calendarios, archivos, gráficas, etc .)"
+    },
+    "questions": {
+      "35_1": "Háblame de un plan a largo plazo o corto plazo que usted desarrolló para su departamento.",
+      "35_2": "¿Qué procedimientos ha utilizado para prevenir o controlar las demoras en su área de trabajo? (Describa un caso específico en el que tuvo que hacer esto).",
+      "35_3": "¿Qué objetivos se fijó para este ano? (Que medidas ha tomado para asegurarse de estar progresando en todos ellos?)",
+      "35_4": "Todo el mundo está demasiado ocupado en una ocasión u otra para planear actividades futuras. Hábleme de una ocasión en la que usted estaba tan atareado que simplemente reaccionó a las situaciones, en vez de planear al respecto.",
+      "35_5": "Descríbame detalladamente el día de ayer. (o la semana pasada) y dígame cómo planeó las actividades de día (o la semana).",
+      "35_6": "Todos hemos tenido experiencias en el trabajo en las que nos vimos obligados a perder tiempo porque sucedió algo imprevisto (demoras inesperadas, etc.). Hábleme de la última vez que perdió tiempo a causa de un evento inesperado.",
+      "35_7": "Hábleme de una ocasión en la que se enfrentó a prioridades contradictorias. Al programar su tiempo, ¿cómo determinó cuál era la prioridad máxima?",
+      "35_8": "Todos hemos experimentado situaciones en las que simplemente no podíamos lograr hacer todo a tiempo. Hábleme de una situación en la que ocurrió esto.",
+      "35_9": "¿Qué procedimiento ha utilizado para seguirles la pista a asuntos que requieren su atención? (Hábleme una ocasión en la que utilizó esos procedimiento).",
+      "35_10": "En una u otra ocasión todos hemos olvidado hacer algo importante para un cliente. Hábleme de una ocasión reciente en la que le sucedió esto. (¿Qué se le olvidó? ¿Por qué? ¿Qué sucedió?).",
+      "35_11": "Es difícil saber cómo asignar prioridades a los proyectos/actividades/ responsabilidades. Hábleme de la última vez en la que asignó incorrectamente la prioridad a un proyecto/actividad/responsabilidad. (¿Qué sucedió?).",
+      "35_12": "¿Alguna vez ha tenido que ajustar a su programa de trabajo porque no tenía todas las partes, los materiales o el equipo que necesitaba? (Hábleme de esas situaciones).",
+      "35_13": "Háblame de un proyecto que tuvo que planear, organizar y coordinar de principio a fin. ¿Fue exitoso? Deme una descripción de cómo lo planificó, organizó y coordinó. Si tuviera que hacerlo de nuevo, ¿qué haría de otra manera?",
+      "35_14": "Cuénteme acerca de un proyecto que lideró en el que estaban involucrados distintos grupos o divisiones. ¿Cómo mantuviste informadas a las partes importantes? ¿Qué problemas encontraste (por ejemplo, en la organización de recursos, coordinación de horarios, etc.)? ¿Cuáles fueron las soluciones?",
+      "35_15": "Describa su metodología para la estimación y programación de proyectos. ¿Qué estrategia tienes para cumplir con los plazos? ¿Cómo mide el progreso de un proyecto?",
+      "35_16": "PUESTO DE VENTA. Explique cómo decidió qué debía ver la pasada.",
+      "35_17": "SIN EXPERIENCIA. Hábleme de la ocasión en que su carga de estudio fue más pesada que nunca. ¿Cómo realizó todo su trabajo?",
+      "35_18": "SIN EXPERIENCIA. ¿Qué consideró al establecer su programa de clases?",
+      "35_19": "SIN EXPERIENCIA. ¿Cómo pudo lograr un equilibrio entre su trabajo académico con las actividades extracurriculares?"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Presentación Formal",
+    "text": "Presentar ideas en forma eficaz a individuos o grupos cuando se proporciones tiempo para la preparación (incluyendo comunicación no verbal y uso de ayudas visuales); concentrar específicamente las presentaciones en las características y necesidades del público.",
+    "actions": {
+      "36_1": "Establecer el propósito y la importancia para el público.",
+      "36_2": "Establecer el propósito y la importancia para el público.",
+      "36_3": "Utilizar vocabulario y ejemplos apropiados.",
+      "36_4": "Utilizar con eficacia la velocidad, el volumen, los ademanes y el contacto visual.",
+      "36_5": "Utilizar técnicas audiovisuales.",
+      "36_6": "Utilizar técnicas audiovisuales."
+    },
+    "questions": {
+      "36_1": "¿Alguna vez ha hecho usted una presentación ante su supervisor/gerente/líder de equipo? Hábleme de una de esas presentaciones. ¿Cómo se preparó?.",
+      "36_2": "¿Qué enfoque ha utilizado en las presentaciones ante diferentes públicos? Deme un ejemplo específico. ¿Cómo varió su enfoque para satisfacer las necesidades de ese público?.",
+      "36_3": "Todos hemos hecho presentaciones en las que algo importante salió mal (transparencias perdidas, equipo audiovisual defectuoso, público hostil, etc.). Hábleme acerca de la presentación que usted más recuerde que haya salido mal.",
+      "36_4": "¿Ha impartido algún entrenamiento en el salón de clases o taller.? Hábleme de un curso o taller específico que haya dirigido.",
+      "36_5": "Es difícil para cualquier persona hacer un buen trabajo cuando hace una presentación por primera vez sobre un nuevo tema. Hábleme de una presentación que hizo por primera vez y que no salió muy bien.",
+      "36_6": "¿Alguna vez ha hecho presentaciones en las que hizo recomendaciones acerca de un nuevo producto, servicio o procedimiento? Hábleme de una de esas presentaciones. ¿Cómo llevó a cabo la presentación?.",
+      "36_7": "Todos hemos estado tan ocupados que es difícil prepararse adecuadamente para una presentación importante. Hábleme de la última vez en que no tuvo tiempo suficiente para la preparación de una presentación clave. (¿Qué resultados adversos tuvo la sesión por su falta de preparación?).",
+      "36_8": "¿Ha tenido que presentar información técnica ante personas sin preparación técnica? (Deme un ejemplo).",
+      "36_9": "Todos hemos tenido públicos difíciles al hacer presentaciones. ¿Puede darme un ejemplo de cuando hizo una presentación ante un público hostil?",
+      "36_10": "PUESTO DE VENTA. Las presentaciones formales pueden ser desafíos muy difíciles. Hábleme de una de sus presentaciones formales que quisiera poder repetir.",
+      "36_11": "PUESTO DE VENTA. Hábleme de una de sus presentaciones formales de ventas más exitosas. ¿Cuál fue su enfoque?.",
+      "36_12": "SIN EXPERIENCIA. ¿Alguna vez ha hablado en público? Hábleme de una de esas presentaciones."
+    }
+  },
+  {
+    "id": 37,
+    "name": "Restablecimiento",
+    "text": "Manejar la frustración y el rechazo sin que sea afectada la eficiencia.",
+    "actions": {
+      "37_1": "Mantener el entusiasmo después de una desilusión o un rechazo.",
+      "37_2": "Mantener el nivel de desempeño después de una desilusión o un rechazo.",
+      "37_3": "Reponerse rápidamente."
+    },
+    "questions": {
+      "37_1": "Cada experiencia de trabajo tiene sus frustraciones. ¿Cuál fue una de sus mayores frustraciones mientras trabajaba en ______________? (¿Cómo la abordó?).",
+      "37_2": "Los demás no siempre reaccionan positivamente a los esfuerzos que usted hace. Describa una situación en la que dedicó mucho tiempo a preparar una presentación para satisfacer la necesidad de un cliente, y sus esfuerzos recibieron una respuesta desfavorable. (¿Qué hizo?).",
+      "37_3": "La retroalimentación de sus gerentes no siempre es positiva. Hábleme de la última vez en que su gerente le proporcionó retroalimentación negativa. (¿Cómo respondió usted?).",
+      "37_4": "PUESTO DE VENTA. Ningún vendedor cierra todas sus ventas. Hábleme de la última vez que esperaba lograr una gran venta pero no lo hizo. (¿Cómo se sintió? ¿Cómo afectó esto su trabajo con otros clientes?).",
+      "37_5": "PUESTO DE VENTA. No siempre podemos obtener el apoyo de ventas que necesitamos. Hábleme de una ocasión en la que necesitaba alguna ayuda (técnica o de otro tipo) para cerrar una venta, y no pudo obtenerla. (¿Como manejó la situación?).",
+      "37_6": "PUESTO DE VENTA. Algunas veces los clientes cambian de parecer. Hábleme de una ocasión en la que pensó que tenía un gran pedido, y luego éste fue cancelado. (¿Cómo respondió usted?).",
+      "37_7": "PUESTO DE VENTA. Encontrar nuevos clientes potenciales nunca es fácil. Hábleme de la última vez en que estaba tratando de conseguir algún nuevo cliente pero fue rechazado repetidamente.",
+      "37_8": "PUESTO DE VENTA. Todos los vendedores encuentran clientes actuales o potenciales que actúan en forma indiferente u hostil. Hábleme de una de esas situaciones. (¿Cómo se las arregló con este cliente?).",
+      "37_9": "PUESTO DE VENTA. La retroalimentación de los clientes no siempre es positiva. Hábleme de la última vez en la que uno de sus clientes lo criticó. ¿Cómo respondió usted?).",
+      "37_10": "SIN EXPERIENCIA. Otras personas no siempre reaccionan positivamente a los esfuerzos que usted hace. Hábleme de una situación en la que dedicó mucho tiempo a desarrollar una presentación o escribir una monografía para una de sus clases, y recibió una reacción desfavorable. (¿Qué hizo usted?).",
+      "37_11": "SIN EXPERIENCIA. Nadie que compite puede ganar todas las veces. Hábleme de una ocasión en la que usted estaba compitiendo con otra persona y perdió (en deportes, gobierno estudiantil, grupos de estudiantes, etc.). (¿Cuál era el problema? ¿Cómo respondió usted?).",
+      "37_12": "SIN EXPERIENCIA. Todos hemos recibido críticas de otros. Hábleme de una ocasión en la que fue criticado por un profesor/gerente/colega? (¿Cómo reaccionó usted?)."
+    }
+  },
+  {
+    "id": 38,
+    "name": "Salud Física/Capacidad",
+    "text": "Estar libre de limitaciones físicas para el desempeño en el puesto.",
+    "actions": {
+      "38_1": "Ninguna"
+    },
+    "questions": {
+      "38_1": "La evaluación de la salud física generalmente se le asigna a un médico. NO busque información sobre esto en una entrevista."
+    }
+  },
+  {
+    "id": 39,
+    "name": "Seguimiento",
+    "text": "Establecer procedimientos para controlar los resultados de las delegaciones, asignaciones o proyectos; tomar en consideración las habilidades, los conocimientos y la experiencia del individuo asignado y las características de la asignación o proyecto.",
+    "actions": {
+      "39_1": "Superar los obstáculos para alcanzar los objetivos.",
+      "39_2": "Hacer repetidos internos por lograr los objetivos.",
+      "39_3": "Mantenerse firme en una tarea hasta completarla.",
+      "39_4": "Saber cuándo renunciar."
+    },
+    "questions": {
+      "39_1": "PUESTO DE VENTA. Hábleme del período más prolongado que le haya requerido la venta de _____________ a un cliente. (Describa su enfoque para obtener el pedido).",
+      "39_2": "PUESTO DE VENTA. Describa una situación en la que necesitaba información para prepararse para una importante presentación de ventas, pero en la cual tuvo problemas para obtenerla. (¿Qué medidas adoptó?).",
+      "39_3": "PUESTO DE VENTA. A menudo no es fácil vencer las objeciones de un cliente. Hábleme de una venta importante que perdió porque no pudo vencer las objeciones del cliente.",
+      "39_4": "PUESTO DE VENTA. Ganar un nuevo cliente nunca es fácil. Hábleme de una venta que no pudo cerrar a pesar de sus intentos. (¿Por qué decidió retirarse?).",
+      "39_5": "PUESTO DE VENTA. Algunas veces es difícil saber cuándo retirarse. ¿Puede hablarme de una experiencia en donde consideró que persistió demasiado tiempo? (¿Cómo podría haber mejorado esa situación?).",
+      "39_6": "PUESTO DE VENTA. Describa una situación en la que persistió en una estrategia de ventas o en un plan de acción hasta que se alcanzó el objetivo deseado o ya no era posible alcanzarlo.",
+      "39_7": "PUESTO DE VENTA. Las cosas no siempre salen como pensamos. Describa una situación en la que se esforzó al máximo pero no logró el resultado deseado.",
+      "39_8": "PUESTO DE VENTA. Ningún vendedor cierra la venta todas las veces. ¿Cuál fue la mayor venta que ha perdido? (Describa sus intentos para hacer esa venta. [Esté atento a los intentos repetidos para cerrar la venta]).",
+      "39_9": "PUESTO DE VENTA. Los proyectos rara vez siguen adelante sin obstáculos. Hábleme de un proyecto reciente en el que haya trabajado en donde encontró un obstáculo importante. (¿Qué hizo para eludir ese obstáculo?).",
+      "39_10": "PUESTO DE VENTA. Hábleme de un cliente suyo que haya experimentado problemas repetidos con los productos/servicios de la empresa que usted representa. (Describa su estrategia para resolver el problema de ese cliente).",
+      "39_11": "SIN EXPERIENCIA. Todos tenemos ciertas materias que nos son más fáciles de aprender que otras. ¿Cuál fue el curso universitario que le causó más problema? (¿Cómo lo manejó?).",
+      "39_12": "SIN EXPERIENCIA. ¿Cuál fue uno de los mayores problemas que encontró mientras estudiaba en la universidad? (¿Cómo lo manejó?).",
+      "39_13": "SIN EXPERIENCIA. Puede haber muchas razones para no completar un curso universitario. Veo (refiriéndose a los registros del estudiante) que usted no completó ____________(el curso de). (¿Qué sucedió?)."
+    }
+  },
+  {
+    "id": 40,
+    "name": "Tenacidad",
+    "text": "Mantenerse en una posición o con un plan de acción hasta que se logre el objetivo deseado, o este ya no sea razonablemente posible de lograr.",
+    "actions": {
+      "40_1": "Superar los obstáculos para alcanzar los objetivos.",
+      "40_2": "Hacer repetidos intentos por lograr los objetivos.",
+      "40_3": "Mantenerse firme en una tarea hasta completarla.",
+      "40_4": "Saber cuando renunciar."
+    },
+    "questions": {
+      "40_1": "PUESTO DE VENTA. Hábleme del período más prolongado que le haya requerido la venta de _______________ a un cliente. (Describa su enfoque para obtener el pedido).",
+      "40_2": "PUESTO DE VENTA. Describa una situación en la que necesitaba información para prepararse para una importante presentación de ventas, pero en la cual tuvo problemas para obtenerla. (¿Qué medidas adoptó?).",
+      "40_3": "PUESTO DE VENTA. A menudo no es fácil vencer las objeciones de un cliente. Hábleme de una venta importante que perdió porque no pudo vencer las objeciones del cliente.",
+      "40_4": "PUESTO DE VENTA. Ganar un nuevo cliente nunca es fácil. Hábleme de una venta que no pudo cerrar a pesar de sus intentos. (¿Por qué decidió retirarse?).",
+      "40_5": "PUESTO DE VENTA. Algunas veces es difícil saber cuándo retirarse. ¿Puede hablarme de una experiencia en donde consideró que persistió demasiado tiempo? (¿Cómo podría haber mejorado esa situación?).",
+      "40_6": "PUESTO DE VENTA. Describa una situación en la que persistió en una estrategia de ventas o un plan de acción hasta que se alcanzó el objetivo deseado o ya no era posible alcanzarlo.",
+      "40_7": "PUESTO DE VENTA. Las cosas no siempre salen como pensamos. Describa una situación en la que se esforzó al máximo pero no logró el resultado deseado.",
+      "40_8": "PUESTO DE VENTA. Ningún vendedor cierra la venta todas las veces. ¿Cuál fue la mayor venta que ha perdido? (Describa sus intentos para hacer esa venta. [Esté atento a los intentos repetidos para cerrar la venta]).",
+      "40_9": "PUESTO DE VENTA. Los proyectos rara vez siguen adelante sin obstáculos. Hábleme de un proyecto reciente en el que haya trabajado en donde encontró un obstáculo importante. (¿Qué hizo para eludir ese obstáculo?).",
+      "40_10": "PUESTO DE VENTA. Hábleme de un cliente suyo que haya estado experimentando problemas repetidos con los productos / servicios de la empresa que usted representa. (Describa su estrategia para resolver el problema de ese cliente).",
+      "40_11": "SIN EXPERIENCIA. Todos tenemos ciertas materias que son mas fáciles de aprender que otras. ¿Cuál fue el curso universitario que le causó más problema? (¿Cómo lo manejó?).",
+      "40_12": "SIN EXPERIENCIA. Cuál fue uno de los mayores problemas que encontró mientras estudiaba en la universidad? (¿Cómo lo manejó?).",
+      "40_13": "SIN EXPERIENCIA. Puede haber muchas razones para no completar un curso universitario. Veo (refiriéndose a los registros del estudiante) que usted no completó_______________ (el curso de). (¿Qué sucedió?)."
+    }
+  },
+  {
+    "id": 41,
+    "name": "Tolerancia al Estrés",
+    "text": "Mantener un desempeño estable bajo presión u oposición (tal como la presión con plazos o la ambigüedad en el puesto); aliviar el estrés de una manera que sea aceptable para la persona, otras personas y la organización.",
+    "actions": {
+      "41_1": "Identificar maneras para reducir el estrés en el puesto.",
+      "41_2": "Mantener el control mientras se está bajo presión.",
+      "41_3": "Solicitar apoyo de otros cuando se esté estresado.",
+      "41_4": "Utilizar técnicas apropiadas para hacer frente a la situación (humor, actitud positiva, ejercicio, etc.)."
+    },
+    "questions": {
+      "41_1": "Describa una ocasión en la que se enfrentó a una situación especialmente difícil de entrega urgente (emergencia, plazo, etc.). Cómo reaccionó usted?",
+      "41_2": "Todos pasamos por situaciones en las que la presión en el trabajo es extremadamente alta. Describa una ocasión de este tipo en su experiencia laboral pasada. ¿Cómo reaccionó?",
+      "41_3": "Describa una ocasión en la que haya experimentado demandas de trabajo conflictivas. Cuáles eran esas demandas conflictivas? ¿Cómo respondió usted?",
+      "41_4": "¿Ha estado alguna vez en una situación de trabajo nueva o poco conocida para la que hubo poco tiempo para prepararse? (Deme un ejemplo, ¿Cómo reaccionó usted?).",
+      "41_5": "¿En qué medida se ha enfrentado a distracciones o interrupciones en su puesto? (Deme en ejemplo de esta situación. ¿Cómo reaccionó usted?).",
+      "41_6": "Los clientes pueden ser difíciles a veces. Describa una de las interacciones más estresantes que haya tenido con un cliente interno/externo. (¿Cómo reaccionó usted?).",
+      "41_7": "¿Cuánto tiempo fuera de casa requiere su trabajo en __________? (Háblame de una ocasión en la que estuvo fuera durante mucho tiempo. ¿Cómo reaccionó?).",
+      "41_8": "En ocasiones, las interacciones en el trabajo pueden ser difíciles. Describa una interacción sumamente estresante que haya tenido con su gerente/supervisor/líder de equipo. (¿Cómo reaccionó usted?)."
+    }
+  },
+  {
+    "id": 42,
+    "name": "Trabajo en equipo/Colaboración",
+    "text": "Trabajar efectivamente con el equipo/grupo de trabajo o personas fuera de la línea formal de autoridad (por ejemplo, pares, gerentes) para alcanzar los objetivos de la organización; tomar medidas que respeten las necesidades y contribuciones de otros; contribuir al consenso y aceptarlo; subordinar los objetivos propios de la organización o del equipo.",
+    "actions": {
+      "42_1": "Desarrollar relaciones.",
+      "42_2": "Contribuir al éxito del equipo y/o la organización."
+    },
+    "questions": {
+      "42_1": "Interactuar con otros a veces puede representar un desafio. Algunas veces ha tenido alguna dificultad para llevarse bien con los colegas/miembros del equipo/otras personas en el trabajo? (Hábleme de una ocasión específica en que sucedió esto. Cómo manejó la situación?).",
+      "42_2": "Hábleme de una situación en la que un colega/miembro del equipo estuvo muy en desacuerdo con sus ideas o acciones. (Cómo manejó la situación? Cuál fue el resultado?).",
+      "42_3": "Hábleme de una experiencia con alguien con quien haya trabajado que fue menos cooperativo de lo que usted necesitaba que fuera. (Cómo manejó la situación?).",
+      "42_4": "Describa una ocasión en la que trabajó con un grupo/equipo para determinar las responsabilidades de un proyecto. (¿Qué problemas tuvo el grupo/equipo? ¿Qué papel desempeñó usted?).",
+      "42_5": "Hábleme acerca de uno de los equipos/grupos más difíciles con los que ha tenido que trabajar. (¿Qué hacía que el equipo/grupo fuera difícil? ¿Qué hizo usted?).",
+      "42_6": "Algunas veces puede ser frustrante tratar de conseguir y obtener información de otras personas para poder resolver un problema. Sírvase describir una situación com ésta por la que usted haya pasado. (¿Qué hizo?).",
+      "42_7": "Describa una situación en la que ya no pudo ayudar a un colega o miembro del equipo.",
+      "42_8": "Hábleme de una situación en la que experimentó frustración o impaciencia al tratar con un colega, miembro del equipo u otro empleado. (¿Qué hizo usted?).",
+      "42_9": "Hábleme de una experiencia que haya tenido en el trabajo con un nuevo empleado. (¿Cómo fue su relación de trabajo? ¿Qué hizo usted para que fuera así? Deme un ejemplo de sus tratos con esa persona.",
+      "42_10": "De cuando en cuando, todos nosotros debemos tratar con alguien que nos hace perder nuestro tiempo en el trabajo. Hábleme de una situación semejante que usted haya tenido.",
+      "42_11": "Al tratar con miembros del equipo (o con un grupo), es difícil saber cuando se está siendo exageradamente exigente. Hábleme de una ocasión en la que usted podría haber sido demasiado exigente.",
+      "42_12": "¿Puede darme un ejemplo de una decisión equipo en la participó usted recientemente? (¿Qué hizo usted para ayudar a que el equipo llegara a esa decisión?).",
+      "42_13": "Cuénteme sobre una vez en la que trabajó con un grupo ajeno a su organización para lograr un objetivo común. ¿Cómo identificaste el grupo? ¿Qué hizo específicamente para habilitar la colaboración? ¿Cuáles fueron los problemas para lograr que un grupo cooperara? ¿Qué cosas se podrían haber hecho de manera diferente?",
+      "42_14": "Cuénteme sobre una época en la que grupos fuera de su organización buscaban que usted o su equipo se asocien con un objetivo común. ¿Cómo respondió? ¿Cómo fue la idea de colaborar apoyada o no apoyada?",
+      "42_15": "Cuénteme sobre una época en la que una asociación entre grupos no funcionó bien. ¿Cuáles fueron los problemas que impidieron la colaboración? ¿Cómo podría lograrse una mejor colaboración?",
+      "42_16": "Deme un ejemplo de un tiempo en el que fue capaz de construir una relación a largo plazo con otro equipo que fue mutuamente beneficioso. Específicamente, ¿cuál fue su papel para hacer que esto sucediera? ¿Por qué esta relación fue beneficiosa para su equipo? ¿Y para el otro equipo? ¿Y para la organización o empresa más grande?"
+    }
+  }
+]
