@@ -4,13 +4,14 @@ class DimensionsController < ApplicationController
   # GET /dimensions
   def index
     @dimensions = Dimension.all
-
-    render json: @dimensions
+    json_string = DimensionSerializer.new(@dimensions).serialized_json
+    render json: json_string#@dimensions.as_json(include: [:name, :description, :questions])
   end
 
   # GET /dimensions/1
   def show
-    render json: @dimension
+    json_string = DimensionSerializer.new(@dimension, include: [:questions]).serialized_json
+    render json: json_string
   end
 
   # POST /dimensions
