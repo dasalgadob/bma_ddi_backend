@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_07_10_174253) do
+ActiveRecord::Schema.define(version: 2019_07_12_170949) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -31,6 +31,15 @@ ActiveRecord::Schema.define(version: 2019_07_10_174253) do
     t.index ["actions_id"], name: "index_dimensions_on_actions_id"
     t.index ["description_id"], name: "index_dimensions_on_description_id"
     t.index ["name_id"], name: "index_dimensions_on_name_id"
+  end
+
+  create_table "interview_questions", force: :cascade do |t|
+    t.bigint "interview_id"
+    t.bigint "question_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["interview_id"], name: "index_interview_questions_on_interview_id"
+    t.index ["question_id"], name: "index_interview_questions_on_question_id"
   end
 
   create_table "interviews", force: :cascade do |t|
@@ -112,6 +121,8 @@ ActiveRecord::Schema.define(version: 2019_07_10_174253) do
   add_foreign_key "dimensions", "translations", column: "actions_id"
   add_foreign_key "dimensions", "translations", column: "description_id"
   add_foreign_key "dimensions", "translations", column: "name_id"
+  add_foreign_key "interview_questions", "interviews"
+  add_foreign_key "interview_questions", "questions"
   add_foreign_key "interviews", "users"
   add_foreign_key "questions", "dimensions"
   add_foreign_key "questions", "translations"

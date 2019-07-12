@@ -2,6 +2,7 @@ class Interview < ApplicationRecord
   serialize :dimentions, JSON
   serialize :motivational_questions, JSON
   belongs_to :user
+  has_many :questions, through: :interview_questions
 
   scope :by_name, ->(n) { where("interviews.name ilike ?", '%' +n + '%')}
   scope :by_company, ->(c) { where("interviews.company ilike ?", '%' +c + '%')}
