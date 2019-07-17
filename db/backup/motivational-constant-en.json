@@ -1,0 +1,128 @@
+{
+  "name": "Motivational Compatibility",
+  "text": "The extent to which the activities and responsibilities of the position, mode of operation and values of the organization and the community in which individuals live, correspond to the type of environment that provides personal satisfaction;  the extent to which the work itself is personally satisfying.",
+  "general_question": "General Question: When were you most satisfied / dissatisfied in your work? What was the most satisfactory / unsatisfactory that?",
+  "open_question": "Open Question: Tell me about a time when I had a couple / few opportunities _____________ in their work.  How satisfied were you with that and why?",
+  "motivational_questions_title": "Questions about Motivational Facets",
+  "motivational_questions_text": "Use the question to when a facet is found very much in a post and ask if the facet B is located very absent from a job. Some facets have one question, which can be used in both situations.",
+  "motivational_questions": {
+    "1":{
+      "name": "Achievement",
+      "text": "Facing labor challenges increasing.",
+      "a": "Tell me about a time when you had many challenges in their work. How satisfied were you with that and why?",
+      "b": "Tell me about a time when you had a job that did not show him many challenges. How satisfied were you with that and why?"
+    },
+    "2":{
+      "name": "Center of Attention",
+      "text": "Work on highly visible assignments.",
+      "a": "Tell me about a work situation in which you were the center of attention. How satisfied were you with that and why?"
+    },
+    "3":{
+      "name": "Advise Others",
+      "text": "Encourage the development of others associated with the work.",
+      "a": "Tell me about a time when I had several opportunities to assist others in their work area. How satisfied were you with that and why?"
+    },
+    "4":{
+      "name": "Commissions",
+      "text": "Working under a payment structure in which a portion of the pay depends on measurable performance (eg, sales on commission)",
+      "a": "Tell me about a time when he was extremely pleased with the way it was structured remuneration. How was it structured? Why were you satisfied?"
+    },
+    "5":{
+      "name": "Complexity",
+      "text": "Perform complex tasks or work on complex projects.",
+      "a": "Tell me about a time when you had many opportunities to work on complex tasks. How satisfied were you with that and why?",
+      "b": "Tell me about a time when most of his work was relatively simple. How satisfied were you with that and why?"
+    },
+    "6":{
+      "name": "Lifelong Learning",
+      "text": "To increase knowledge and skills when circumstances require additional learning.",
+      "a": "Tell me about a time when you had to learn new things all the time at work. How satisfied were you with that and why?",
+      "b": "Tell me about a place where you learned something then, did not have to keep learning. How satisfied were you with that and why?"
+    },
+    "7":{
+      "name": "Creativity",
+      "text": "Develop themselves to perform tasks or solve problems approaches.",
+      "a": "Tell me about a time when he could be creative in their work. How satisfied were you with that and why?",
+      "b": "Tell me about a time when there was not much room for creativity in their work. How satisfied were you with that and why?"
+    },
+    "8":{
+      "name": "Details",
+      "text": "Work on tasks that require great attention to detail.",
+      "a": "Tell me about a time when your job required a lot of attention to detail. How satisfied were you with that and why?"
+    },
+    "9":{
+      "name": "Different Perspectives",
+      "text": "Working with people from a variety of backgrounds and perspectives.",
+      "a": "Tell me about a time when you worked with people with a wide range of backgrounds and perspectives. How satisfied were you with that and why?",
+      "b": "Tell me about a time when you worked with people who were very similar to you. How satisfied were you with that and why?"
+    },
+    "10":{
+      "name": "Fast Pace of Work",
+      "text": "Perform tasks at high speed.",
+      "a": "Tell me about a time when you had to work at a fast pace. How satisfied were you with that and why?.",
+      "b": "Tell me about a time when you could work at a slow or moderate pace. How satisfied were you with that and why?"
+    },
+    "11":{
+      "name": "Formal Recognition",
+      "text": "Receive formal recognition inside and outside of the organization's achievements.",
+      "a": "Have you ever worked somewhere where achievements were recognized on a regular and frequent (plaques, employee of the month awards, etc)? How satisfied were you with that and why?.",
+      "b": "Have you worked somewhere where achievements were recognized rarely, if ever recognized them (plates, employee of the month awards, etc)? How satisfied were you with that and why?."
+    },
+    "12":{
+      "name": "High Degree of Participation as Leader",
+      "text": "Influencing others by creating an environment of participation with a high degree of empowerment.",
+      "a": "Tell me about a time that made people reporting directly to you or team members participate in decisions affecting the work they performed. What types of decisions involve achieved? How satisfied were you with that and why?"
+    },
+    "13":{
+      "name": "High Degree of Participation as Member",
+      "text": "Working in an environment with a high degree of involvement of empowerment.",
+      "a": "Tell me about a time when you had a lot of collaboration in decisions affecting their work. How satisfied were you with that and why?",
+      "b": "Tell me about a time when others take most decisions that affect their work. How satisfied were you with that and why?"
+    },
+    "14":{
+      "name": "Independence",
+      "text": "Work independently or with minimal supervision.",
+      "a": "Tell me about a time when you had much opportunity to work regardless of its leader / supervisor. How satisfied were you with that and why?",
+      "b": "Tell me about a time when his work was closely supervised. How satisfied were you with that and why?"
+    },
+    "15":{
+      "name": "Interaction",
+      "text": "Working with other members (team members, customers, suppliers, etc.).",
+      "a": "Tell me about a time when I had many opportunities to interact with others at work. How satisfied were you with that and why?",
+      "b": "Tell me about a situation when working alone most of the time. How satisfied were you with that and why?"
+    },
+    "16":{
+      "name": "Interpersonal Support",
+      "text": "Receive constant emotional support and gestures of appreciation.",
+      "a": "Tell me about a situation at work in which received much support from others. How satisfied were you with that and why?",
+      "b": "Tell me about a situation at work where you did not receive much support from others. How satisfied were you with that and why?"
+    },
+    "17":{
+      "name": "Managing Others",
+      "text": "Influencing others.",
+      "a": "Tell me about a time when they had opportunities to lead others in their work. How satisfied were you with that and why?"
+    },
+    "18":{
+      "name": "Primacy of Work",
+      "text": "Making personal sacrifices for the sake of work.",
+      "a": "Tell me about a time when he made personal sacrifices for the job. How satisfied were you with that and why?"
+    },
+    "19":{
+      "name": "Opportunities Rise",
+      "text": "Conquer higher positions / status.",
+      "a": "Tell me about a time when his position had opportunities for advancement. How satisfied were you with that and why?",
+      "b": "Tell me about a time when their advancement opportunities were limited. How satisfied were you with that and why?"
+    },
+    "20":{
+      "name": "Routine",
+      "text": "Working in an environment in which the methods and procedures change little from day to day.",
+      "a": "Tell me about a situation in which his work was characterized by many conventional methods. How satisfied were you with that and why?",
+      "b": "Tell me about a time when you worked with a few procedures standard. How satisfied were you with that and why?"
+    },
+    "21":{
+      "name": "Variety of Tasks",
+      "text": "Working in several different tasks or projects.",
+      "a": "Tell me about a time when you had a lot of variety in their work. How satisfied were you with that and why?"
+    }
+  }
+}

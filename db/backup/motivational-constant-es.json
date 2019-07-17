@@ -1,0 +1,128 @@
+{
+  "name": "Compatibilidad Motivacional",
+  "text": "La medida en que las actividades y responsabilidades del puesto, la modalidad de operación y los valores de la organización, y la comunidad en la cual el individuo vivirá, se corresponden con el tipo de ambiente que brinda satisfacción personal; el grado en el cual el propio trabajo es personalmente satisfactorio.",
+  "general_question": "Pregunta General: ¿Cuándo estuvo usted más satisfecho/insatisfecho en su trabajo?  ¿Qué fue lo más satisfactorio/insatisfactorio de eso?.",
+  "open_question": "Pregunta Abierta: Hábleme de una ocasión en la que tuvo varias/pocas oportunidades de _________ en su trabajo.  ¿Qué tan satisfecho estuvo usted con eso y por qué?.",
+  "motivational_questions_title": "Preguntas sobre Facetas Motivacionales",
+  "motivational_questions_text": "Utilice la pregunta A cuando una faceta se encuentre muy presente en un puesto y la pregunta B cuando la faceta se encuentre muy ausente de un puesto.  Algunas facetas tienen una sola pregunta, la cual puede ser utilizada en ambas situaciones.",
+  "motivational_questions": {
+    "1":{
+      "name": "Logro",
+      "text": "Enfrentarse a desafíos laborales cada vez mayores.",
+      "a": "Hábleme de una ocasión en la que tuvo muchos desafíos en su trabajo. ¿Qué tan satisfecho estuvo usted con eso y por qué?",
+      "b": "Hábleme de una ocasión en la que tuvo un puesto que no le presentaba muchos desafíos. ¿Qué tan satisfecho estuvo usted con eso y por qué?"
+    },
+    "2":{
+      "name": "Centro de la Atención",
+      "text": "Trabajar en asignaciones altamente visibles.",
+      "a": "Hábleme de una situación de trabajo en la que usted era el centro de atención. ¿Qué tan satisfecho estuvo usted con eso y por qué?"
+    },
+    "3":{
+      "name": "Asesorar a Otros",
+      "text": "Fomentar el desarrollo de otras personas relacionadas con el trabajo.",
+      "a": "Hábleme de una ocasión en la que tuvo varias oportunidades de asesorar a otras personas en su área trabajo. ¿Qué tan satisfecho estuvo usted con eso y por qué?"
+    },
+    "4":{
+      "name": "Comisiones",
+      "text": "Trabajar bajo una estructura de pago en la cual una parte de la paga depende del desempeño mensurable (por ejemplo, ventas sobre comisiones).",
+      "a": "Hábleme de una ocasión en la que estuvo sumamente satisfecho con la forma en que estaba estructurada su remuneración. ¿Cómo estaba estructurada? ¿Por qué estaba usted satisfecho?"
+    },
+    "5":{
+      "name": "Complejidad",
+      "text": "Realizar tareas complejas o trabajar en proyectos complejos.",
+      "a": "Hábleme de una ocasión en la que tuvo muchas oportunidades de trabajar en tareas complejas. ¿Qué tan satisfecho estuvo usted con eso y por qué?",
+      "b": "Hábleme de una ocasión cuando la mayor parte de su trabajo era relativamente sencilla. ¿Qué tan satisfecho estuvo usted con eso y por qué?"
+    },
+    "6":{
+      "name": "Aprendizaje Continuo",
+      "text": "Aumentar los conocimientos y las habilidades cuando las circunstancias requieran aprendizaje adicional.",
+      "a": "Hábleme de una ocasión en la que tuvo que aprender cosas nuevas continuamente en su trabajo. ¿Qué tan satisfecho estuvo usted con eso y por qué?",
+      "b": "Hábleme de un puesto en el cual después que aprendió algo, no tenía que seguir aprendiendo. ¿Qué tan satisfecho estuvo usted con eso y por qué?"
+    },
+    "7":{
+      "name": "Creatividad",
+      "text": "Idear enfoques propios para desempeñar tareas o solucionar problemas.",
+      "a": "Hábleme de una ocasión en la que pudo ser creativo en su trabajo. ¿Qué tan satisfecho estuvo usted con eso y por qué?",
+      "b": "Hábleme de una ocasión en la que no había mucho margen para la creatividad en su trabajo. ¿Qué tan satisfecho estuvo usted con eso y por qué?"
+    },
+    "8":{
+      "name": "Detalles",
+      "text": "Trabajar en tareas que requieran gran atención a los detalles.",
+      "a": "Hábleme de una ocasión en la que su trabajo requería mucha atención al detalle. ¿Qué tan satisfecho estuvo usted con eso y por qué?"
+    },
+    "9":{
+      "name": "Perspectivas Diversas",
+      "text": "Trabajar con personas de una amplia variedad de antecedentes y perspectivas.",
+      "a": "Hábleme de una ocasión en la que usted trabajó con personas con una amplia gama de antecedentes o perspectivas. ¿Qué tan satisfecho estuvo usted con eso y por qué?",
+      "b": "Hábleme de una ocasión en la que trabajó con gente que era muy semejante a usted. ¿Qué tan satisfecho estuvo usted con eso y por qué?"
+    },
+    "10":{
+      "name": "Ritmo de Trabajo Rápido",
+      "text": "Desempeñar tareas a gran velocidad.",
+      "a": "Hábleme de una ocasión en la que tuvo que trabajar a ritmo rápido.  ¿Qué tan satisfecho estuvo usted con eso y por qué?.",
+      "b": "Hábleme de una ocasión en la que pudo trabajar a un paso lento o moderado. ¿Qué tan satisfecho estuvo usted con eso y por qué?"
+    },
+    "11":{
+      "name": "Reconocimiento Formal",
+      "text": "Recibir reconocimiento formal dentro y afuera de la organización por los logros.",
+      "a": "¿Alguna vez ha trabajado en algún lugar donde los logros eran reconocidos en forma regular y frecuente(placas, empleado del mes, premios, etc).?  ¿Qué tan satisfecho estuvo usted con eso y por qué?.",
+      "b": "¿Ha trabajado usted en algún lugar donde los logros rara vez eran reconocidos, si es que los reconocían alguna vez(placas, empleados del mes, premios, etc)? ¿Qué tan satisfecho estuvo usted con eso y por qué?."
+    },
+    "12":{
+      "name": "Alto Grado de Participación como Líder",
+      "text": "Influir en otros creando un ambiente de participación con alto grado de empowerment.",
+      "a": "Hábleme de una ocasión en la que hizo que personas que dependían directamente de usted o miembros del equipo participaran en decisiones que afectaran el trabajo que ellos realizaban.  ¿En qué tipos de decisiones logró involucrarlos? ¿Qué tan satisfecho estuvo usted con eso y por qué?"
+    },
+    "13":{
+      "name": "Alto Grado de Participación como Miembro",
+      "text": "Trabajar en un ambiente de participación con alto grado de empowerment.",
+      "a": "Hábleme de una ocasión en la que tuvo mucha colaboración en las decisiones que afectaban su trabajo. ¿Qué tan satisfecho estuvo usted con eso y por qué?",
+      "b": "Hábleme de una ocasión en la que otras personas tomaran la mayoría de las decisiones que afectan su trabajo. ¿Qué tan satisfecho estuvo usted con eso y por qué?"
+    },
+    "14":{
+      "name": "Independencia",
+      "text": "Trabajar independientemente o con supervisión mínima.",
+      "a": "Hábleme de una ocasión en la que tuvo mucha oportunidad de trabajar independientemente de su líder/supervisor. ¿Qué tan satisfecho estuvo usted con eso y por qué?",
+      "b": "Hábleme de una ocasión cuando su trabajo estuvo estrechamente supervisado. ¿Qué tan satisfecho estuvo usted con eso y por qué?"
+    },
+    "15":{
+      "name": "Interacción",
+      "text": "Trabajar con otros miembros (miembros del equipo, clientes, proveedores, etc.).",
+      "a": "Hábleme de una ocasión en la que tuvo muchas oportunidades de interactuar con otros en el trabajo. ¿Qué tan satisfecho estuvo usted con eso y por qué?",
+      "b": "Hábleme de una situación cuando trabajó solo gran parte del tiempo. ¿Qué tan satisfecho estuvo usted con eso y por qué?."
+    },
+    "16":{
+      "name": "Apoyo Interpersonal",
+      "text": "Recibir constante apoyo emocional y gestos de aprecio.",
+      "a": "Hábleme de una situación en el trabajo en la que recibió mucho apoyo de otros. ¿Qué tan satisfecho estuvo usted con eso y por qué?",
+      "b": "Hábleme de una situación en el trabajo en la que no recibió mucho apoyo de otros. ¿Qué tan satisfecho estuvo usted con eso y por qué?"
+    },
+    "17":{
+      "name": "Dirigir a Otros",
+      "text": "Influir en otras personas.",
+      "a": "Hábleme de una ocasión en la que tuvo oportunidades de dirigir a otros en su trabajo. ¿Qué tan satisfecho estuvo usted con eso y por qué?"
+    },
+    "18":{
+      "name": "Primacía del Trabajo",
+      "text": "Hacer sacrificios  personales en aras del trabajo.",
+      "a": "Hábleme de una ocasión en la que hizo sacrificios personales por el trabajo. ¿Qué tan satisfecho estuvo usted con eso y por qué?"
+    },
+    "19":{
+      "name": "Oportunidades de Ascenso",
+      "text": "Conquistar puestos de mayor responsabilidad/status.",
+      "a": "Hábleme de una ocasión en su puesto cuando tuvo oportunidades de ascenso. ¿Qué tan satisfecho estuvo usted con eso y por qué?",
+      "b": "Hábleme de una ocasión cuando sus oportunidades de ascenso fueron limitadas. ¿Qué tan satisfecho estuvo usted con eso y por qué?"
+    },
+    "20":{
+      "name": "Rutina",
+      "text": "Trabajar en un medio ambiente en el cual los métodos y los procedimientos cambian muy poco de un día a otro.",
+      "a": "Hábleme de una situación en la que su trabajo se caracterizaba por tener muchos procedimientos convencionales. ¿Qué tan satisfecho estuvo usted con eso y por qué?",
+      "b": "Hábleme de una ocasión en la que trabajó con unos pocos procedimientos estándar. ¿Qué tan satisfecho estuvo usted con eso y por qué?"
+    },
+    "21":{
+      "name": "Variedad en las Tareas",
+      "text": "Trabajar en varias tareas o proyectos diferentes.",
+      "a": "Hábleme de una ocasión en la que tuvo mucha variedad en su trabajo. ¿Qué tan satisfecho estuvo usted con eso y por qué?"
+    }
+  }
+}
