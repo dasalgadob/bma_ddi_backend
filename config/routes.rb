@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :answers
   resources :interview_questions
   resources :questions
   resources :dimensions

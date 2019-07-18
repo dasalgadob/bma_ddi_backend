@@ -10,10 +10,27 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_07_17_152644) do
+ActiveRecord::Schema.define(version: 2019_07_18_023546) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "answers", force: :cascade do |t|
+    t.text "situation"
+    t.text "action"
+    t.text "result"
+    t.text "resume"
+    t.integer "rating"
+    t.integer "impact"
+    t.integer "communication"
+    t.string "option"
+    t.bigint "result_id"
+    t.bigint "question_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["question_id"], name: "index_answers_on_question_id"
+    t.index ["result_id"], name: "index_answers_on_result_id"
+  end
 
   create_table "candidates", force: :cascade do |t|
     t.string "name"
@@ -120,6 +137,8 @@ ActiveRecord::Schema.define(version: 2019_07_17_152644) do
     t.index ["uid", "provider"], name: "index_users_on_uid_and_provider", unique: true
   end
 
+  add_foreign_key "answers", "questions"
+  add_foreign_key "answers", "results"
   add_foreign_key "dimensions", "translations", column: "actions_id"
   add_foreign_key "dimensions", "translations", column: "description_id"
   add_foreign_key "dimensions", "translations", column: "name_id"
