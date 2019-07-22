@@ -1,9 +1,11 @@
 class Result < ApplicationRecord
-  serialize :answers, JSON
-  serialize :motivational_competence, JSON
+  #serialize :answers, JSON
+  #serialize :motivational_competence, JSON
 
   belongs_to :user
   belongs_to :candidate
+
+  has_many :answers_to_dimensions, class_name: 'Answer', foreign_key: "result_id"
 
   scope :by_position, ->(p) { where("results.position ilike ?", '%' +p + '%')}
   scope :by_company, ->(c) { where("results.company ilike ?", '%' +c + '%')}

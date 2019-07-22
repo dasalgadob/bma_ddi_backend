@@ -13,7 +13,7 @@ class ResultsController < ApplicationController
 
   # GET /results/1
   def show
-    render json: @result
+    render json: ResultSerializer.new(@result).serialized_json
   end
 
   # POST /results
