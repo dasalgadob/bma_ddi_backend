@@ -4,6 +4,7 @@ class Question < ApplicationRecord
   belongs_to :name, class_name: "Translation", optional: true
   belongs_to :description, class_name: "Translation", optional: true
   belongs_to :dimension
+  has_many :interview_questions
   has_many :interviews, through: :interview_questions
 
   ##Return questions that belongs to the dimension motivational and are not mandatory.
