@@ -51,7 +51,7 @@ class ResultsController < ApplicationController
     def result_params
       params.require(:result).permit(:position, :answers, :motivational_competence,
        :base_salary, :benefits, :salary_expectations,
-        :geographical_areas, :company, :editable, :user_id, :candidate_id)
+        :geographical_areas, :company, :editable, :user_id, :candidate_id, :is_not_finished)
     end
 
     def sort_column
