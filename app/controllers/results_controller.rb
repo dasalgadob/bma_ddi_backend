@@ -1,4 +1,7 @@
 class ResultsController < ApplicationController
+
+  before_action  :authenticate_user!, only: [:create, :update]
+
   include Pagy::Backend
   before_action :set_result, only: [:show, :update, :destroy]
   has_scope :by_position, :by_company, :by_interviewer, :by_candidate
@@ -18,8 +21,10 @@ class ResultsController < ApplicationController
 
   # POST /results
   def create
+    puts "current user"
+    puts current_user.id
     @result = Result.new(result_params)
-
+    @result.user_id = current_user.id
     if @result.save
       render json: @result, status: :created, location: @result
     else
