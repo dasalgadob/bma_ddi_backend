@@ -28,4 +28,13 @@ class Interview < ApplicationRecord
     ", self.id)
   end
 
+  def add_interview_questions(questions_array)
+    questions_array.each do |qi|
+      q = Question.find(qi)
+      if q
+        InterviewQuestion.create(interview_id: self.id, question_id: q.id)
+      end
+    end
+  end
+
 end

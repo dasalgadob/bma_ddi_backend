@@ -28,12 +28,7 @@ class InterviewsController < ApplicationController
     @interview.user_id = current_user.id
     if @interview.save
       #If the interview was created, then create its proper interview_questions records
-      interview_params[:questions_array].each do |qi|
-        q = Question.find(qi)
-        if q
-          InterviewQuestion.create(interview_id: @interview.id, question_id: q.id)
-        end
-      end
+      @interview.add_interview_questions(interview_params[:questions_array])
 
       render json: @interview, status: :created, location: @interview
     else
@@ -43,7 +38,11 @@ class InterviewsController < ApplicationController
 
   # PATCH/PUT /interviews/1
   def update
-    if @interview.update(interview_params)
+    ##Iterates through questions array.
+    ##If the question id belong to the array 
+    @interview.interview_questions.destroy_all
+    @interview.add_interview_questions(interview_params[:questions_array])
+    if @interview.update(interview_params.except(:questions_array))
       render json: @interview
     else
       render json: @interview.errors, status: :unprocessable_entity
@@ -73,4 +72,5 @@ class InterviewsController < ApplicationController
     def sort_direction
       %w[asc desc].include?(params[:direction]) ? params[:direction] : "desc"
     end
+
 end
