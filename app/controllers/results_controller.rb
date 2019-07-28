@@ -16,7 +16,7 @@ class ResultsController < ApplicationController
 
   # GET /results/1
   def show
-    render json: ResultSerializer.new(@result).serialized_json
+    render json: ResultSerializer.new(@result, include: [:answers_to_dimensions]).serialized_json
   end
 
   # POST /results
