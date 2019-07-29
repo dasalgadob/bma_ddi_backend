@@ -16,7 +16,7 @@ class InterviewsController < ApplicationController
 
   # GET /interviews/1
   def show
-    render json: InterviewSerializer.new(@interview, include: [:questions]).serialized_json
+    render json: InterviewSerializer.new(@interview, include: [:questions, :"questions.dimension"]).serialized_json
   end
 
   # POST /interviews

@@ -1,5 +1,5 @@
 
-after :dimensions do
+#after :dimensions do
 
 Interview.all.each do |i|
     i.dimentions.keys.each do |dim|
@@ -12,4 +12,4 @@ Interview.all.each do |i|
     end 
 end    
 
-end
+#end

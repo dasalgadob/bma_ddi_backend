@@ -3,7 +3,7 @@ class CreateAnswers < ActiveRecord::Migration[5.2]
     create_table :answers do |t|
       t.text :situation
       t.text :action
-      t.text :result
+      t.text :resultado
       t.text :resume
       t.integer :rating
       t.integer :impact

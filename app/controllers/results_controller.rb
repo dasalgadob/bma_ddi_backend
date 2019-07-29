@@ -12,11 +12,15 @@ class ResultsController < ApplicationController
     @results = pagy(apply_scopes(Result.order(sort_column + " " + sort_direction)), items: params[:items])
 
     render json: @results.as_json(include: [:user, :candidate])
+    #render json: [@results[0],ResultSerializer.new(@results[1], include: [ :answers_to_dimensions])]
   end
 
   # GET /results/1
   def show
-    render json: ResultSerializer.new(@result, include: [:answers_to_dimensions]).serialized_json
+    options = {}
+    options[:meta] = { total: 2 }
+    options[:include] = [:answers_to_dimensions, :"answers_to_dimensions.question"]
+    render json: ResultSerializer.new(@result, options).serialized_json
   end
 
   # POST /results

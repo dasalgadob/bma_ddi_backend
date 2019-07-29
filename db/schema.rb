@@ -18,7 +18,7 @@ ActiveRecord::Schema.define(version: 2019_07_24_032410) do
   create_table "answers", force: :cascade do |t|
     t.text "situation"
     t.text "action"
-    t.text "result"
+    t.text "resultado"
     t.text "resume"
     t.integer "rating"
     t.integer "impact"
@@ -101,7 +101,7 @@ ActiveRecord::Schema.define(version: 2019_07_24_032410) do
     t.bigint "candidate_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.boolean "is_not_finished", default: false
+    t.boolean "is_not_finished", default: true
     t.index ["candidate_id"], name: "index_results_on_candidate_id"
     t.index ["user_id"], name: "index_results_on_user_id"
   end

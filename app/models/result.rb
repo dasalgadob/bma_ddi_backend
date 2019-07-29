@@ -1,7 +1,6 @@
 class Result < ApplicationRecord
-  #serialize :answers, JSON
-  #serialize :motivational_competence, JSON
-
+  serialize :answers, JSON
+  serialize :motivational_competence, JSON
   belongs_to :user
   belongs_to :candidate
 

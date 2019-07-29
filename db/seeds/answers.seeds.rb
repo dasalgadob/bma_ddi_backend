@@ -7,7 +7,7 @@ Result.all.each do |r|
         r.answers[dimension].each do |q_code, q_answer |
             q = Question.where(code: q_code).first
             #puts q
-            Answer.create(situation: q_answer['situation'], action: q_answer['action'], result: q_answer['result'],
+            Answer.create(situation: q_answer['situation'], action: q_answer['action'], resultado: q_answer['result'],
                           resume: q_answer['resume'], rating: q_answer['rating'], impact: q_answer['impact'], 
                           communication: q_answer['comunication'], result: r, question: q)
         end
