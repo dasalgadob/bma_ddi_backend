@@ -19,6 +19,14 @@ rails db:setup
 * Database initialization
 rails db:migrate
 * How to run the test suite
+
+Order of seeds:
+-modimensions
+-interview_questions
+-motivational_dimension
+-interview_questions_motivational
+-answers
+
 bundle exec rspec
 * Services (job queues, cache servers, search engines, etc.)
 
