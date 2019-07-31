@@ -20,8 +20,19 @@ rails db:setup
 rails db:migrate
 * How to run the test suite
 
+
+heroku pg:psql --app bma-ddi-backend < db/backup/users.sql
+
+heroku pg:psql --app bma-ddi-backend < db/backup/candidates.sql
+
+heroku pg:psql --app bma-ddi-backend < db/backup/interviews.sql
+
+heroku pg:psql --app bma-ddi-backend < db/backup/results.sql
+
+
+
 Order of seeds:
--modimensions
+-dimensions
 -interview_questions
 -motivational_dimension
 -interview_questions_motivational
