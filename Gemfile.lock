@@ -1,3 +1,14 @@
+GIT
+  remote: https://github.com/randym/axlsx.git
+  revision: c8ac844572b25fda358cc01d2104720c4c42f450
+  ref: c8ac844
+  specs:
+    axlsx (2.1.0.pre)
+      htmlentities (~> 4.3.4)
+      mimemagic (~> 0.3)
+      nokogiri (>= 1.6.6)
+      rubyzip (>= 1.2.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -43,6 +54,9 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
     arel (9.0.0)
+    axlsx_rails (0.5.2)
+      actionpack (>= 3.1)
+      axlsx (>= 2.0.1)
     bcrypt (3.1.13)
     bootsnap (1.4.4)
       msgpack (~> 1.0)
@@ -70,6 +84,7 @@ GEM
     has_scope (0.7.2)
       actionpack (>= 4.1)
       activesupport (>= 4.1)
+    htmlentities (4.3.4)
     i18n (1.6.0)
       concurrent-ruby (~> 1.0)
     json (2.1.0)
@@ -154,6 +169,7 @@ GEM
       rspec-support (~> 3.8.0)
     rspec-support (3.8.0)
     ruby_dep (1.5.0)
+    rubyzip (1.2.3)
     seedbank (0.5.0)
       rake (>= 10.0)
     spring (2.0.2)
@@ -185,6 +201,8 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  axlsx!
+  axlsx_rails
   bootsnap (>= 1.1.0)
   byebug
   devise
@@ -199,6 +217,7 @@ DEPENDENCIES
   rack-cors
   rails (~> 5.2.3)
   rspec-rails (~> 3.8)
+  rubyzip (>= 1.2.1)
   seedbank
   spring
   spring-watcher-listen (~> 2.0.0)

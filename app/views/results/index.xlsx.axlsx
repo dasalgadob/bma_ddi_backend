@@ -1,0 +1,21 @@
+# app/views/results/index.xlsx.axlsx
+
+wb = xlsx_package.workbook
+
+wb.add_worksheet(name: "Resultados") do |sheet|
+  # this is the head row of your spreadsheet
+  sheet.add_row %w(id Compañia Posición SalarioBase Beneficios ExpectaticaSalarial AreasGeograficas Completada FechaCreacion)
+
+  # each user is a row on your spreadsheet
+  @results.each do |res|
+  completed=""
+    if res.is_not_finished
+        completed = "F"
+    else
+        completed ="V"
+    end
+    sheet.add_row [res.id, res.company, res.position, res.base_salary, res.benefits, res.salary_expectations,
+                    res.geographical_areas, completed, res.created_at.strftime("%Y/%m/%d")
+                    ]
+  end
+end

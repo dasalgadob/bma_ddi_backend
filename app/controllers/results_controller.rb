@@ -9,10 +9,19 @@ class ResultsController < ApplicationController
 
   # GET /results
   def index
-    @results = pagy(apply_scopes(Result.order(sort_column + " " + sort_direction)), items: params[:items])
 
-    render json: @results.as_json(include: [:user, :candidate])
-    #render json: [@results[0],ResultSerializer.new(@results[1], include: [ :answers_to_dimensions])]
+    respond_to do |format|
+      format.json {
+        @results = pagy(apply_scopes(Result.order(sort_column + " " + sort_direction)), items: params[:items])
+
+        render json: @results.as_json(include: [:user, :candidate])
+        #render json: [@results[0],ResultSerializer.new(@results[1], include: [ :answers_to_dimensions])]
+      }
+      format.xlsx {
+        @results = Result.all.order("id desc")
+        response.headers['Content-Disposition'] = 'attachment; filename="Resultados '+Time.now.strftime("%Y/%m/%d") +'.xlsx"'
+      }
+    end
   end
 
   # GET /results/1
