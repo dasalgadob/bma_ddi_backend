@@ -4,6 +4,7 @@ class Interview < ApplicationRecord
   belongs_to :user
   has_many :interview_questions
   has_many :questions, through: :interview_questions
+  has_many :results, dependent: :nullify
 
   scope :by_name, ->(n) { where("interviews.name ilike ?", '%' +n + '%')}
   scope :by_company, ->(c) { where("interviews.company ilike ?", '%' +c + '%')}

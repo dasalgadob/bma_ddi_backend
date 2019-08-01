@@ -3,6 +3,7 @@ class Result < ApplicationRecord
   serialize :motivational_competence, JSON
   belongs_to :user
   belongs_to :candidate
+  belongs_to :interview, optional: true
 
   has_many :answers_to_dimensions, class_name: 'Answer', foreign_key: "result_id"
 
