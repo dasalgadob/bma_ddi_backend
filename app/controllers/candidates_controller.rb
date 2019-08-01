@@ -2,6 +2,7 @@ class CandidatesController < ApplicationController
   include Pagy::Backend
   before_action :set_candidate, only: [:show, :update, :destroy]
   has_scope :by_name, :by_email
+  before_action  :authenticate_user!, only: [:create]
 
 
   # GET /candidates

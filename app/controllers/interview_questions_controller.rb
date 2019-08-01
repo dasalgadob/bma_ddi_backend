@@ -1,6 +1,8 @@
 class InterviewQuestionsController < ApplicationController
   before_action :set_interview_question, only: [:show, :update, :destroy]
 
+  before_action  :authenticate_user!, only: [:create]
+
   # GET /interview_questions
   def index
     @interview_questions = InterviewQuestion.all

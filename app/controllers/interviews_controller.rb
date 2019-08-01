@@ -1,6 +1,6 @@
 class InterviewsController < ApplicationController
 
-  before_action  :authenticate_user!, only: [:create]
+  before_action  :authenticate_user!, only: [:create, :update]
 
   include Pagy::Backend
   #helper_method :sort_column, :sort_direction

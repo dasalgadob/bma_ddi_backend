@@ -1,4 +1,6 @@
 class AnswersController < ApplicationController
+
+  before_action  :authenticate_user!, only: [:create, :update]
   before_action :set_answer, only: [:show, :update, :destroy]
 
   # GET /answers
