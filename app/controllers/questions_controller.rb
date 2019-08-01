@@ -6,9 +6,9 @@ class QuestionsController < ApplicationController
 
   # GET /questions
   def index
-    @questions = apply_scopes(Question.all)
+    @questions = apply_scopes(Question.order(sort_column + " " + sort_direction))
 
-    render json: @questions
+    render json: QuestionSerializer.new(@questions).serialized_json
   end
 
   # GET /questions/1
@@ -50,5 +50,14 @@ class QuestionsController < ApplicationController
     # Only allow a trusted parameter "white list" through.
     def question_params
       params.require(:question).permit(:name, :description, :code, :translation_id, :translation_b_id, :mandatory)
+    end
+
+    def sort_column
+      Question.column_names.include?(params[:sort]) ? params[:sort] : "created_at"
+    end
+
+    def sort_direction
+      %w[asc desc].include?(params[:direction]) ? params[:direction] : "desc
+      "
     end
 end
