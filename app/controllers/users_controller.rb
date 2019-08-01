@@ -1,6 +1,8 @@
 class UsersController < ApplicationController
   before_action :set_user, only: [:show, :update, :destroy]
 
+  before_action  :authenticate_user!, only: [:index, :update]
+
   # GET /users
   def index
     @users = User.all
@@ -25,7 +27,9 @@ class UsersController < ApplicationController
   end
 
   # PATCH/PUT /users/1
+  ##Only makes the update of the disabled field
   def update
+    @user.tokens = nil
     if @user.update(user_params)
       render json: @user
     else
@@ -46,6 +50,6 @@ class UsersController < ApplicationController
 
     # Only allow a trusted parameter "white list" through.
     def user_params
-      params.fetch(:user, {})
+      params.require(:user).permit(:is_disabled)
     end
 end

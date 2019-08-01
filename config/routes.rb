@@ -13,6 +13,6 @@ Rails.application.routes.draw do
   #  sessions: 'users/sessions',
   #  registrations: 'users/registrations'
   #}
-  resources :users, only: [:index]
+  resources :users, only: [:index, :update]
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end
