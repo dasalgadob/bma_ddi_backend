@@ -5,7 +5,11 @@ class UsersController < ApplicationController
 
   # GET /users
   def index
-    @users = User.all
+    if current_user.admin
+      @users = User.all.order("id desc")
+    else
+      @users = User.where(id: current_user.id)
+    end
 
     render json: @users
   end
@@ -33,7 +37,9 @@ class UsersController < ApplicationController
     puts @user.id
     puts current_user.id
     if current_user.admin || @user.id == current_user.id
-      @user.tokens = nil
+      if user_params['is_disabled']
+        @user.tokens = nil
+      end
       if @user.update(user_params)
         render json: @user
       else
@@ -57,6 +63,6 @@ class UsersController < ApplicationController
 
     # Only allow a trusted parameter "white list" through.
     def user_params
-      params.require(:user).permit(:is_disabled, :password, :password_confirmation)
+      params.require(:user).permit(:is_disabled, :password, :password_confirmation, :name, :last_name, :email, :admin)
     end
 end
