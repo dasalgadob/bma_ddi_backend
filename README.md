@@ -20,6 +20,10 @@ rails db:setup
 rails db:migrate
 * How to run the test suite
 
+heroku pg:reset DB
+
+heroku run rake db:migrate  
+
 
 heroku pg:psql --app bma-ddi-backend < db/backup/users.sql
 
