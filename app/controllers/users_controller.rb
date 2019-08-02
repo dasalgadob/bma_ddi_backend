@@ -29,9 +29,16 @@ class UsersController < ApplicationController
   # PATCH/PUT /users/1
   ##Only makes the update of the disabled field
   def update
-    @user.tokens = nil
-    if @user.update(user_params)
-      render json: @user
+    puts "current user"
+    puts @user.id
+    puts current_user.id
+    if current_user.admin || @user.id == current_user.id
+      @user.tokens = nil
+      if @user.update(user_params)
+        render json: @user
+      else
+        render json: @user.errors, status: :unprocessable_entity
+      end
     else
       render json: @user.errors, status: :unprocessable_entity
     end
@@ -50,6 +57,6 @@ class UsersController < ApplicationController
 
     # Only allow a trusted parameter "white list" through.
     def user_params
-      params.require(:user).permit(:is_disabled)
+      params.require(:user).permit(:is_disabled, :password, :password_confirmation)
     end
 end
