@@ -4,17 +4,31 @@ wb = xlsx_package.workbook
 
 wb.add_worksheet(name: "Resultados") do |sheet|
   # this is the head row of your spreadsheet
-  sheet.add_row %w(id Compañia Posición SalarioBase Beneficios ExpectaticaSalarial AreasGeograficas Completada FechaCreacion)
+  sheet.add_row %w(id Candidato EmailCandidato Entrevistador Compañia Posición SalarioBase Beneficios ExpectaticaSalarial AreasGeograficas Completada FechaCreacion)
 
   # each user is a row on your spreadsheet
   @results.each do |res|
   completed=""
+  full_name =""
     if res.is_not_finished
         completed = "F"
     else
         completed ="V"
     end
-    sheet.add_row [res.id, res.company, res.position, res.base_salary, res.benefits, res.salary_expectations,
+    if res.user!= nil && res.user.last_name != nil
+      full_name = res.user.name + " " + res.user.last_name
+    else
+      full_name = res.user.name
+    end
+    candName = ""
+      candEmail = ""
+    if res.candidate != '' && res.candidate != nil
+      candName = res.candidate.name
+      candEmail = res.candidate.email
+    end
+
+    sheet.add_row [res.id, candName, candEmail, full_name,
+      res.company, res.position, res.base_salary, res.benefits, res.salary_expectations,
                     res.geographical_areas, completed, res.created_at.strftime("%Y/%m/%d")
                     ]
   end
