@@ -20,12 +20,12 @@ class Interview < ApplicationRecord
   #attr_reader
   def dimensions
     Interview.execute_sql("
-    select t.spanish,d.id, count(*) from interviews 
+    select t.spanish,t.english,d.id, count(*) from interviews 
     join interview_questions on (interviews.id = interview_questions.interview_id)
     join questions q on (interview_questions.question_id = q.id)
     join dimensions d on (q.dimension_id = d.id)
     join translations t on (d.name_id = t.id)
-    where interviews.id=? and d.id <> 43 group by d.id, t.spanish
+    where interviews.id=? and d.id <> 43 group by d.id, t.spanish, t.english
     ", self.id)
   end
 

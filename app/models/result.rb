@@ -20,12 +20,12 @@ class Result < ApplicationRecord
    #attr_reader
   def dimensions
     Result.execute_sql("
-    select t.spanish,d.id, count(*) from results r
+    select t.spanish, t.english, d.id, count(*) from results r
     join answers a on (r.id = a.result_id)
     join questions q on (a.question_id = q.id)
     join dimensions d on (q.dimension_id = d.id)
     join translations t on (d.name_id = t.id)
-    where r.id=? and d.id <> 43 group by d.id, t.spanish
+    where r.id=? and d.id <> 43 group by d.id, t.spanish, t.english
     ", self.id)
   end
 
