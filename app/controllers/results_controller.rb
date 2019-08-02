@@ -4,7 +4,7 @@ class ResultsController < ApplicationController
 
   include Pagy::Backend
   before_action :set_result, only: [:show, :update, :destroy]
-  has_scope :by_position, :by_company, :by_interviewer, :by_candidate
+  has_scope :by_position, :by_company, :by_interviewer, :by_candidate, :by_any
 
 
   # GET /results

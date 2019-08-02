@@ -11,7 +11,10 @@ class Result < ApplicationRecord
   scope :by_company, ->(c) { where("results.company ilike ?", '%' +c + '%')}
   scope :by_interviewer, ->(int) { joins(:user).where("users.name ilike ? or users.last_name ilike ? or users.email ilike ?",'%' +int + '%','%' +int + '%','%' +int + '%')}
   scope :by_candidate, ->(c) { joins(:candidate).where("candidates.name ilike ?  or candidates.email ilike ?",'%' +c + '%','%' +c + '%')}
-
+  scope :by_any, ->(s) {joins(:candidate, :user).where("results.position ilike ?  or results.base_salary ilike ? or results.benefits ilike ? or results.salary_expectations ilike ?"+
+   " or results.geographical_areas ilike ? or results.company ilike ? or candidates.name ilike ?  or candidates.email ilike ? "+
+   "or users.name ilike ? or users.last_name ilike ? or users.email ilike ?",
+  '%' +s + '%','%' +s + '%', '%' +s + '%', '%' +s + '%', '%' +s + '%', '%' +s + '%', '%' +s + '%', '%' +s + '%', '%' +s + '%', '%' +s + '%', '%' +s + '%' )}
   def self.execute_sql(*sql_array)
     connection.execute(send(:sanitize_sql_array, sql_array))
    end
