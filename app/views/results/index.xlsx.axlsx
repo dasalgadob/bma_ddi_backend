@@ -4,7 +4,7 @@ wb = xlsx_package.workbook
 
 wb.add_worksheet(name: "Resultados") do |sheet|
   # this is the head row of your spreadsheet
-  sheet.add_row %w(id Candidato EmailCandidato Entrevistador Compañia Posición SalarioBase Beneficios ExpectaticaSalarial PaisDondeReside AreasGeograficas Completada FechaCreacion)
+  sheet.add_row %w(id Candidato EmailCandidato TelefonoCandidato Entrevistador Compañia Posición SalarioBase Beneficios ExpectaticaSalarial PaisDondeReside AreasGeograficas Completada FechaCreacion)
 
   # each user is a row on your spreadsheet
   @results.each do |res|
@@ -27,7 +27,7 @@ wb.add_worksheet(name: "Resultados") do |sheet|
       candEmail = res.candidate.email
     end
 
-    sheet.add_row [res.id, candName, candEmail, full_name,
+    sheet.add_row [res.id, candName, candEmail,res.phone_number, full_name,
       res.company, res.position, res.base_salary, res.benefits, res.salary_expectations, res.country_of_residence,
                     res.geographical_areas, completed, res.created_at.strftime("%Y/%m/%d")
                     ]
