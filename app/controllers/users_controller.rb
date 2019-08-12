@@ -43,10 +43,11 @@ class UsersController < ApplicationController
       if @user.update(user_params)
         render json: @user
       else
+        puts @user.errors.full_messages
         render json: @user.errors, status: :unprocessable_entity
       end
     else
-      render json: @user.errors, status: :unprocessable_entity
+      render json: @user.errors, status: :bad_request
     end
   end
 
