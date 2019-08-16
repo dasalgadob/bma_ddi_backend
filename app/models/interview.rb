@@ -2,7 +2,7 @@ class Interview < ApplicationRecord
   serialize :dimentions, JSON
   serialize :motivational_questions, JSON
   belongs_to :user
-  has_many :interview_questions
+  has_many :interview_questions, dependent: :destroy
   has_many :questions, through: :interview_questions
   has_many :results, dependent: :nullify
 
