@@ -5,7 +5,7 @@ class Result < ApplicationRecord
   belongs_to :candidate
   belongs_to :interview, optional: true
 
-  has_many :answers_to_dimensions, class_name: 'Answer', foreign_key: "result_id"
+  has_many :answers_to_dimensions, class_name: 'Answer', foreign_key: "result_id", dependent: :destroy
 
   scope :by_position, ->(p) { where("results.position ilike ?", '%' +p + '%')}
   scope :by_company, ->(c) { where("results.company ilike ?", '%' +c + '%')}
