@@ -14,7 +14,7 @@ class ResultsController < ApplicationController
       format.json {
         @results = pagy(apply_scopes(Result.order(sort_column + " " + sort_direction)), items: params[:items])
 
-        render json: @results.as_json(include: [:user, :candidate])
+        render json: @results.as_json(include: [:user, :candidate], methods: :score)
         #render json: [@results[0],ResultSerializer.new(@results[1], include: [ :answers_to_dimensions])]
       }
       format.xlsx {

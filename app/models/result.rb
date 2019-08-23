@@ -32,4 +32,18 @@ class Result < ApplicationRecord
     ", self.id)
   end
 
+  def score
+    Result.execute_sql(
+      "
+      select avg(sub.average) from (
+      select t.spanish, t.english, d.id, avg(a.rating) as average from results r
+      join answers a on (r.id = a.result_id)
+      join questions q on (a.question_id = q.id)
+      join dimensions d on (q.dimension_id = d.id)
+      join translations t on (d.name_id = t.id)
+      where r.id=? and d.id <> 43 group by d.id, t.spanish, t.english) as sub
+      ", self.id
+    )
+  end
+
 end
