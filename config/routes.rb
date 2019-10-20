@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :employees
+  resources :business_units
   resources :answers
   resources :interview_questions
   resources :questions
