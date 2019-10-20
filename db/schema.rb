@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_10_20_015002) do
+ActiveRecord::Schema.define(version: 2019_10_20_020456) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -44,6 +44,19 @@ ActiveRecord::Schema.define(version: 2019_10_20_015002) do
     t.string "email"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+  end
+
+  create_table "contract_renewal_employees", force: :cascade do |t|
+    t.boolean "email_sent"
+    t.boolean "form_submitted"
+    t.datetime "email_sent_at"
+    t.datetime "form_submitted_at"
+    t.bigint "contract_renewal_list_id"
+    t.bigint "employee_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["contract_renewal_list_id"], name: "index_contract_renewal_employees_on_contract_renewal_list_id"
+    t.index ["employee_id"], name: "index_contract_renewal_employees_on_employee_id"
   end
 
   create_table "contract_renewal_lists", force: :cascade do |t|
@@ -171,6 +184,8 @@ ActiveRecord::Schema.define(version: 2019_10_20_015002) do
 
   add_foreign_key "answers", "questions"
   add_foreign_key "answers", "results"
+  add_foreign_key "contract_renewal_employees", "contract_renewal_lists"
+  add_foreign_key "contract_renewal_employees", "employees"
   add_foreign_key "contract_renewal_lists", "users"
   add_foreign_key "dimensions", "translations", column: "actions_id"
   add_foreign_key "dimensions", "translations", column: "description_id"
