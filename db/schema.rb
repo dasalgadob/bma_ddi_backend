@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_08_12_185017) do
+ActiveRecord::Schema.define(version: 2019_10_20_015002) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -32,11 +32,27 @@ ActiveRecord::Schema.define(version: 2019_08_12_185017) do
     t.index ["result_id"], name: "index_answers_on_result_id"
   end
 
+  create_table "business_units", force: :cascade do |t|
+    t.string "code"
+    t.string "name"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
   create_table "candidates", force: :cascade do |t|
     t.string "name"
     t.string "email"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+  end
+
+  create_table "contract_renewal_lists", force: :cascade do |t|
+    t.string "name"
+    t.string "description"
+    t.bigint "user_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["user_id"], name: "index_contract_renewal_lists_on_user_id"
   end
 
   create_table "dimensions", force: :cascade do |t|
@@ -48,6 +64,16 @@ ActiveRecord::Schema.define(version: 2019_08_12_185017) do
     t.index ["actions_id"], name: "index_dimensions_on_actions_id"
     t.index ["description_id"], name: "index_dimensions_on_description_id"
     t.index ["name_id"], name: "index_dimensions_on_name_id"
+  end
+
+  create_table "employees", force: :cascade do |t|
+    t.string "full_name"
+    t.string "email"
+    t.bigint "business_unit_id"
+    t.integer "number_employee"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["business_unit_id"], name: "index_employees_on_business_unit_id"
   end
 
   create_table "interview_questions", force: :cascade do |t|
@@ -145,9 +171,11 @@ ActiveRecord::Schema.define(version: 2019_08_12_185017) do
 
   add_foreign_key "answers", "questions"
   add_foreign_key "answers", "results"
+  add_foreign_key "contract_renewal_lists", "users"
   add_foreign_key "dimensions", "translations", column: "actions_id"
   add_foreign_key "dimensions", "translations", column: "description_id"
   add_foreign_key "dimensions", "translations", column: "name_id"
+  add_foreign_key "employees", "business_units"
   add_foreign_key "interview_questions", "interviews"
   add_foreign_key "interview_questions", "questions"
   add_foreign_key "interviews", "users"
