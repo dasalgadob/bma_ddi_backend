@@ -1,11 +1,16 @@
 class ContractRenewalListsController < ApplicationController
+
+  include Pagy::Backend
+
   before_action :set_contract_renewal_list, only: [:show, :update, :destroy]
 
   # GET /contract_renewal_lists
   def index
-    @contract_renewal_lists = ContractRenewalList.all
+    @contract_renewal_lists = pagy(
+                                    apply_scopes(ContractRenewalList.all), items: params[:items]
+                                  )
 
-    render json: @contract_renewal_lists
+    render json: @contract_renewal_lists.as_json(include: [:user])
   end
 
   # GET /contract_renewal_lists/1
