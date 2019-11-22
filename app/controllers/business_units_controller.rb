@@ -5,7 +5,7 @@ class BusinessUnitsController < ApplicationController
   def index
     @business_units = BusinessUnit.all
 
-    render json: @business_units
+    render json: BusinessUnitSerializer.new(@business_units).serialized_json
   end
 
   # GET /business_units/1
