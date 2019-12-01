@@ -20,7 +20,9 @@ class ContractRenewalListsController < ApplicationController
 
   # POST /contract_renewal_lists
   def create
-    @contract_renewal_list = ContractRenewalList.new(contract_renewal_list_params)
+    @contract_renewal_list = ContractRenewalList.new(contract_renewal_list_params.except(:user))
+    @user = User.where(uid: contract_renewal_list_params[:user] ).first
+    @contract_renewal_list.user_id = @user.id
 
     if @contract_renewal_list.save
       render json: @contract_renewal_list, status: :created, location: @contract_renewal_list
@@ -51,6 +53,6 @@ class ContractRenewalListsController < ApplicationController
 
     # Only allow a trusted parameter "white list" through.
     def contract_renewal_list_params
-      params.require(:contract_renewal_list).permit(:name, :description, :user_id)
+      params.require(:contract_renewal_list).permit(:name, :description, :user_id, :user)
     end
 end
