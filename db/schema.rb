@@ -47,8 +47,8 @@ ActiveRecord::Schema.define(version: 2019_11_22_195841) do
   end
 
   create_table "contract_renewal_employees", force: :cascade do |t|
-    t.boolean "email_sent"
-    t.boolean "form_submitted"
+    t.boolean "email_sent", default: false
+    t.boolean "form_submitted", default: false
     t.datetime "email_sent_at"
     t.datetime "form_submitted_at"
     t.bigint "contract_renewal_list_id"

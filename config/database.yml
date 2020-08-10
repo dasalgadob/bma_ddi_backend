@@ -17,6 +17,7 @@
 default: &default
   adapter: postgresql
   encoding: unicode
+  host: db
   # For details on connection pooling, see Rails configuration guide
   # http://guides.rubyonrails.org/configuring.html#database-pooling
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
@@ -24,8 +25,10 @@ default: &default
 development:
   <<: *default
   database: bma_ddi_backend_development
-  username: <%= ENV['USERNAME_DEV']%>
-  password: <%= ENV['BMA_DDI_BACKEND_DATABASE_PASSWORD_DEV']%>
+  #username: <%= ENV['USERNAME_DEV']%>
+  username: postgres
+  password: password
+  #password: <%= ENV['BMA_DDI_BACKEND_DATABASE_PASSWORD_DEV']%>
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
@@ -60,8 +63,10 @@ development:
 test:
   <<: *default
   database: bma_ddi_backend_test
-  username: <%= ENV['USERNAME_TEST']%>
-  password: <%= ENV['BMA_DDI_BACKEND_DATABASE_PASSWORD_TEST']%>
+  #username: <%= ENV['USERNAME_TEST']%>
+  username: postgres
+  password: password
+  #password: <%= ENV['BMA_DDI_BACKEND_DATABASE_PASSWORD_TEST']%>
 # As with config/secrets.yml, you never want to store sensitive information,
 # like your database password, in your source code. If your source code is
 # ever seen by anyone, they now have access to your database.
@@ -84,5 +89,7 @@ test:
 production:
   <<: *default
   database: bma_ddi_backend_production
-  username: bma_ddi_backend
-  password: <%= ENV['BMA_DDI_BACKEND_DATABASE_PASSWORD'] %>
+  #username: bma_ddi_backend
+  username: postgres
+  password: password
+  #password: <%= ENV['BMA_DDI_BACKEND_DATABASE_PASSWORD'] %>
