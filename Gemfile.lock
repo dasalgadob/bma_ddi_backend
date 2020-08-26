@@ -75,6 +75,8 @@ GEM
       rails (>= 4.2.0, < 6)
     diff-lcs (1.4.4)
     erubi (1.8.0)
+    faker (2.13.0)
+      i18n (>= 1.6, < 2)
     fast_jsonapi (1.4)
       activesupport (>= 4.2)
     ffi (1.11.1)
@@ -205,6 +207,7 @@ DEPENDENCIES
   byebug
   devise
   devise_token_auth
+  faker
   fast_jsonapi
   has_scope
   json
